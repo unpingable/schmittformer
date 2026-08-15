@@ -1,0 +1,935 @@
+{
+  "counterexamples": [
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "edge",
+      "event": 2,
+      "expected": {
+        "next_state": {
+          "action_budget": 0,
+          "authority": 0,
+          "lease_remaining": 0,
+          "occurrence": 0,
+          "settlement": 0
+        },
+        "output": 1
+      },
+      "index": 2,
+      "score_gap": 2.0,
+      "state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "edge",
+      "event": 8,
+      "expected": {
+        "next_state": {
+          "action_budget": 0,
+          "authority": 1,
+          "lease_remaining": 0,
+          "occurrence": 0,
+          "settlement": 0
+        },
+        "output": 7
+      },
+      "index": 8,
+      "score_gap": 2.0,
+      "state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "edge",
+      "event": 10,
+      "expected": {
+        "next_state": {
+          "action_budget": 0,
+          "authority": 0,
+          "lease_remaining": 65535,
+          "occurrence": 0,
+          "settlement": 0
+        },
+        "output": 7
+      },
+      "index": 10,
+      "score_gap": 2.0,
+      "state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "edge",
+      "event": 11,
+      "expected": {
+        "next_state": {
+          "action_budget": 0,
+          "authority": 0,
+          "lease_remaining": 1,
+          "occurrence": 0,
+          "settlement": 0
+        },
+        "output": 7
+      },
+      "index": 11,
+      "score_gap": 2.0,
+      "state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "edge",
+      "event": 12,
+      "expected": {
+        "next_state": {
+          "action_budget": 255,
+          "authority": 0,
+          "lease_remaining": 0,
+          "occurrence": 0,
+          "settlement": 0
+        },
+        "output": 7
+      },
+      "index": 12,
+      "score_gap": 2.0,
+      "state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      }
+    },
+    {
+      "actual_output": 6,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 13,
+      "expected": {
+        "next_state": {
+          "action_budget": 1,
+          "authority": 0,
+          "lease_remaining": 44923,
+          "occurrence": 0,
+          "settlement": 2
+        },
+        "output": 7
+      },
+      "index": 0,
+      "score_gap": 2.0,
+      "state": {
+        "action_budget": 191,
+        "authority": 0,
+        "lease_remaining": 44923,
+        "occurrence": 0,
+        "settlement": 2
+      }
+    },
+    {
+      "actual_output": 6,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 5,
+      "expected": {
+        "next_state": {
+          "action_budget": 40,
+          "authority": 0,
+          "lease_remaining": 24438,
+          "occurrence": 2,
+          "settlement": 0
+        },
+        "output": 7
+      },
+      "index": 1,
+      "score_gap": 2.0,
+      "state": {
+        "action_budget": 40,
+        "authority": 0,
+        "lease_remaining": 24438,
+        "occurrence": 1,
+        "settlement": 1
+      }
+    },
+    {
+      "actual_output": 6,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 11,
+      "expected": {
+        "next_state": {
+          "action_budget": 8,
+          "authority": 1,
+          "lease_remaining": 1,
+          "occurrence": 2,
+          "settlement": 0
+        },
+        "output": 7
+      },
+      "index": 2,
+      "score_gap": 2.0,
+      "state": {
+        "action_budget": 8,
+        "authority": 1,
+        "lease_remaining": 28797,
+        "occurrence": 2,
+        "settlement": 0
+      }
+    },
+    {
+      "actual_output": 6,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 0,
+      "expected": {
+        "next_state": {
+          "action_budget": 98,
+          "authority": 1,
+          "lease_remaining": 30301,
+          "occurrence": 0,
+          "settlement": 2
+        },
+        "output": 7
+      },
+      "index": 3,
+      "score_gap": 2.0,
+      "state": {
+        "action_budget": 98,
+        "authority": 1,
+        "lease_remaining": 30301,
+        "occurrence": 0,
+        "settlement": 2
+      }
+    },
+    {
+      "actual_output": 6,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 4,
+      "expected": {
+        "next_state": {
+          "action_budget": 102,
+          "authority": 0,
+          "lease_remaining": 3072,
+          "occurrence": 0,
+          "settlement": 2
+        },
+        "output": 7
+      },
+      "index": 4,
+      "score_gap": 2.0,
+      "state": {
+        "action_budget": 102,
+        "authority": 0,
+        "lease_remaining": 3072,
+        "occurrence": 1,
+        "settlement": 0
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "edge",
+      "event": 2,
+      "expected": {
+        "next_state": {
+          "action_budget": 0,
+          "authority": 0,
+          "lease_remaining": 0,
+          "occurrence": 0,
+          "settlement": 0
+        },
+        "output": 1
+      },
+      "index": 2,
+      "score_gap": 4.0,
+      "state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "edge",
+      "event": 0,
+      "expected": {
+        "next_state": {
+          "action_budget": 0,
+          "authority": 0,
+          "lease_remaining": 0,
+          "occurrence": 0,
+          "settlement": 1
+        },
+        "output": 7
+      },
+      "index": 14,
+      "score_gap": 4.0,
+      "state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 1
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "edge",
+      "event": 1,
+      "expected": {
+        "next_state": {
+          "action_budget": 0,
+          "authority": 0,
+          "lease_remaining": 0,
+          "occurrence": 0,
+          "settlement": 1
+        },
+        "output": 7
+      },
+      "index": 15,
+      "score_gap": 4.0,
+      "state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 1
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "edge",
+      "event": 2,
+      "expected": {
+        "next_state": {
+          "action_budget": 0,
+          "authority": 0,
+          "lease_remaining": 0,
+          "occurrence": 0,
+          "settlement": 1
+        },
+        "output": 1
+      },
+      "index": 16,
+      "score_gap": 4.0,
+      "state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 1
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "edge",
+      "event": 3,
+      "expected": {
+        "next_state": {
+          "action_budget": 0,
+          "authority": 0,
+          "lease_remaining": 0,
+          "occurrence": 0,
+          "settlement": 1
+        },
+        "output": 7
+      },
+      "index": 17,
+      "score_gap": 4.0,
+      "state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 1
+      }
+    },
+    {
+      "actual_output": 6,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 13,
+      "expected": {
+        "next_state": {
+          "action_budget": 1,
+          "authority": 0,
+          "lease_remaining": 44923,
+          "occurrence": 0,
+          "settlement": 2
+        },
+        "output": 7
+      },
+      "index": 0,
+      "score_gap": 4.0,
+      "state": {
+        "action_budget": 191,
+        "authority": 0,
+        "lease_remaining": 44923,
+        "occurrence": 0,
+        "settlement": 2
+      }
+    },
+    {
+      "actual_output": 6,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 5,
+      "expected": {
+        "next_state": {
+          "action_budget": 40,
+          "authority": 0,
+          "lease_remaining": 24438,
+          "occurrence": 2,
+          "settlement": 0
+        },
+        "output": 7
+      },
+      "index": 1,
+      "score_gap": 4.0,
+      "state": {
+        "action_budget": 40,
+        "authority": 0,
+        "lease_remaining": 24438,
+        "occurrence": 1,
+        "settlement": 1
+      }
+    },
+    {
+      "actual_output": 6,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 11,
+      "expected": {
+        "next_state": {
+          "action_budget": 8,
+          "authority": 1,
+          "lease_remaining": 1,
+          "occurrence": 2,
+          "settlement": 0
+        },
+        "output": 7
+      },
+      "index": 2,
+      "score_gap": 4.0,
+      "state": {
+        "action_budget": 8,
+        "authority": 1,
+        "lease_remaining": 28797,
+        "occurrence": 2,
+        "settlement": 0
+      }
+    },
+    {
+      "actual_output": 6,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 0,
+      "expected": {
+        "next_state": {
+          "action_budget": 98,
+          "authority": 1,
+          "lease_remaining": 30301,
+          "occurrence": 0,
+          "settlement": 2
+        },
+        "output": 7
+      },
+      "index": 3,
+      "score_gap": 4.0,
+      "state": {
+        "action_budget": 98,
+        "authority": 1,
+        "lease_remaining": 30301,
+        "occurrence": 0,
+        "settlement": 2
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 4,
+      "expected": {
+        "next_state": {
+          "action_budget": 102,
+          "authority": 0,
+          "lease_remaining": 3072,
+          "occurrence": 0,
+          "settlement": 2
+        },
+        "output": 7
+      },
+      "index": 4,
+      "score_gap": 4.0,
+      "state": {
+        "action_budget": 102,
+        "authority": 0,
+        "lease_remaining": 3072,
+        "occurrence": 1,
+        "settlement": 0
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 127,
+        "authority": 0,
+        "lease_remaining": 8191,
+        "occurrence": 0,
+        "settlement": 1
+      },
+      "dataset": "edge",
+      "event": 1,
+      "expected": {
+        "next_state": {
+          "action_budget": 127,
+          "authority": 0,
+          "lease_remaining": 32767,
+          "occurrence": 0,
+          "settlement": 1
+        },
+        "output": 7
+      },
+      "index": 4173,
+      "score_gap": 6.0,
+      "state": {
+        "action_budget": 127,
+        "authority": 0,
+        "lease_remaining": 32768,
+        "occurrence": 0,
+        "settlement": 1
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 127,
+        "authority": 0,
+        "lease_remaining": 8191,
+        "occurrence": 0,
+        "settlement": 2
+      },
+      "dataset": "edge",
+      "event": 1,
+      "expected": {
+        "next_state": {
+          "action_budget": 127,
+          "authority": 0,
+          "lease_remaining": 32767,
+          "occurrence": 0,
+          "settlement": 2
+        },
+        "output": 7
+      },
+      "index": 4187,
+      "score_gap": 6.0,
+      "state": {
+        "action_budget": 127,
+        "authority": 0,
+        "lease_remaining": 32768,
+        "occurrence": 0,
+        "settlement": 2
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 127,
+        "authority": 0,
+        "lease_remaining": 8191,
+        "occurrence": 1,
+        "settlement": 0
+      },
+      "dataset": "edge",
+      "event": 1,
+      "expected": {
+        "next_state": {
+          "action_budget": 127,
+          "authority": 0,
+          "lease_remaining": 32767,
+          "occurrence": 1,
+          "settlement": 0
+        },
+        "output": 7
+      },
+      "index": 4201,
+      "score_gap": 6.0,
+      "state": {
+        "action_budget": 127,
+        "authority": 0,
+        "lease_remaining": 32768,
+        "occurrence": 1,
+        "settlement": 0
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 127,
+        "authority": 0,
+        "lease_remaining": 4095,
+        "occurrence": 1,
+        "settlement": 1
+      },
+      "dataset": "edge",
+      "event": 1,
+      "expected": {
+        "next_state": {
+          "action_budget": 127,
+          "authority": 0,
+          "lease_remaining": 32767,
+          "occurrence": 1,
+          "settlement": 1
+        },
+        "output": 7
+      },
+      "index": 4215,
+      "score_gap": 6.0,
+      "state": {
+        "action_budget": 127,
+        "authority": 0,
+        "lease_remaining": 32768,
+        "occurrence": 1,
+        "settlement": 1
+      }
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 127,
+        "authority": 0,
+        "lease_remaining": 4095,
+        "occurrence": 1,
+        "settlement": 2
+      },
+      "dataset": "edge",
+      "event": 1,
+      "expected": {
+        "next_state": {
+          "action_budget": 127,
+          "authority": 0,
+          "lease_remaining": 32767,
+          "occurrence": 1,
+          "settlement": 2
+        },
+        "output": 7
+      },
+      "index": 4229,
+      "score_gap": 6.0,
+      "state": {
+        "action_budget": 127,
+        "authority": 0,
+        "lease_remaining": 32768,
+        "occurrence": 1,
+        "settlement": 2
+      }
+    },
+    {
+      "actual_output": 0,
+      "actual_state": {
+        "action_budget": 40,
+        "authority": 1,
+        "lease_remaining": 42739,
+        "occurrence": 1,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 2,
+      "expected": {
+        "next_state": {
+          "action_budget": 41,
+          "authority": 1,
+          "lease_remaining": 42739,
+          "occurrence": 1,
+          "settlement": 0
+        },
+        "output": 0
+      },
+      "index": 9,
+      "score_gap": 6.0,
+      "state": {
+        "action_budget": 42,
+        "authority": 1,
+        "lease_remaining": 42739,
+        "occurrence": 0,
+        "settlement": 1
+      }
+    },
+    {
+      "actual_output": 0,
+      "actual_state": {
+        "action_budget": 217,
+        "authority": 1,
+        "lease_remaining": 58886,
+        "occurrence": 1,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 2,
+      "expected": {
+        "next_state": {
+          "action_budget": 219,
+          "authority": 1,
+          "lease_remaining": 58886,
+          "occurrence": 1,
+          "settlement": 0
+        },
+        "output": 0
+      },
+      "index": 64,
+      "score_gap": 6.0,
+      "state": {
+        "action_budget": 220,
+        "authority": 1,
+        "lease_remaining": 58886,
+        "occurrence": 0,
+        "settlement": 1
+      }
+    },
+    {
+      "actual_output": 0,
+      "actual_state": {
+        "action_budget": 224,
+        "authority": 1,
+        "lease_remaining": 26427,
+        "occurrence": 1,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 2,
+      "expected": {
+        "next_state": {
+          "action_budget": 225,
+          "authority": 1,
+          "lease_remaining": 26427,
+          "occurrence": 1,
+          "settlement": 0
+        },
+        "output": 0
+      },
+      "index": 510,
+      "score_gap": 6.0,
+      "state": {
+        "action_budget": 226,
+        "authority": 1,
+        "lease_remaining": 26427,
+        "occurrence": 0,
+        "settlement": 1
+      }
+    },
+    {
+      "actual_output": 0,
+      "actual_state": {
+        "action_budget": 97,
+        "authority": 1,
+        "lease_remaining": 12907,
+        "occurrence": 1,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 2,
+      "expected": {
+        "next_state": {
+          "action_budget": 111,
+          "authority": 1,
+          "lease_remaining": 12907,
+          "occurrence": 1,
+          "settlement": 0
+        },
+        "output": 0
+      },
+      "index": 745,
+      "score_gap": 6.0,
+      "state": {
+        "action_budget": 112,
+        "authority": 1,
+        "lease_remaining": 12907,
+        "occurrence": 0,
+        "settlement": 0
+      }
+    },
+    {
+      "actual_output": 0,
+      "actual_state": {
+        "action_budget": 46,
+        "authority": 1,
+        "lease_remaining": 16085,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "dataset": "random",
+      "event": 2,
+      "expected": {
+        "next_state": {
+          "action_budget": 46,
+          "authority": 1,
+          "lease_remaining": 16085,
+          "occurrence": 1,
+          "settlement": 0
+        },
+        "output": 0
+      },
+      "index": 1092,
+      "score_gap": 6.0,
+      "state": {
+        "action_budget": 47,
+        "authority": 1,
+        "lease_remaining": 16085,
+        "occurrence": 0,
+        "settlement": 1
+      }
+    }
+  ],
+  "schema": "schmittformer.stock_transformer_closure.v1"
+}

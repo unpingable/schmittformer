@@ -1,0 +1,44 @@
+{
+  "adversarial": {
+    "batch_size": 4096,
+    "checked": 21168,
+    "device": "cuda",
+    "dtype": "float32",
+    "failures": 0,
+    "first_failures": [],
+    "max_state_error_before_decode": 0.13430559635162354,
+    "min_output_margin": 25.352203369140625,
+    "min_state_bit_margin": 0.36569440364837646,
+    "passed": true,
+    "score_gap": 8.0
+  },
+  "edge": {
+    "batch_size": 4096,
+    "checked": 10584,
+    "device": "cuda",
+    "dtype": "float32",
+    "failures": 0,
+    "first_failures": [],
+    "max_state_error_before_decode": 0.13430571556091309,
+    "min_output_margin": 25.352203369140625,
+    "min_state_bit_margin": 0.3656942844390869,
+    "passed": true,
+    "score_gap": 8.0
+  },
+  "elapsed_seconds": 17.658358573913574,
+  "passed": true,
+  "random": {
+    "batch_size": 4096,
+    "checked": 200000,
+    "device": "cuda",
+    "dtype": "float32",
+    "failures": 0,
+    "first_failures": [],
+    "max_state_error_before_decode": 0.10717976093292236,
+    "min_output_margin": 26.62249755859375,
+    "min_state_bit_margin": 0.39282023906707764,
+    "passed": true,
+    "score_gap": 8.0
+  },
+  "schema": "schmittformer.stock_transformer_closure.v1"
+}

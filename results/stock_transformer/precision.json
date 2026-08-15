@@ -1,0 +1,177 @@
+{
+  "rows": [
+    {
+      "adversarial": {
+        "batch_size": 512,
+        "checked": 21168,
+        "device": "cpu",
+        "dtype": "float64",
+        "failures": 0,
+        "first_failures": [],
+        "max_state_error_before_decode": 0.13430555652947118,
+        "min_output_margin": 25.352205276489258,
+        "min_state_bit_margin": 0.36569446325302124,
+        "passed": true,
+        "score_gap": 8.0
+      },
+      "device": "cpu",
+      "dtype": "float64",
+      "edge": {
+        "batch_size": 512,
+        "checked": 10584,
+        "device": "cpu",
+        "dtype": "float64",
+        "failures": 0,
+        "first_failures": [],
+        "max_state_error_before_decode": 0.13430555652947118,
+        "min_output_margin": 25.352205276489258,
+        "min_state_bit_margin": 0.36569446325302124,
+        "passed": true,
+        "score_gap": 8.0
+      },
+      "random50k": {
+        "batch_size": 512,
+        "checked": 50000,
+        "device": "cpu",
+        "dtype": "float64",
+        "failures": 0,
+        "first_failures": [],
+        "max_state_error_before_decode": 0.0999021627386707,
+        "min_output_margin": 27.130596160888672,
+        "min_state_bit_margin": 0.4000978469848633,
+        "passed": true,
+        "score_gap": 8.0
+      }
+    },
+    {
+      "adversarial": {
+        "batch_size": 4096,
+        "checked": 21168,
+        "device": "cuda",
+        "dtype": "float32",
+        "failures": 0,
+        "first_failures": [],
+        "max_state_error_before_decode": 0.13430559635162354,
+        "min_output_margin": 25.352203369140625,
+        "min_state_bit_margin": 0.36569440364837646,
+        "passed": true,
+        "score_gap": 8.0
+      },
+      "device": "cuda",
+      "dtype": "float32",
+      "edge": {
+        "batch_size": 4096,
+        "checked": 10584,
+        "device": "cuda",
+        "dtype": "float32",
+        "failures": 0,
+        "first_failures": [],
+        "max_state_error_before_decode": 0.13430571556091309,
+        "min_output_margin": 25.352203369140625,
+        "min_state_bit_margin": 0.3656942844390869,
+        "passed": true,
+        "score_gap": 8.0
+      },
+      "random50k": {
+        "batch_size": 4096,
+        "checked": 50000,
+        "device": "cuda",
+        "dtype": "float32",
+        "failures": 0,
+        "first_failures": [],
+        "max_state_error_before_decode": 0.09990215301513672,
+        "min_output_margin": 27.130615234375,
+        "min_state_bit_margin": 0.4000978469848633,
+        "passed": true,
+        "score_gap": 8.0
+      }
+    },
+    {
+      "adversarial": {
+        "batch_size": 4096,
+        "checked": 21168,
+        "device": "cuda",
+        "dtype": "float16",
+        "failures": 0,
+        "first_failures": [],
+        "max_state_error_before_decode": 0.13720703125,
+        "min_output_margin": 25.34375,
+        "min_state_bit_margin": 0.36279296875,
+        "passed": true,
+        "score_gap": 8.0
+      },
+      "device": "cuda",
+      "dtype": "float16",
+      "edge": {
+        "batch_size": 4096,
+        "checked": 10584,
+        "device": "cuda",
+        "dtype": "float16",
+        "failures": 0,
+        "first_failures": [],
+        "max_state_error_before_decode": 0.13720703125,
+        "min_output_margin": 25.34375,
+        "min_state_bit_margin": 0.36279296875,
+        "passed": true,
+        "score_gap": 8.0
+      },
+      "random50k": {
+        "batch_size": 4096,
+        "checked": 50000,
+        "device": "cuda",
+        "dtype": "float16",
+        "failures": 0,
+        "first_failures": [],
+        "max_state_error_before_decode": 0.099609375,
+        "min_output_margin": 27.28125,
+        "min_state_bit_margin": 0.400390625,
+        "passed": true,
+        "score_gap": 8.0
+      }
+    },
+    {
+      "adversarial": {
+        "batch_size": 4096,
+        "checked": 21168,
+        "device": "cuda",
+        "dtype": "bfloat16",
+        "failures": 0,
+        "first_failures": [],
+        "max_state_error_before_decode": 0.14453125,
+        "min_output_margin": 25.25,
+        "min_state_bit_margin": 0.35546875,
+        "passed": true,
+        "score_gap": 8.0
+      },
+      "device": "cuda",
+      "dtype": "bfloat16",
+      "edge": {
+        "batch_size": 4096,
+        "checked": 10584,
+        "device": "cuda",
+        "dtype": "bfloat16",
+        "failures": 0,
+        "first_failures": [],
+        "max_state_error_before_decode": 0.14453125,
+        "min_output_margin": 25.25,
+        "min_state_bit_margin": 0.35546875,
+        "passed": true,
+        "score_gap": 8.0
+      },
+      "random50k": {
+        "batch_size": 4096,
+        "checked": 50000,
+        "device": "cuda",
+        "dtype": "bfloat16",
+        "failures": 0,
+        "first_failures": [],
+        "max_state_error_before_decode": 0.125,
+        "min_output_margin": 26.0,
+        "min_state_bit_margin": 0.375,
+        "passed": true,
+        "score_gap": 8.0
+      }
+    }
+  ],
+  "schema": "schmittformer.stock_transformer_closure.v1"
+}

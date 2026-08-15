@@ -1,0 +1,19 @@
+{
+  "checkpoint": "results/stock_transformer/stock_governance.pt",
+  "checkpoint_size_bytes": 119504135,
+  "passed": true,
+  "schema": "schmittformer.stock_transformer_closure.v1",
+  "validation": {
+    "batch_size": 1024,
+    "checked": 2048,
+    "device": "cuda",
+    "dtype": "float32",
+    "failures": 0,
+    "first_failures": [],
+    "max_state_error_before_decode": 0.09295499324798584,
+    "min_output_margin": 28.57025909423828,
+    "min_state_bit_margin": 0.40704500675201416,
+    "passed": true,
+    "score_gap": 8.0
+  }
+}

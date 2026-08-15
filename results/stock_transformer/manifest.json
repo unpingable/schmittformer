@@ -1,0 +1,13 @@
+{
+  "cuda_available": true,
+  "event_count": 14,
+  "executable": "/home/jbeck/git/trans/.venv-cuda/bin/python",
+  "gpu": "NVIDIA GeForce RTX 5060 Ti, 16311 MiB, 570.211.01",
+  "physical_input_width": 43,
+  "python": "3.12.3",
+  "revision": "a446c007e7a7373c3133c6d3204d575cabb176af",
+  "schema": "schmittformer.stock_transformer_closure.v1",
+  "state_width": 29,
+  "torch_cuda": "12.8",
+  "torch_version": "2.11.0+cu128"
+}

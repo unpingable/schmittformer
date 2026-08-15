@@ -1,0 +1,14 @@
+{
+  "attention": "torch.nn.MultiheadAttention",
+  "dtype": "float32",
+  "event_count": 14,
+  "ffn_blocks": 118,
+  "input_width": 43,
+  "logit_margin": 16.0,
+  "max_ffn_width": 743,
+  "output_count": 8,
+  "parameter_count": 29835345,
+  "schema": "schmittformer.stock_transformer_closure.v1",
+  "score_gap": 8.0,
+  "state_width": 29
+}

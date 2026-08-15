@@ -1,0 +1,62 @@
+{
+  "rows": [
+    {
+      "block_count": 22,
+      "checked": 65536,
+      "device": "cpu",
+      "dtype": "float64",
+      "max_abs_error_from_binary": 0.0,
+      "min_bit_margin": 0.5,
+      "nonzero_failures": 0,
+      "parameter_count": 88536,
+      "passed": true,
+      "semantic_failures": 0,
+      "width": 16,
+      "zero_failures": 0
+    },
+    {
+      "block_count": 22,
+      "checked": 65536,
+      "device": "cuda",
+      "dtype": "float32",
+      "max_abs_error_from_binary": 0.0,
+      "min_bit_margin": 0.5,
+      "nonzero_failures": 0,
+      "parameter_count": 88536,
+      "passed": true,
+      "semantic_failures": 0,
+      "width": 16,
+      "zero_failures": 0
+    },
+    {
+      "block_count": 22,
+      "checked": 65536,
+      "device": "cuda",
+      "dtype": "float16",
+      "max_abs_error_from_binary": 0.0,
+      "min_bit_margin": 0.5,
+      "nonzero_failures": 0,
+      "parameter_count": 88536,
+      "passed": true,
+      "semantic_failures": 0,
+      "width": 16,
+      "zero_failures": 0
+    },
+    {
+      "block_count": 22,
+      "checked": 65536,
+      "device": "cuda",
+      "dtype": "bfloat16",
+      "max_abs_error_from_binary": 0.0,
+      "min_bit_margin": 0.5,
+      "nonzero_failures": 0,
+      "parameter_count": 88536,
+      "passed": true,
+      "semantic_failures": 0,
+      "width": 16,
+      "zero_failures": 0
+    }
+  ],
+  "schema": "schmittformer.stock_transformer_closure.v1",
+  "width": 16
+}
