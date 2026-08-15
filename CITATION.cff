@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite it using this metadata."
+type: software
+title: "Schmittformer"
+abstract: "Research checkpoint exploring synthesized temporal and governance semantics inside transformer computation, including finite-softmax decoded exactness, fixed-width recurrent counters, SMT transition equivalence, and stock-transformer closure."
+authors:
+  - name: "Schmittformer contributors"
+repository-code: "https://github.com/unpingable/schmittformer"
+version: "schmittformer-research-v0"
+date-released: "2026-08-15"
+keywords:
+  - transformer-programs
+  - governance
+  - finite-state-machines
+  - softmax-attention
+  - recurrent-state
+  - formal-verification
+license: "NOASSERTION"
