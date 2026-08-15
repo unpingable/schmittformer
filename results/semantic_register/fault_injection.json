@@ -1,0 +1,242 @@
+[
+  {
+    "changed_decision_rate": 0.0,
+    "encoding": "binary_pair",
+    "invalid_detected_rate": 0.0,
+    "mode": "clean",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.0,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.6666666865348816,
+    "encoding": "binary_pair",
+    "invalid_detected_rate": 1.0,
+    "mode": "zero_vector",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.0,
+    "valid_rate": 0.0
+  },
+  {
+    "changed_decision_rate": 0.6666666865348816,
+    "encoding": "binary_pair",
+    "invalid_detected_rate": 1.0,
+    "mode": "nan",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.0,
+    "valid_rate": 0.0
+  },
+  {
+    "changed_decision_rate": 0.6666666865348816,
+    "encoding": "binary_pair",
+    "invalid_detected_rate": 1.0,
+    "mode": "large_out_of_domain",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.0,
+    "valid_rate": 0.0
+  },
+  {
+    "changed_decision_rate": 0.6666666865348816,
+    "encoding": "binary_pair",
+    "invalid_detected_rate": 0.0,
+    "mode": "bit_flip_witness",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 1.0,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.3333333432674408,
+    "encoding": "binary_pair",
+    "invalid_detected_rate": 0.0,
+    "mode": "bit_flip_scope",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 1.0,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.3333333432674408,
+    "encoding": "binary_pair",
+    "invalid_detected_rate": 0.0,
+    "mode": "partial_stale_witness_valid",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.5,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.1666666716337204,
+    "encoding": "binary_pair",
+    "invalid_detected_rate": 0.0,
+    "mode": "partial_stale_scope_a",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.5,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.0,
+    "encoding": "grouped_one_hot",
+    "invalid_detected_rate": 0.0,
+    "mode": "clean",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.0,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.6666666865348816,
+    "encoding": "grouped_one_hot",
+    "invalid_detected_rate": 1.0,
+    "mode": "zero_vector",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.0,
+    "valid_rate": 0.0
+  },
+  {
+    "changed_decision_rate": 0.6666666865348816,
+    "encoding": "grouped_one_hot",
+    "invalid_detected_rate": 1.0,
+    "mode": "nan",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.0,
+    "valid_rate": 0.0
+  },
+  {
+    "changed_decision_rate": 0.6666666865348816,
+    "encoding": "grouped_one_hot",
+    "invalid_detected_rate": 1.0,
+    "mode": "large_out_of_domain",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.0,
+    "valid_rate": 0.0
+  },
+  {
+    "changed_decision_rate": 0.6666666865348816,
+    "encoding": "grouped_one_hot",
+    "invalid_detected_rate": 0.0,
+    "mode": "bit_flip_witness",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 1.0,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.3333333432674408,
+    "encoding": "grouped_one_hot",
+    "invalid_detected_rate": 0.0,
+    "mode": "bit_flip_scope",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 1.0,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.3333333432674408,
+    "encoding": "grouped_one_hot",
+    "invalid_detected_rate": 0.0,
+    "mode": "partial_stale_witness_valid",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.5,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.1666666716337204,
+    "encoding": "grouped_one_hot",
+    "invalid_detected_rate": 0.0,
+    "mode": "partial_stale_scope_a",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.5,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.0,
+    "encoding": "joint_one_hot",
+    "invalid_detected_rate": 0.0,
+    "mode": "clean",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.0,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.6666666865348816,
+    "encoding": "joint_one_hot",
+    "invalid_detected_rate": 1.0,
+    "mode": "zero_vector",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.0,
+    "valid_rate": 0.0
+  },
+  {
+    "changed_decision_rate": 0.6666666865348816,
+    "encoding": "joint_one_hot",
+    "invalid_detected_rate": 1.0,
+    "mode": "nan",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.0,
+    "valid_rate": 0.0
+  },
+  {
+    "changed_decision_rate": 0.6666666865348816,
+    "encoding": "joint_one_hot",
+    "invalid_detected_rate": 1.0,
+    "mode": "large_out_of_domain",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.0,
+    "valid_rate": 0.0
+  },
+  {
+    "changed_decision_rate": 0.6666666865348816,
+    "encoding": "joint_one_hot",
+    "invalid_detected_rate": 0.0,
+    "mode": "bit_flip_witness",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 1.0,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.3333333432674408,
+    "encoding": "joint_one_hot",
+    "invalid_detected_rate": 0.0,
+    "mode": "bit_flip_scope",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 1.0,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.3333333432674408,
+    "encoding": "joint_one_hot",
+    "invalid_detected_rate": 0.0,
+    "mode": "partial_stale_witness_valid",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.5,
+    "valid_rate": 1.0
+  },
+  {
+    "changed_decision_rate": 0.1666666716337204,
+    "encoding": "joint_one_hot",
+    "invalid_detected_rate": 0.0,
+    "mode": "partial_stale_scope_a",
+    "samples": 12,
+    "semantic_consistency": 1.0,
+    "silent_valid_alias_rate": 0.5,
+    "valid_rate": 1.0
+  }
+]

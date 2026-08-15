@@ -1,0 +1,9 @@
+{
+  "estimated_gpu_hours_including_refresh": 0.5897112415234248,
+  "full_training_and_evaluation_seconds_observed_before_metric_refresh": 1549.3661422729492,
+  "metric_refresh_seconds_after_register_relative_fix": 573.59432721138,
+  "note": "The evaluation refresh reloaded saved checkpoints and rewrote run JSON after fixing a register-relative NOOP-precedence metric. Checkpoints were not retrained during the refresh; original per-step training logs from the first pass were not retained in final run JSON. Benchmark files preserve representative throughput.",
+  "run_count": 48,
+  "schema": "schmittformer.semantic_register_runtime_receipt.v1",
+  "total_wall_clock_seconds_including_refresh": 2122.960469484329
+}

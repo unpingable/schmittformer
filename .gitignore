@@ -1,4 +1,5 @@
 .venv/
+.venv-cuda/
 __pycache__/
 *.pyc
 .pytest_cache/
@@ -11,3 +12,6 @@ results/projection_context_smoke/
 # Latent autopsy calibration outputs; final artifacts are under results/latent_autopsy/.
 results/latent_autopsy_smoke/
 results/latent_autopsy_smoke2/
+
+# Semantic register calibration output; final artifacts are under results/semantic_register/.
+results/semantic_register_smoke/

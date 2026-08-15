@@ -1,0 +1,338 @@
+[
+  {
+    "accuracy_mean": 1.0,
+    "built_context": 64,
+    "encoding": "binary_pair",
+    "eval_context": 64,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.53192138671875,
+    "built_context": 64,
+    "encoding": "binary_pair",
+    "eval_context": 256,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.43408203125,
+    "built_context": 64,
+    "encoding": "binary_pair",
+    "eval_context": 1024,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.3125,
+    "built_context": 64,
+    "encoding": "binary_pair",
+    "eval_context": 4096,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 1.0,
+    "built_context": 256,
+    "encoding": "binary_pair",
+    "eval_context": 64,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.53192138671875,
+    "built_context": 256,
+    "encoding": "binary_pair",
+    "eval_context": 256,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.43408203125,
+    "built_context": 256,
+    "encoding": "binary_pair",
+    "eval_context": 1024,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.3125,
+    "built_context": 256,
+    "encoding": "binary_pair",
+    "eval_context": 4096,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 1.0,
+    "built_context": 1024,
+    "encoding": "binary_pair",
+    "eval_context": 64,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.53192138671875,
+    "built_context": 1024,
+    "encoding": "binary_pair",
+    "eval_context": 256,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.43408203125,
+    "built_context": 1024,
+    "encoding": "binary_pair",
+    "eval_context": 1024,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.3125,
+    "built_context": 1024,
+    "encoding": "binary_pair",
+    "eval_context": 4096,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 1.0,
+    "built_context": 4096,
+    "encoding": "binary_pair",
+    "eval_context": 64,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.53192138671875,
+    "built_context": 4096,
+    "encoding": "binary_pair",
+    "eval_context": 256,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.43408203125,
+    "built_context": 4096,
+    "encoding": "binary_pair",
+    "eval_context": 1024,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.3125,
+    "built_context": 4096,
+    "encoding": "binary_pair",
+    "eval_context": 4096,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 1.0,
+    "built_context": 64,
+    "encoding": "grouped_one_hot",
+    "eval_context": 64,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.44036865234375,
+    "built_context": 64,
+    "encoding": "grouped_one_hot",
+    "eval_context": 256,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.2958984375,
+    "built_context": 64,
+    "encoding": "grouped_one_hot",
+    "eval_context": 1024,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.265625,
+    "built_context": 64,
+    "encoding": "grouped_one_hot",
+    "eval_context": 4096,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 1.0,
+    "built_context": 256,
+    "encoding": "grouped_one_hot",
+    "eval_context": 64,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.44036865234375,
+    "built_context": 256,
+    "encoding": "grouped_one_hot",
+    "eval_context": 256,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.2958984375,
+    "built_context": 256,
+    "encoding": "grouped_one_hot",
+    "eval_context": 1024,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.265625,
+    "built_context": 256,
+    "encoding": "grouped_one_hot",
+    "eval_context": 4096,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 1.0,
+    "built_context": 1024,
+    "encoding": "grouped_one_hot",
+    "eval_context": 64,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.44036865234375,
+    "built_context": 1024,
+    "encoding": "grouped_one_hot",
+    "eval_context": 256,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.2958984375,
+    "built_context": 1024,
+    "encoding": "grouped_one_hot",
+    "eval_context": 1024,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.265625,
+    "built_context": 1024,
+    "encoding": "grouped_one_hot",
+    "eval_context": 4096,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 1.0,
+    "built_context": 4096,
+    "encoding": "grouped_one_hot",
+    "eval_context": 64,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.44036865234375,
+    "built_context": 4096,
+    "encoding": "grouped_one_hot",
+    "eval_context": 256,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.2958984375,
+    "built_context": 4096,
+    "encoding": "grouped_one_hot",
+    "eval_context": 1024,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.265625,
+    "built_context": 4096,
+    "encoding": "grouped_one_hot",
+    "eval_context": 4096,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 1.0,
+    "built_context": 64,
+    "encoding": "joint_one_hot",
+    "eval_context": 64,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.39324951171875,
+    "built_context": 64,
+    "encoding": "joint_one_hot",
+    "eval_context": 256,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.16943359375,
+    "built_context": 64,
+    "encoding": "joint_one_hot",
+    "eval_context": 1024,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.234375,
+    "built_context": 64,
+    "encoding": "joint_one_hot",
+    "eval_context": 4096,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 1.0,
+    "built_context": 256,
+    "encoding": "joint_one_hot",
+    "eval_context": 64,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.39324951171875,
+    "built_context": 256,
+    "encoding": "joint_one_hot",
+    "eval_context": 256,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.16943359375,
+    "built_context": 256,
+    "encoding": "joint_one_hot",
+    "eval_context": 1024,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.234375,
+    "built_context": 256,
+    "encoding": "joint_one_hot",
+    "eval_context": 4096,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 1.0,
+    "built_context": 1024,
+    "encoding": "joint_one_hot",
+    "eval_context": 64,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.39324951171875,
+    "built_context": 1024,
+    "encoding": "joint_one_hot",
+    "eval_context": 256,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.16943359375,
+    "built_context": 1024,
+    "encoding": "joint_one_hot",
+    "eval_context": 1024,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.234375,
+    "built_context": 1024,
+    "encoding": "joint_one_hot",
+    "eval_context": 4096,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 1.0,
+    "built_context": 4096,
+    "encoding": "joint_one_hot",
+    "eval_context": 64,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.39324951171875,
+    "built_context": 4096,
+    "encoding": "joint_one_hot",
+    "eval_context": 256,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.16943359375,
+    "built_context": 4096,
+    "encoding": "joint_one_hot",
+    "eval_context": 1024,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  },
+  {
+    "accuracy_mean": 0.234375,
+    "built_context": 4096,
+    "encoding": "joint_one_hot",
+    "eval_context": 4096,
+    "note": "fixed ABI synthesized gate; build context is intentionally irrelevant"
+  }
+]

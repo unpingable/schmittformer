@@ -1,0 +1,44 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='406' height='330' viewBox='0 0 406 330'>
+<rect width='100%' height='100%' fill='white'/>
+<text x='18' y='30' font-family='sans-serif' font-size='18'>Explicit fixed-ABI cross-context transfer, binary pair</text>
+<text x='158' y='54' font-family='sans-serif' font-size='11'>64</text>
+<text x='212' y='54' font-family='sans-serif' font-size='11'>256</text>
+<text x='266' y='54' font-family='sans-serif' font-size='11'>1024</text>
+<text x='320' y='54' font-family='sans-serif' font-size='11'>4096</text>
+<text x='10' y='103' font-family='sans-serif' font-size='11'>64</text>
+<rect x='150' y='72' width='51' height='51' fill='rgb(0,220,200)'/>
+<text x='160' y='103' font-family='sans-serif' font-size='11' fill='black'>1.00</text>
+<rect x='204' y='72' width='51' height='51' fill='rgb(119,159,162)'/>
+<text x='214' y='103' font-family='sans-serif' font-size='11' fill='black'>0.53</text>
+<rect x='258' y='72' width='51' height='51' fill='rgb(144,146,154)'/>
+<text x='268' y='103' font-family='sans-serif' font-size='11' fill='black'>0.43</text>
+<rect x='312' y='72' width='51' height='51' fill='rgb(175,130,145)'/>
+<text x='322' y='103' font-family='sans-serif' font-size='11' fill='black'>0.31</text>
+<text x='10' y='157' font-family='sans-serif' font-size='11'>256</text>
+<rect x='150' y='126' width='51' height='51' fill='rgb(0,220,200)'/>
+<text x='160' y='157' font-family='sans-serif' font-size='11' fill='black'>1.00</text>
+<rect x='204' y='126' width='51' height='51' fill='rgb(119,159,162)'/>
+<text x='214' y='157' font-family='sans-serif' font-size='11' fill='black'>0.53</text>
+<rect x='258' y='126' width='51' height='51' fill='rgb(144,146,154)'/>
+<text x='268' y='157' font-family='sans-serif' font-size='11' fill='black'>0.43</text>
+<rect x='312' y='126' width='51' height='51' fill='rgb(175,130,145)'/>
+<text x='322' y='157' font-family='sans-serif' font-size='11' fill='black'>0.31</text>
+<text x='10' y='211' font-family='sans-serif' font-size='11'>1024</text>
+<rect x='150' y='180' width='51' height='51' fill='rgb(0,220,200)'/>
+<text x='160' y='211' font-family='sans-serif' font-size='11' fill='black'>1.00</text>
+<rect x='204' y='180' width='51' height='51' fill='rgb(119,159,162)'/>
+<text x='214' y='211' font-family='sans-serif' font-size='11' fill='black'>0.53</text>
+<rect x='258' y='180' width='51' height='51' fill='rgb(144,146,154)'/>
+<text x='268' y='211' font-family='sans-serif' font-size='11' fill='black'>0.43</text>
+<rect x='312' y='180' width='51' height='51' fill='rgb(175,130,145)'/>
+<text x='322' y='211' font-family='sans-serif' font-size='11' fill='black'>0.31</text>
+<text x='10' y='265' font-family='sans-serif' font-size='11'>4096</text>
+<rect x='150' y='234' width='51' height='51' fill='rgb(0,220,200)'/>
+<text x='160' y='265' font-family='sans-serif' font-size='11' fill='black'>1.00</text>
+<rect x='204' y='234' width='51' height='51' fill='rgb(119,159,162)'/>
+<text x='214' y='265' font-family='sans-serif' font-size='11' fill='black'>0.53</text>
+<rect x='258' y='234' width='51' height='51' fill='rgb(144,146,154)'/>
+<text x='268' y='265' font-family='sans-serif' font-size='11' fill='black'>0.43</text>
+<rect x='312' y='234' width='51' height='51' fill='rgb(175,130,145)'/>
+<text x='322' y='265' font-family='sans-serif' font-size='11' fill='black'>0.31</text>
+</svg>

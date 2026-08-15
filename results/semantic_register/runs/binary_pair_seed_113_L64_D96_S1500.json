@@ -1,0 +1,1956 @@
+{
+  "config": {
+    "batch_size": 256,
+    "d_ff": 192,
+    "d_model": 96,
+    "e2e_decision_weight": 0.5,
+    "encoding": "binary_pair",
+    "learning_rate": 0.0003,
+    "log_every": 375,
+    "max_len": 4096,
+    "n_heads": 4,
+    "n_layers": 4,
+    "register_ce_weight": 1.0,
+    "register_gate_weight": 0.75,
+    "register_mse_weight": 2.0,
+    "seed": 113,
+    "seq_len": 64,
+    "steps": 1500,
+    "train_nuisance_corr": 0.95
+  },
+  "encoding": "binary_pair",
+  "evaluation": [
+    {
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.234375,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.234375
+      },
+      "eval_batch_size": 512,
+      "eval_batches": 4,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.06313775510204081,
+        "admit_rate": 0.28271484375,
+        "policy_accuracy": 0.9033203125,
+        "policy_violation_rate": 0.04833984375,
+        "refusal_reason_accuracy": 0.8737244897959183,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.234375
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.234375,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.234375
+      },
+      "nuisance_condition": "IID",
+      "nuisance_corr": 0.95,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 0.15744861960411072,
+        "decode_distance_mean": 0.05923669412732124,
+        "decode_margin_mean": 3.8674795627593994,
+        "decode_margin_min": 2.5359199047088623,
+        "joint_accuracy": 1.0,
+        "register_valid_rate": 1.0,
+        "scope_accuracy": 1.0,
+        "witness_accuracy": 1.0
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.234375,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.234375
+      },
+      "samples": 2048,
+      "seed": 113
+    },
+    {
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.1468354430379747,
+        "admit_rate": 0.341796875,
+        "policy_accuracy": 0.6533203125,
+        "policy_violation_rate": 0.11328125,
+        "refusal_reason_accuracy": 0.5506329113924051,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 1024,
+        "true_admit_rate": 0.228515625
+      },
+      "eval_batch_size": 256,
+      "eval_batches": 4,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.3240506329113924,
+        "admit_rate": 0.3623046875,
+        "policy_accuracy": 0.361328125,
+        "policy_violation_rate": 0.25,
+        "refusal_reason_accuracy": 0.3227848101265823,
+        "refuse_false_positive_rate": 0.5085470085470085,
+        "samples": 1024,
+        "true_admit_rate": 0.228515625
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.2607594936708861,
+        "admit_rate": 0.3134765625,
+        "policy_accuracy": 0.3349609375,
+        "policy_violation_rate": 0.201171875,
+        "refusal_reason_accuracy": 0.28860759493670884,
+        "refuse_false_positive_rate": 0.5085470085470085,
+        "samples": 1024,
+        "true_admit_rate": 0.228515625
+      },
+      "nuisance_condition": "IID",
+      "nuisance_corr": 0.95,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 1.2636195421218872,
+        "decode_distance_mean": 0.5380375981330872,
+        "decode_margin_mean": 2.1337974071502686,
+        "decode_margin_min": 0.11398375034332275,
+        "joint_accuracy": 0.2470703125,
+        "register_valid_rate": 0.71875,
+        "scope_accuracy": 0.4921875,
+        "witness_accuracy": 0.4736328125
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.3134765625,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 1024,
+        "true_admit_rate": 0.3134765625
+      },
+      "samples": 1024,
+      "seed": 113
+    },
+    {
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.4411764705882353,
+        "admit_rate": 0.4296875,
+        "policy_accuracy": 0.328125,
+        "policy_violation_rate": 0.3515625,
+        "refusal_reason_accuracy": 0.3137254901960784,
+        "refuse_false_positive_rate": 0.6153846153846154,
+        "samples": 128,
+        "true_admit_rate": 0.203125
+      },
+      "eval_batch_size": 64,
+      "eval_batches": 2,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.2549019607843137,
+        "admit_rate": 0.203125,
+        "policy_accuracy": 0.2421875,
+        "policy_violation_rate": 0.203125,
+        "refusal_reason_accuracy": 0.30392156862745096,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 128,
+        "true_admit_rate": 0.203125
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.4411764705882353,
+        "admit_rate": 0.3515625,
+        "policy_accuracy": 0.25,
+        "policy_violation_rate": 0.3515625,
+        "refusal_reason_accuracy": 0.3137254901960784,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 128,
+        "true_admit_rate": 0.203125
+      },
+      "nuisance_condition": "IID",
+      "nuisance_corr": 0.95,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 1.0498265027999878,
+        "decode_distance_mean": 0.48569872975349426,
+        "decode_margin_mean": 5.154026985168457,
+        "decode_margin_min": 3.7894468307495117,
+        "joint_accuracy": 0.1953125,
+        "register_valid_rate": 0.921875,
+        "scope_accuracy": 0.3984375,
+        "witness_accuracy": 0.4375
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.3515625,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 128,
+        "true_admit_rate": 0.3515625
+      },
+      "samples": 128,
+      "seed": 113
+    },
+    {
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.7142857142857143,
+        "admit_rate": 0.75,
+        "policy_accuracy": 0.375,
+        "policy_violation_rate": 0.625,
+        "refusal_reason_accuracy": 0.2857142857142857,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 8,
+        "true_admit_rate": 0.125
+      },
+      "eval_batch_size": 8,
+      "eval_batches": 1,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.25,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.2857142857142857,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 8,
+        "true_admit_rate": 0.125
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.125,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.14285714285714285,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 8,
+        "true_admit_rate": 0.125
+      },
+      "nuisance_condition": "IID",
+      "nuisance_corr": 0.95,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 3.208587646484375,
+        "decode_distance_mean": 2.8925886154174805,
+        "decode_margin_mean": 4.0600266456604,
+        "decode_margin_min": 3.795161008834839,
+        "joint_accuracy": 0.0,
+        "register_valid_rate": 0.0,
+        "scope_accuracy": 0.0,
+        "witness_accuracy": 0.0
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 8,
+        "true_admit_rate": 0.0
+      },
+      "samples": 8,
+      "seed": 113
+    },
+    {
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.21630859375,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.21630859375
+      },
+      "eval_batch_size": 512,
+      "eval_batches": 4,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.0660436137071651,
+        "admit_rate": 0.26806640625,
+        "policy_accuracy": 0.89990234375,
+        "policy_violation_rate": 0.0517578125,
+        "refusal_reason_accuracy": 0.8722741433021807,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.21630859375
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.21630859375,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.21630859375
+      },
+      "nuisance_condition": "WEAKENED_NUISANCE",
+      "nuisance_corr": 0.6,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 0.15744861960411072,
+        "decode_distance_mean": 0.05833712965250015,
+        "decode_margin_mean": 3.867563486099243,
+        "decode_margin_min": 2.5359199047088623,
+        "joint_accuracy": 1.0,
+        "register_valid_rate": 1.0,
+        "scope_accuracy": 1.0,
+        "witness_accuracy": 1.0
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.21630859375,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.21630859375
+      },
+      "samples": 2048,
+      "seed": 113
+    },
+    {
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.2017766497461929,
+        "admit_rate": 0.3857421875,
+        "policy_accuracy": 0.619140625,
+        "policy_violation_rate": 0.1552734375,
+        "refusal_reason_accuracy": 0.5050761421319797,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 1024,
+        "true_admit_rate": 0.23046875
+      },
+      "eval_batch_size": 256,
+      "eval_batches": 4,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.3350253807106599,
+        "admit_rate": 0.373046875,
+        "policy_accuracy": 0.357421875,
+        "policy_violation_rate": 0.2578125,
+        "refusal_reason_accuracy": 0.3147208121827411,
+        "refuse_false_positive_rate": 0.5,
+        "samples": 1024,
+        "true_admit_rate": 0.23046875
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.23857868020304568,
+        "admit_rate": 0.298828125,
+        "policy_accuracy": 0.3291015625,
+        "policy_violation_rate": 0.18359375,
+        "refusal_reason_accuracy": 0.2779187817258883,
+        "refuse_false_positive_rate": 0.5,
+        "samples": 1024,
+        "true_admit_rate": 0.23046875
+      },
+      "nuisance_condition": "WEAKENED_NUISANCE",
+      "nuisance_corr": 0.6,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 1.2636195421218872,
+        "decode_distance_mean": 0.5614538788795471,
+        "decode_margin_mean": 2.1052231788635254,
+        "decode_margin_min": 0.11398375034332275,
+        "joint_accuracy": 0.24609375,
+        "register_valid_rate": 0.7001953125,
+        "scope_accuracy": 0.466796875,
+        "witness_accuracy": 0.4794921875
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.298828125,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 1024,
+        "true_admit_rate": 0.298828125
+      },
+      "samples": 1024,
+      "seed": 113
+    },
+    {
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.4489795918367347,
+        "admit_rate": 0.4609375,
+        "policy_accuracy": 0.3125,
+        "policy_violation_rate": 0.34375,
+        "refusal_reason_accuracy": 0.25510204081632654,
+        "refuse_false_positive_rate": 0.5,
+        "samples": 128,
+        "true_admit_rate": 0.234375
+      },
+      "eval_batch_size": 64,
+      "eval_batches": 2,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.29591836734693877,
+        "admit_rate": 0.2265625,
+        "policy_accuracy": 0.25,
+        "policy_violation_rate": 0.2265625,
+        "refusal_reason_accuracy": 0.32653061224489793,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 128,
+        "true_admit_rate": 0.234375
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.3877551020408163,
+        "admit_rate": 0.296875,
+        "policy_accuracy": 0.1953125,
+        "policy_violation_rate": 0.296875,
+        "refusal_reason_accuracy": 0.25510204081632654,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 128,
+        "true_admit_rate": 0.234375
+      },
+      "nuisance_condition": "WEAKENED_NUISANCE",
+      "nuisance_corr": 0.6,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 1.0498265027999878,
+        "decode_distance_mean": 0.520616888999939,
+        "decode_margin_mean": 5.2493791580200195,
+        "decode_margin_min": 4.047345161437988,
+        "joint_accuracy": 0.15625,
+        "register_valid_rate": 0.8359375,
+        "scope_accuracy": 0.3828125,
+        "witness_accuracy": 0.3671875
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.296875,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 128,
+        "true_admit_rate": 0.296875
+      },
+      "samples": 128,
+      "seed": 113
+    },
+    {
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.5,
+        "admit_rate": 0.5,
+        "policy_accuracy": 0.25,
+        "policy_violation_rate": 0.25,
+        "refusal_reason_accuracy": 0.0,
+        "refuse_false_positive_rate": 0.5,
+        "samples": 8,
+        "true_admit_rate": 0.5
+      },
+      "eval_batch_size": 8,
+      "eval_batches": 1,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.0,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 8,
+        "true_admit_rate": 0.5
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.0,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 8,
+        "true_admit_rate": 0.5
+      },
+      "nuisance_condition": "WEAKENED_NUISANCE",
+      "nuisance_corr": 0.6,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 3.2337453365325928,
+        "decode_distance_mean": 3.01593279838562,
+        "decode_margin_mean": 4.198185920715332,
+        "decode_margin_min": 3.9227066040039062,
+        "joint_accuracy": 0.0,
+        "register_valid_rate": 0.0,
+        "scope_accuracy": 0.0,
+        "witness_accuracy": 0.0
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 8,
+        "true_admit_rate": 0.0
+      },
+      "samples": 8,
+      "seed": 113
+    },
+    {
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.21875,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.21875
+      },
+      "eval_batch_size": 512,
+      "eval_batches": 4,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.074375,
+        "admit_rate": 0.27685546875,
+        "policy_accuracy": 0.88916015625,
+        "policy_violation_rate": 0.05810546875,
+        "refusal_reason_accuracy": 0.858125,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.21875
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.21875,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.21875
+      },
+      "nuisance_condition": "INDEPENDENT_NUISANCE",
+      "nuisance_corr": 0.5,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 0.15744861960411072,
+        "decode_distance_mean": 0.05871221423149109,
+        "decode_margin_mean": 3.8561182022094727,
+        "decode_margin_min": 2.5359199047088623,
+        "joint_accuracy": 1.0,
+        "register_valid_rate": 1.0,
+        "scope_accuracy": 1.0,
+        "witness_accuracy": 1.0
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.21875,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.21875
+      },
+      "samples": 2048,
+      "seed": 113
+    },
+    {
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.20125,
+        "admit_rate": 0.3759765625,
+        "policy_accuracy": 0.603515625,
+        "policy_violation_rate": 0.1572265625,
+        "refusal_reason_accuracy": 0.4925,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 1024,
+        "true_admit_rate": 0.21875
+      },
+      "eval_batch_size": 256,
+      "eval_batches": 4,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.3225,
+        "admit_rate": 0.3603515625,
+        "policy_accuracy": 0.3447265625,
+        "policy_violation_rate": 0.251953125,
+        "refusal_reason_accuracy": 0.3025,
+        "refuse_false_positive_rate": 0.5044642857142857,
+        "samples": 1024,
+        "true_admit_rate": 0.21875
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.18,
+        "admit_rate": 0.2490234375,
+        "policy_accuracy": 0.3291015625,
+        "policy_violation_rate": 0.140625,
+        "refusal_reason_accuracy": 0.2825,
+        "refuse_false_positive_rate": 0.5044642857142857,
+        "samples": 1024,
+        "true_admit_rate": 0.21875
+      },
+      "nuisance_condition": "INDEPENDENT_NUISANCE",
+      "nuisance_corr": 0.5,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 1.2636195421218872,
+        "decode_distance_mean": 0.5820824503898621,
+        "decode_margin_mean": 2.0717339515686035,
+        "decode_margin_min": 0.11398375034332275,
+        "joint_accuracy": 0.2470703125,
+        "register_valid_rate": 0.65625,
+        "scope_accuracy": 0.43359375,
+        "witness_accuracy": 0.4697265625
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.2490234375,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 1024,
+        "true_admit_rate": 0.2490234375
+      },
+      "samples": 1024,
+      "seed": 113
+    },
+    {
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.44554455445544555,
+        "admit_rate": 0.4765625,
+        "policy_accuracy": 0.2890625,
+        "policy_violation_rate": 0.3515625,
+        "refusal_reason_accuracy": 0.2079207920792079,
+        "refuse_false_positive_rate": 0.4074074074074074,
+        "samples": 128,
+        "true_admit_rate": 0.2109375
+      },
+      "eval_batch_size": 64,
+      "eval_batches": 2,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.36633663366336633,
+        "admit_rate": 0.2890625,
+        "policy_accuracy": 0.2109375,
+        "policy_violation_rate": 0.2890625,
+        "refusal_reason_accuracy": 0.26732673267326734,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 128,
+        "true_admit_rate": 0.2109375
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.3564356435643564,
+        "admit_rate": 0.28125,
+        "policy_accuracy": 0.1640625,
+        "policy_violation_rate": 0.28125,
+        "refusal_reason_accuracy": 0.2079207920792079,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 128,
+        "true_admit_rate": 0.2109375
+      },
+      "nuisance_condition": "INDEPENDENT_NUISANCE",
+      "nuisance_corr": 0.5,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 1.0498265027999878,
+        "decode_distance_mean": 0.49274805188179016,
+        "decode_margin_mean": 5.2384443283081055,
+        "decode_margin_min": 3.7894468307495117,
+        "joint_accuracy": 0.1015625,
+        "register_valid_rate": 0.8046875,
+        "scope_accuracy": 0.390625,
+        "witness_accuracy": 0.2578125
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.28125,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 128,
+        "true_admit_rate": 0.28125
+      },
+      "samples": 128,
+      "seed": 113
+    },
+    {
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.42857142857142855,
+        "admit_rate": 0.5,
+        "policy_accuracy": 0.375,
+        "policy_violation_rate": 0.375,
+        "refusal_reason_accuracy": 0.2857142857142857,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 8,
+        "true_admit_rate": 0.125
+      },
+      "eval_batch_size": 8,
+      "eval_batches": 1,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.0,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 8,
+        "true_admit_rate": 0.125
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.25,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.2857142857142857,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 8,
+        "true_admit_rate": 0.125
+      },
+      "nuisance_condition": "INDEPENDENT_NUISANCE",
+      "nuisance_corr": 0.5,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 3.0328824520111084,
+        "decode_distance_mean": 2.7948217391967773,
+        "decode_margin_mean": 4.063843727111816,
+        "decode_margin_min": 3.7780563831329346,
+        "joint_accuracy": 0.0,
+        "register_valid_rate": 0.0,
+        "scope_accuracy": 0.0,
+        "witness_accuracy": 0.0
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 8,
+        "true_admit_rate": 0.0
+      },
+      "samples": 8,
+      "seed": 113
+    },
+    {
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.2119140625,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.2119140625
+      },
+      "eval_batch_size": 512,
+      "eval_batches": 4,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.07496902106567534,
+        "admit_rate": 0.27099609375,
+        "policy_accuracy": 0.890625,
+        "policy_violation_rate": 0.05908203125,
+        "refusal_reason_accuracy": 0.8612143742255266,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.2119140625
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.2119140625,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.2119140625
+      },
+      "nuisance_condition": "REVERSED_NUISANCE",
+      "nuisance_corr": 0.05,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 0.15744861960411072,
+        "decode_distance_mean": 0.05789461359381676,
+        "decode_margin_mean": 3.8589868545532227,
+        "decode_margin_min": 2.5359199047088623,
+        "joint_accuracy": 1.0,
+        "register_valid_rate": 1.0,
+        "scope_accuracy": 1.0,
+        "witness_accuracy": 1.0
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.2119140625,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 2048,
+        "true_admit_rate": 0.2119140625
+      },
+      "samples": 2048,
+      "seed": 113
+    },
+    {
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.2930591259640103,
+        "admit_rate": 0.462890625,
+        "policy_accuracy": 0.5703125,
+        "policy_violation_rate": 0.22265625,
+        "refusal_reason_accuracy": 0.43444730077120824,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 1024,
+        "true_admit_rate": 0.240234375
+      },
+      "eval_batch_size": 256,
+      "eval_batches": 4,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.3033419023136247,
+        "admit_rate": 0.349609375,
+        "policy_accuracy": 0.3642578125,
+        "policy_violation_rate": 0.23046875,
+        "refusal_reason_accuracy": 0.3226221079691517,
+        "refuse_false_positive_rate": 0.5040650406504065,
+        "samples": 1024,
+        "true_admit_rate": 0.240234375
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.13881748071979436,
+        "admit_rate": 0.224609375,
+        "policy_accuracy": 0.345703125,
+        "policy_violation_rate": 0.10546875,
+        "refusal_reason_accuracy": 0.2982005141388175,
+        "refuse_false_positive_rate": 0.5040650406504065,
+        "samples": 1024,
+        "true_admit_rate": 0.240234375
+      },
+      "nuisance_condition": "REVERSED_NUISANCE",
+      "nuisance_corr": 0.05,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 1.2636195421218872,
+        "decode_distance_mean": 0.6008976101875305,
+        "decode_margin_mean": 2.108369827270508,
+        "decode_margin_min": 0.11398375034332275,
+        "joint_accuracy": 0.2685546875,
+        "register_valid_rate": 0.646484375,
+        "scope_accuracy": 0.400390625,
+        "witness_accuracy": 0.5146484375
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.224609375,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 1024,
+        "true_admit_rate": 0.224609375
+      },
+      "samples": 1024,
+      "seed": 113
+    },
+    {
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.4742268041237113,
+        "admit_rate": 0.4453125,
+        "policy_accuracy": 0.25,
+        "policy_violation_rate": 0.359375,
+        "refusal_reason_accuracy": 0.21649484536082475,
+        "refuse_false_positive_rate": 0.6451612903225806,
+        "samples": 128,
+        "true_admit_rate": 0.2421875
+      },
+      "eval_batch_size": 64,
+      "eval_batches": 2,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.3402061855670103,
+        "admit_rate": 0.2578125,
+        "policy_accuracy": 0.1875,
+        "policy_violation_rate": 0.2578125,
+        "refusal_reason_accuracy": 0.24742268041237114,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 128,
+        "true_admit_rate": 0.2421875
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.3402061855670103,
+        "admit_rate": 0.2578125,
+        "policy_accuracy": 0.1640625,
+        "policy_violation_rate": 0.2578125,
+        "refusal_reason_accuracy": 0.21649484536082475,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 128,
+        "true_admit_rate": 0.2421875
+      },
+      "nuisance_condition": "REVERSED_NUISANCE",
+      "nuisance_corr": 0.05,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 1.0498265027999878,
+        "decode_distance_mean": 0.4777963161468506,
+        "decode_margin_mean": 5.13746452331543,
+        "decode_margin_min": 3.8314597606658936,
+        "joint_accuracy": 0.09375,
+        "register_valid_rate": 0.8125,
+        "scope_accuracy": 0.3515625,
+        "witness_accuracy": 0.2734375
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.2578125,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 128,
+        "true_admit_rate": 0.2578125
+      },
+      "samples": 128,
+      "seed": 113
+    },
+    {
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "end_to_end_learned": {
+        "admit_false_positive_rate": 0.6,
+        "admit_rate": 0.5,
+        "policy_accuracy": 0.375,
+        "policy_violation_rate": 0.375,
+        "refusal_reason_accuracy": 0.4,
+        "refuse_false_positive_rate": 0.6666666666666666,
+        "samples": 8,
+        "true_admit_rate": 0.375
+      },
+      "eval_batch_size": 8,
+      "eval_batches": 1,
+      "explicit_register_learned_gate": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.375,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.6,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 8,
+        "true_admit_rate": 0.375
+      },
+      "explicit_register_synthesized_gate": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.125,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.2,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 8,
+        "true_admit_rate": 0.375
+      },
+      "nuisance_condition": "REVERSED_NUISANCE",
+      "nuisance_corr": 0.05,
+      "proposal_head_accuracy": 1.0,
+      "register": {
+        "decode_distance_max": 3.2218000888824463,
+        "decode_distance_mean": 3.0098726749420166,
+        "decode_margin_mean": 4.105648517608643,
+        "decode_margin_min": 3.795243978500366,
+        "joint_accuracy": 0.0,
+        "register_valid_rate": 0.0,
+        "scope_accuracy": 0.0,
+        "witness_accuracy": 0.0
+      },
+      "register_relative_synthesized": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 8,
+        "true_admit_rate": 0.0
+      },
+      "samples": 8,
+      "seed": 113
+    }
+  ],
+  "interventions": [
+    {
+      "changed_decision_rate": 0.6666666865348816,
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "intervention": "witness",
+      "invalid_rate": 0.0,
+      "samples": 96,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 1.0
+    },
+    {
+      "changed_decision_rate": 0.3333333432674408,
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "intervention": "scope",
+      "invalid_rate": 0.0,
+      "samples": 96,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 1.0
+    },
+    {
+      "changed_decision_rate": 0.6666666865348816,
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "intervention": "both",
+      "invalid_rate": 0.0,
+      "samples": 96,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 1.0
+    },
+    {
+      "changed_decision_rate": 0.0,
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "intervention": "nuisance",
+      "invalid_rate": 0.0,
+      "samples": 96,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 1.0
+    },
+    {
+      "changed_decision_rate": 0.0,
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "intervention": "random",
+      "invalid_rate": 0.0,
+      "samples": 96,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 1.0
+    },
+    {
+      "changed_decision_rate": 0.2083333432674408,
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "intervention": "witness",
+      "invalid_rate": 0.0,
+      "samples": 96,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 0.5
+    },
+    {
+      "changed_decision_rate": 0.2083333432674408,
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "intervention": "scope",
+      "invalid_rate": 0.0,
+      "samples": 96,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 0.5
+    },
+    {
+      "changed_decision_rate": 0.2083333432674408,
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "intervention": "both",
+      "invalid_rate": 0.0,
+      "samples": 96,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 0.5
+    },
+    {
+      "changed_decision_rate": 0.2083333432674408,
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "intervention": "nuisance",
+      "invalid_rate": 0.0,
+      "samples": 96,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 0.5
+    },
+    {
+      "changed_decision_rate": 0.02083333395421505,
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "intervention": "random",
+      "invalid_rate": 0.3229166865348816,
+      "samples": 96,
+      "seed": 113,
+      "semantic_consistency": 0.8854166865348816,
+      "world_target_consistency": 0.5
+    },
+    {
+      "changed_decision_rate": 0.125,
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "intervention": "witness",
+      "invalid_rate": 0.0,
+      "samples": 48,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 0.5
+    },
+    {
+      "changed_decision_rate": 0.125,
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "intervention": "scope",
+      "invalid_rate": 0.0,
+      "samples": 48,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 0.5
+    },
+    {
+      "changed_decision_rate": 0.125,
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "intervention": "both",
+      "invalid_rate": 0.0,
+      "samples": 48,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 0.5
+    },
+    {
+      "changed_decision_rate": 0.125,
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "intervention": "nuisance",
+      "invalid_rate": 0.0,
+      "samples": 48,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 0.5
+    },
+    {
+      "changed_decision_rate": 0.0833333358168602,
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "intervention": "random",
+      "invalid_rate": 0.1666666716337204,
+      "samples": 48,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 0.3958333432674408
+    },
+    {
+      "changed_decision_rate": 0.6666666865348816,
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "intervention": "witness",
+      "invalid_rate": 0.0,
+      "samples": 24,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 0.5
+    },
+    {
+      "changed_decision_rate": 0.6666666865348816,
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "intervention": "scope",
+      "invalid_rate": 0.0,
+      "samples": 24,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 0.5
+    },
+    {
+      "changed_decision_rate": 0.6666666865348816,
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "intervention": "both",
+      "invalid_rate": 0.0,
+      "samples": 24,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 0.5
+    },
+    {
+      "changed_decision_rate": 0.6666666865348816,
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "intervention": "nuisance",
+      "invalid_rate": 0.0,
+      "samples": 24,
+      "seed": 113,
+      "semantic_consistency": 1.0,
+      "world_target_consistency": 0.5
+    },
+    {
+      "changed_decision_rate": 0.0,
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "intervention": "random",
+      "invalid_rate": 1.0,
+      "samples": 24,
+      "seed": 113,
+      "semantic_consistency": 0.6666666865348816,
+      "world_target_consistency": 0.3333333432674408
+    }
+  ],
+  "metadata_equivalence": [
+    {
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "internal_vs_external_from_same_register": {
+        "exact_match_rate": 1.0,
+        "mismatches": 0,
+        "samples": 24
+      },
+      "seed": 113,
+      "true_trusted_metadata_monitor": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.1666666716337204,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 24,
+        "true_admit_rate": 0.1666666716337204
+      }
+    },
+    {
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "internal_vs_external_from_same_register": {
+        "exact_match_rate": 1.0,
+        "mismatches": 0,
+        "samples": 24
+      },
+      "seed": 113,
+      "true_trusted_metadata_monitor": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.1666666716337204,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 24,
+        "true_admit_rate": 0.1666666716337204
+      }
+    },
+    {
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "internal_vs_external_from_same_register": {
+        "exact_match_rate": 1.0,
+        "mismatches": 0,
+        "samples": 24
+      },
+      "seed": 113,
+      "true_trusted_metadata_monitor": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.1666666716337204,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 24,
+        "true_admit_rate": 0.1666666716337204
+      }
+    },
+    {
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "internal_vs_external_from_same_register": {
+        "exact_match_rate": 1.0,
+        "mismatches": 0,
+        "samples": 24
+      },
+      "seed": 113,
+      "true_trusted_metadata_monitor": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.1666666716337204,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 24,
+        "true_admit_rate": 0.1666666716337204
+      }
+    }
+  ],
+  "position_effects": [
+    {
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.1666666716337204,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 96,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "scaled",
+      "register": {
+        "decode_distance_max": 0.15744861960411072,
+        "decode_distance_mean": 0.07442355901002884,
+        "decode_margin_mean": 3.571481704711914,
+        "decode_margin_min": 2.5359199047088623,
+        "joint_accuracy": 1.0,
+        "register_valid_rate": 1.0,
+        "scope_accuracy": 1.0,
+        "witness_accuracy": 1.0
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.1666666716337204,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 96,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "fixed_absolute",
+      "register": {
+        "decode_distance_max": 0.15744861960411072,
+        "decode_distance_mean": 0.07442355901002884,
+        "decode_margin_mean": 3.571481704711914,
+        "decode_margin_min": 2.5359199047088623,
+        "joint_accuracy": 1.0,
+        "register_valid_rate": 1.0,
+        "scope_accuracy": 1.0,
+        "witness_accuracy": 1.0
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.1666666716337204,
+        "policy_accuracy": 0.9166666865348816,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.9,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 96,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "fixed_distance",
+      "register": {
+        "decode_distance_max": 1.2543952465057373,
+        "decode_distance_mean": 0.4595104157924652,
+        "decode_margin_mean": 1.9962431192398071,
+        "decode_margin_min": 0.03794574737548828,
+        "joint_accuracy": 0.75,
+        "register_valid_rate": 0.75,
+        "scope_accuracy": 0.75,
+        "witness_accuracy": 0.75
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.1666666716337204,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 96,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "early",
+      "register": {
+        "decode_distance_max": 0.4378717541694641,
+        "decode_distance_mean": 0.1398821920156479,
+        "decode_margin_mean": 3.269768714904785,
+        "decode_margin_min": 1.5737075805664062,
+        "joint_accuracy": 1.0,
+        "register_valid_rate": 1.0,
+        "scope_accuracy": 1.0,
+        "witness_accuracy": 1.0
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.1666666716337204,
+        "policy_accuracy": 1.0,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 1.0,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 96,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "middle",
+      "register": {
+        "decode_distance_max": 0.8924586772918701,
+        "decode_distance_mean": 0.35257962346076965,
+        "decode_margin_mean": 2.24800705909729,
+        "decode_margin_min": 0.23142766952514648,
+        "joint_accuracy": 0.8333333730697632,
+        "register_valid_rate": 0.8333333730697632,
+        "scope_accuracy": 0.8333333730697632,
+        "witness_accuracy": 0.8333333730697632
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 64,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.05,
+        "admit_rate": 0.2083333283662796,
+        "policy_accuracy": 0.7083333134651184,
+        "policy_violation_rate": 0.0416666679084301,
+        "refusal_reason_accuracy": 0.65,
+        "refuse_false_positive_rate": 0.0,
+        "samples": 96,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "late",
+      "register": {
+        "decode_distance_max": 1.2323673963546753,
+        "decode_distance_mean": 0.5309165120124817,
+        "decode_margin_mean": 2.0056393146514893,
+        "decode_margin_min": 0.009328842163085938,
+        "joint_accuracy": 0.5416666865348816,
+        "register_valid_rate": 0.7083333730697632,
+        "scope_accuracy": 0.7083333730697632,
+        "witness_accuracy": 0.5416666865348816
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.15,
+        "admit_rate": 0.2083333283662796,
+        "policy_accuracy": 0.5,
+        "policy_violation_rate": 0.125,
+        "refusal_reason_accuracy": 0.5,
+        "refuse_false_positive_rate": 0.5,
+        "samples": 96,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "scaled",
+      "register": {
+        "decode_distance_max": 1.2636195421218872,
+        "decode_distance_mean": 0.566335141658783,
+        "decode_margin_mean": 2.0101187229156494,
+        "decode_margin_min": 0.11398375034332275,
+        "joint_accuracy": 0.25,
+        "register_valid_rate": 0.6666666865348816,
+        "scope_accuracy": 0.4583333432674408,
+        "witness_accuracy": 0.4583333432674408
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0833333358168602,
+        "policy_accuracy": 0.5,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.5,
+        "refuse_false_positive_rate": 0.5,
+        "samples": 96,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "fixed_absolute",
+      "register": {
+        "decode_distance_max": 1.3581452369689941,
+        "decode_distance_mean": 0.8015113472938538,
+        "decode_margin_mean": 1.339308738708496,
+        "decode_margin_min": 0.033661842346191406,
+        "joint_accuracy": 0.3333333432674408,
+        "register_valid_rate": 0.375,
+        "scope_accuracy": 0.375,
+        "witness_accuracy": 0.3333333432674408
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.3,
+        "admit_rate": 0.3333333432674408,
+        "policy_accuracy": 0.5,
+        "policy_violation_rate": 0.25,
+        "refusal_reason_accuracy": 0.5,
+        "refuse_false_positive_rate": 0.5,
+        "samples": 96,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "fixed_distance",
+      "register": {
+        "decode_distance_max": 0.504910945892334,
+        "decode_distance_mean": 0.2699933350086212,
+        "decode_margin_mean": 2.5858726501464844,
+        "decode_margin_min": 1.1587733030319214,
+        "joint_accuracy": 0.25,
+        "register_valid_rate": 1.0,
+        "scope_accuracy": 0.5,
+        "witness_accuracy": 0.5
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0833333358168602,
+        "policy_accuracy": 0.5,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.5,
+        "refuse_false_positive_rate": 0.5,
+        "samples": 96,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "early",
+      "register": {
+        "decode_distance_max": 1.8679544925689697,
+        "decode_distance_mean": 0.7790102362632751,
+        "decode_margin_mean": 1.487943172454834,
+        "decode_margin_min": 0.019962310791015625,
+        "joint_accuracy": 0.3333333432674408,
+        "register_valid_rate": 0.5,
+        "scope_accuracy": 0.5,
+        "witness_accuracy": 0.3333333432674408
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.2,
+        "admit_rate": 0.25,
+        "policy_accuracy": 0.5,
+        "policy_violation_rate": 0.1666666716337204,
+        "refusal_reason_accuracy": 0.5,
+        "refuse_false_positive_rate": 0.5,
+        "samples": 96,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "middle",
+      "register": {
+        "decode_distance_max": 1.014338731765747,
+        "decode_distance_mean": 0.46368682384490967,
+        "decode_margin_mean": 2.084113121032715,
+        "decode_margin_min": 0.381430983543396,
+        "joint_accuracy": 0.25,
+        "register_valid_rate": 0.75,
+        "scope_accuracy": 0.5,
+        "witness_accuracy": 0.5
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 256,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.3,
+        "admit_rate": 0.3333333432674408,
+        "policy_accuracy": 0.5,
+        "policy_violation_rate": 0.25,
+        "refusal_reason_accuracy": 0.5,
+        "refuse_false_positive_rate": 0.5,
+        "samples": 96,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "late",
+      "register": {
+        "decode_distance_max": 0.4920674264431,
+        "decode_distance_mean": 0.2679470479488373,
+        "decode_margin_mean": 2.867499589920044,
+        "decode_margin_min": 1.2427520751953125,
+        "joint_accuracy": 0.25,
+        "register_valid_rate": 1.0,
+        "scope_accuracy": 0.5,
+        "witness_accuracy": 0.5
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.25,
+        "admit_rate": 0.2083333283662796,
+        "policy_accuracy": 0.4166666567325592,
+        "policy_violation_rate": 0.2083333283662796,
+        "refusal_reason_accuracy": 0.5,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 48,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "scaled",
+      "register": {
+        "decode_distance_max": 1.0498270988464355,
+        "decode_distance_mean": 0.4072248935699463,
+        "decode_margin_mean": 4.993768215179443,
+        "decode_margin_min": 3.7894458770751953,
+        "joint_accuracy": 0.1666666716337204,
+        "register_valid_rate": 0.875,
+        "scope_accuracy": 0.4166666865348816,
+        "witness_accuracy": 0.375
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.15,
+        "admit_rate": 0.125,
+        "policy_accuracy": 0.3333333432674408,
+        "policy_violation_rate": 0.125,
+        "refusal_reason_accuracy": 0.4,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 48,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "fixed_absolute",
+      "register": {
+        "decode_distance_max": 1.1436058282852173,
+        "decode_distance_mean": 0.4454692304134369,
+        "decode_margin_mean": 4.19325065612793,
+        "decode_margin_min": 2.597153663635254,
+        "joint_accuracy": 0.0833333358168602,
+        "register_valid_rate": 0.7083333730697632,
+        "scope_accuracy": 0.25,
+        "witness_accuracy": 0.2916666865348816
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.15,
+        "admit_rate": 0.125,
+        "policy_accuracy": 0.4166666567325592,
+        "policy_violation_rate": 0.125,
+        "refusal_reason_accuracy": 0.5,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 48,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "fixed_distance",
+      "register": {
+        "decode_distance_max": 1.035159707069397,
+        "decode_distance_mean": 0.5836818218231201,
+        "decode_margin_mean": 5.418130397796631,
+        "decode_margin_min": 4.594768524169922,
+        "joint_accuracy": 0.1666666716337204,
+        "register_valid_rate": 0.7916666865348816,
+        "scope_accuracy": 0.3333333432674408,
+        "witness_accuracy": 0.375
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.3,
+        "admit_rate": 0.25,
+        "policy_accuracy": 0.3333333432674408,
+        "policy_violation_rate": 0.25,
+        "refusal_reason_accuracy": 0.4,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 48,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "early",
+      "register": {
+        "decode_distance_max": 0.9463468790054321,
+        "decode_distance_mean": 0.3959653675556183,
+        "decode_margin_mean": 4.465758800506592,
+        "decode_margin_min": 2.729586362838745,
+        "joint_accuracy": 0.0833333358168602,
+        "register_valid_rate": 0.8333333730697632,
+        "scope_accuracy": 0.3333333432674408,
+        "witness_accuracy": 0.3333333432674408
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.15,
+        "admit_rate": 0.125,
+        "policy_accuracy": 0.4166666567325592,
+        "policy_violation_rate": 0.125,
+        "refusal_reason_accuracy": 0.5,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 48,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "middle",
+      "register": {
+        "decode_distance_max": 1.0972967147827148,
+        "decode_distance_mean": 0.5238547325134277,
+        "decode_margin_mean": 5.151416778564453,
+        "decode_margin_min": 3.7923848628997803,
+        "joint_accuracy": 0.1666666716337204,
+        "register_valid_rate": 0.7916666865348816,
+        "scope_accuracy": 0.3333333432674408,
+        "witness_accuracy": 0.375
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 1024,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.1,
+        "admit_rate": 0.0833333358168602,
+        "policy_accuracy": 0.4166666567325592,
+        "policy_violation_rate": 0.0833333358168602,
+        "refusal_reason_accuracy": 0.5,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 48,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "late",
+      "register": {
+        "decode_distance_max": 1.1511576175689697,
+        "decode_distance_mean": 0.6389739513397217,
+        "decode_margin_mean": 5.459660053253174,
+        "decode_margin_min": 4.6686201095581055,
+        "joint_accuracy": 0.1666666716337204,
+        "register_valid_rate": 0.75,
+        "scope_accuracy": 0.3333333432674408,
+        "witness_accuracy": 0.3333333432674408
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.3333333432674408,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.4,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 24,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "scaled",
+      "register": {
+        "decode_distance_max": 3.2337453365325928,
+        "decode_distance_mean": 2.8291776180267334,
+        "decode_margin_mean": 4.061901569366455,
+        "decode_margin_min": 3.7780563831329346,
+        "joint_accuracy": 0.0,
+        "register_valid_rate": 0.0,
+        "scope_accuracy": 0.0,
+        "witness_accuracy": 0.0
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.3333333432674408,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.4,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 24,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "fixed_absolute",
+      "register": {
+        "decode_distance_max": 3.3414738178253174,
+        "decode_distance_mean": 2.5040109157562256,
+        "decode_margin_mean": 4.12373685836792,
+        "decode_margin_min": 3.3664066791534424,
+        "joint_accuracy": 0.0,
+        "register_valid_rate": 0.0,
+        "scope_accuracy": 0.0,
+        "witness_accuracy": 0.0
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.3333333432674408,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.4,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 24,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "fixed_distance",
+      "register": {
+        "decode_distance_max": 3.1999971866607666,
+        "decode_distance_mean": 2.874279737472534,
+        "decode_margin_mean": 4.089838027954102,
+        "decode_margin_min": 3.834092378616333,
+        "joint_accuracy": 0.0,
+        "register_valid_rate": 0.0,
+        "scope_accuracy": 0.0,
+        "witness_accuracy": 0.0
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.3333333432674408,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.4,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 24,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "early",
+      "register": {
+        "decode_distance_max": 3.312551259994507,
+        "decode_distance_mean": 2.5895895957946777,
+        "decode_margin_mean": 4.105330467224121,
+        "decode_margin_min": 3.382949113845825,
+        "joint_accuracy": 0.0,
+        "register_valid_rate": 0.0,
+        "scope_accuracy": 0.0,
+        "witness_accuracy": 0.0
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.3333333432674408,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.4,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 24,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "middle",
+      "register": {
+        "decode_distance_max": 3.214386224746704,
+        "decode_distance_mean": 2.8710849285125732,
+        "decode_margin_mean": 4.1142144203186035,
+        "decode_margin_min": 3.8486995697021484,
+        "joint_accuracy": 0.0,
+        "register_valid_rate": 0.0,
+        "scope_accuracy": 0.0,
+        "witness_accuracy": 0.0
+      },
+      "seed": 113
+    },
+    {
+      "context_len": 4096,
+      "encoding": "binary_pair",
+      "governance": {
+        "admit_false_positive_rate": 0.0,
+        "admit_rate": 0.0,
+        "policy_accuracy": 0.3333333432674408,
+        "policy_violation_rate": 0.0,
+        "refusal_reason_accuracy": 0.4,
+        "refuse_false_positive_rate": 1.0,
+        "samples": 24,
+        "true_admit_rate": 0.1666666716337204
+      },
+      "mode": "late",
+      "register": {
+        "decode_distance_max": 3.2120778560638428,
+        "decode_distance_mean": 2.9040353298187256,
+        "decode_margin_mean": 4.1202168464660645,
+        "decode_margin_min": 3.866637945175171,
+        "joint_accuracy": 0.0,
+        "register_valid_rate": 0.0,
+        "scope_accuracy": 0.0,
+        "witness_accuracy": 0.0
+      },
+      "seed": 113
+    }
+  ],
+  "run_id": "binary_pair_seed_113_L64_D96_S1500",
+  "runtime_seconds": 11.937617301940918,
+  "schema": "schmittformer.semantic_register_sweep.v1",
+  "seed": 113,
+  "train_metrics": {
+    "config": {
+      "batch_size": 256,
+      "d_ff": 192,
+      "d_model": 96,
+      "e2e_decision_weight": 0.5,
+      "encoding": "binary_pair",
+      "learning_rate": 0.0003,
+      "log_every": 375,
+      "max_len": 4096,
+      "n_heads": 4,
+      "n_layers": 4,
+      "register_ce_weight": 1.0,
+      "register_gate_weight": 0.75,
+      "register_mse_weight": 2.0,
+      "seed": 113,
+      "seq_len": 64,
+      "steps": 1500,
+      "train_nuisance_corr": 0.95
+    },
+    "loaded_checkpoint": "results/semantic_register/checkpoints/explicit_register_binary_pair_seed_113_L64_D96_S1500.pt"
+  }
+}

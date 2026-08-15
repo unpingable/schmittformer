@@ -1,0 +1,3842 @@
+[
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 101,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 101,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 101,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 101,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 102,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 102,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 102,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 102,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 103,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 103,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 103,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 103,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 104,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 104,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 104,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 104,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 105,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 105,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 105,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 105,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 106,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 106,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 106,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 106,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 107,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 107,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 107,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 107,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 108,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 108,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 108,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 108,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 109,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 109,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 109,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 109,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 110,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 110,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 110,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 110,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 111,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 111,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 111,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 111,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 112,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 112,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 112,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 112,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 113,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 113,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 113,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 113,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 114,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 114,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 114,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 114,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 115,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 115,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 115,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 115,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 116,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 116,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 116,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "binary_pair",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 116,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 101,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 101,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 101,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 101,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 102,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 102,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 102,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 102,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 103,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 103,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 103,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 103,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 104,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 104,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 104,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 104,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 105,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 105,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 105,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 105,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 106,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 106,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 106,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 106,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 107,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 107,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 107,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 107,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 108,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 108,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 108,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 108,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 109,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 109,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 109,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 109,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 110,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 110,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 110,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 110,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 111,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 111,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 111,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 111,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 112,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 112,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 112,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 112,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 113,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 113,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 113,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 113,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 114,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 114,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 114,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 114,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 115,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 115,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 115,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 115,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 116,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 116,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 116,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "grouped_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 116,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 101,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 101,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 101,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 101,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 102,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 102,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 102,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 102,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 103,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 103,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 103,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 103,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 104,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 104,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 104,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 104,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 105,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 105,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 105,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 105,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 106,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 106,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 106,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 106,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 107,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 107,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 107,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 107,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 108,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 108,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 108,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 108,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 109,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 109,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 109,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 109,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 110,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 110,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 110,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 110,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 111,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 111,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 111,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 111,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 112,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 112,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 112,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 112,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 113,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 113,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 113,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 113,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 114,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 114,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 114,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 114,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 115,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 115,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 115,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 115,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 64,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 116,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 256,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 116,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 1024,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 116,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  },
+  {
+    "context_len": 4096,
+    "encoding": "joint_one_hot",
+    "internal_vs_external_from_same_register": {
+      "exact_match_rate": 1.0,
+      "mismatches": 0,
+      "samples": 24
+    },
+    "seed": 116,
+    "true_trusted_metadata_monitor": {
+      "admit_false_positive_rate": 0.0,
+      "admit_rate": 0.1666666716337204,
+      "policy_accuracy": 1.0,
+      "policy_violation_rate": 0.0,
+      "refusal_reason_accuracy": 1.0,
+      "refuse_false_positive_rate": 0.0,
+      "samples": 24,
+      "true_admit_rate": 0.1666666716337204
+    }
+  }
+]

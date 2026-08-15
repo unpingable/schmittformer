@@ -1,0 +1,18 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='820' height='420' viewBox='0 0 820 420'>
+<rect width='100%' height='100%' fill='white'/>
+<text x='58' y='30' font-family='sans-serif' font-size='18'>Binary-pair governance under nuisance shift, context 1024</text>
+<line x1='58' y1='362' x2='762' y2='362' stroke='#111'/>
+<line x1='58' y1='58' x2='58' y2='362' stroke='#111'/>
+<rect x='58.0' y='230.0' width='170.0' height='132.0' fill='#2563eb'/>
+<text x='58.0' y='376' font-family='sans-serif' font-size='9' transform='rotate(35 58.0,376)'>IID</text>
+<text x='58.0' y='226.0' font-family='sans-serif' font-size='9'>0.43</text>
+<rect x='236.0' y='230.8' width='170.0' height='131.2' fill='#2563eb'/>
+<text x='236.0' y='376' font-family='sans-serif' font-size='9' transform='rotate(35 236.0,376)'>WEAKENED</text>
+<text x='236.0' y='226.8' font-family='sans-serif' font-size='9'>0.43</text>
+<rect x='414.0' y='224.4' width='170.0' height='137.6' fill='#2563eb'/>
+<text x='414.0' y='376' font-family='sans-serif' font-size='9' transform='rotate(35 414.0,376)'>INDEPENDENT</text>
+<text x='414.0' y='220.4' font-family='sans-serif' font-size='9'>0.45</text>
+<rect x='592.0' y='231.1' width='170.0' height='130.9' fill='#2563eb'/>
+<text x='592.0' y='376' font-family='sans-serif' font-size='9' transform='rotate(35 592.0,376)'>REVERSED</text>
+<text x='592.0' y='227.1' font-family='sans-serif' font-size='9'>0.43</text>
+</svg>

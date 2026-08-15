@@ -1,0 +1,29 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='760' height='420' viewBox='0 0 760 420'>
+<rect width='100%' height='100%' fill='white'/>
+<text x='54' y='28' font-family='sans-serif' font-size='18'>Direct governance transfer vs context</text>
+<line x1='54' y1='366' x2='706' y2='366' stroke='#111'/>
+<line x1='54' y1='54' x2='54' y2='366' stroke='#111'/>
+<polyline fill='none' stroke='#2563eb' stroke-width='2.5' points='54.0,54.0 85.0,229.8 209.2,266.6 706.0,312.3'/>
+<circle cx='54.0' cy='54.0' r='3' fill='#2563eb'/>
+<circle cx='85.0' cy='229.8' r='3' fill='#2563eb'/>
+<circle cx='209.2' cy='266.6' r='3' fill='#2563eb'/>
+<circle cx='706.0' cy='312.3' r='3' fill='#2563eb'/>
+<text x='516' y='54' font-family='sans-serif' font-size='12' fill='#2563eb'>explicit binary_pair</text>
+<polyline fill='none' stroke='#dc2626' stroke-width='2.5' points='54.0,54.0 85.0,264.2 209.2,318.5 706.0,329.9'/>
+<circle cx='54.0' cy='54.0' r='3' fill='#dc2626'/>
+<circle cx='85.0' cy='264.2' r='3' fill='#dc2626'/>
+<circle cx='209.2' cy='318.5' r='3' fill='#dc2626'/>
+<circle cx='706.0' cy='329.9' r='3' fill='#dc2626'/>
+<text x='516' y='72' font-family='sans-serif' font-size='12' fill='#dc2626'>explicit grouped_one_hot</text>
+<polyline fill='none' stroke='#059669' stroke-width='2.5' points='54.0,54.0 85.0,281.9 209.2,366.0 706.0,341.6'/>
+<circle cx='54.0' cy='54.0' r='3' fill='#059669'/>
+<circle cx='85.0' cy='281.9' r='3' fill='#059669'/>
+<circle cx='209.2' cy='366.0' r='3' fill='#059669'/>
+<circle cx='706.0' cy='341.6' r='3' fill='#059669'/>
+<text x='516' y='90' font-family='sans-serif' font-size='12' fill='#059669'>explicit joint_one_hot</text>
+<polyline fill='none' stroke='#7c3aed' stroke-width='2.5' points='54.0,54.0 85.0,112.7 209.2,155.7'/>
+<circle cx='54.0' cy='54.0' r='3' fill='#7c3aed'/>
+<circle cx='85.0' cy='112.7' r='3' fill='#7c3aed'/>
+<circle cx='209.2' cy='155.7' r='3' fill='#7c3aed'/>
+<text x='516' y='108' font-family='sans-serif' font-size='12' fill='#7c3aed'>emergent 64-gate</text>
+</svg>

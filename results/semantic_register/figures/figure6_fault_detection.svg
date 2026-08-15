@@ -1,0 +1,36 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='760' height='420' viewBox='0 0 760 420'>
+<rect width='100%' height='100%' fill='white'/>
+<text x='54' y='28' font-family='sans-serif' font-size='18'>Invalid register detection by corruption mode</text>
+<line x1='54' y1='366' x2='706' y2='366' stroke='#111'/>
+<line x1='54' y1='54' x2='54' y2='366' stroke='#111'/>
+<polyline fill='none' stroke='#2563eb' stroke-width='2.5' points='54.0,366.0 147.1,54.0 240.3,54.0 333.4,54.0 426.6,366.0 519.7,366.0 612.9,366.0 706.0,366.0'/>
+<circle cx='54.0' cy='366.0' r='3' fill='#2563eb'/>
+<circle cx='147.1' cy='54.0' r='3' fill='#2563eb'/>
+<circle cx='240.3' cy='54.0' r='3' fill='#2563eb'/>
+<circle cx='333.4' cy='54.0' r='3' fill='#2563eb'/>
+<circle cx='426.6' cy='366.0' r='3' fill='#2563eb'/>
+<circle cx='519.7' cy='366.0' r='3' fill='#2563eb'/>
+<circle cx='612.9' cy='366.0' r='3' fill='#2563eb'/>
+<circle cx='706.0' cy='366.0' r='3' fill='#2563eb'/>
+<text x='516' y='54' font-family='sans-serif' font-size='12' fill='#2563eb'>binary_pair</text>
+<polyline fill='none' stroke='#dc2626' stroke-width='2.5' points='54.0,366.0 147.1,54.0 240.3,54.0 333.4,54.0 426.6,366.0 519.7,366.0 612.9,366.0 706.0,366.0'/>
+<circle cx='54.0' cy='366.0' r='3' fill='#dc2626'/>
+<circle cx='147.1' cy='54.0' r='3' fill='#dc2626'/>
+<circle cx='240.3' cy='54.0' r='3' fill='#dc2626'/>
+<circle cx='333.4' cy='54.0' r='3' fill='#dc2626'/>
+<circle cx='426.6' cy='366.0' r='3' fill='#dc2626'/>
+<circle cx='519.7' cy='366.0' r='3' fill='#dc2626'/>
+<circle cx='612.9' cy='366.0' r='3' fill='#dc2626'/>
+<circle cx='706.0' cy='366.0' r='3' fill='#dc2626'/>
+<text x='516' y='72' font-family='sans-serif' font-size='12' fill='#dc2626'>grouped_one_hot</text>
+<polyline fill='none' stroke='#059669' stroke-width='2.5' points='54.0,366.0 147.1,54.0 240.3,54.0 333.4,54.0 426.6,366.0 519.7,366.0 612.9,366.0 706.0,366.0'/>
+<circle cx='54.0' cy='366.0' r='3' fill='#059669'/>
+<circle cx='147.1' cy='54.0' r='3' fill='#059669'/>
+<circle cx='240.3' cy='54.0' r='3' fill='#059669'/>
+<circle cx='333.4' cy='54.0' r='3' fill='#059669'/>
+<circle cx='426.6' cy='366.0' r='3' fill='#059669'/>
+<circle cx='519.7' cy='366.0' r='3' fill='#059669'/>
+<circle cx='612.9' cy='366.0' r='3' fill='#059669'/>
+<circle cx='706.0' cy='366.0' r='3' fill='#059669'/>
+<text x='516' y='90' font-family='sans-serif' font-size='12' fill='#059669'>joint_one_hot</text>
+</svg>
