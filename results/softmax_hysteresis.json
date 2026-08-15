@@ -1,0 +1,57 @@
+{
+  "config": {
+    "dtype": "float64",
+    "non_state_penalty": 4.0,
+    "state_record_gap": 2.0
+  },
+  "exhaustive": {
+    "effectively_hard_sentinel": false,
+    "elapsed_seconds": 5.103277206420898,
+    "failures": [],
+    "finite": true,
+    "max_len": 6,
+    "min_decision_margin_sentinel": 0.6947504698198039,
+    "passed": true,
+    "sequences": 2222220,
+    "tokens": 13086420
+  },
+  "history_equivalence": {
+    "comparisons": 35,
+    "examples": [],
+    "history_equivalence_violations": 0,
+    "max_latent_state_mass_diff": 0.11354961935990138,
+    "mean_latent_state_mass_diff": 0.048406588153358646,
+    "passed": true
+  },
+  "long_traces": {
+    "deadband_off_4096": {
+      "exact": true,
+      "first_divergence": null,
+      "length": 4096
+    },
+    "deadband_on_4096": {
+      "exact": true,
+      "first_divergence": null,
+      "length": 4096
+    },
+    "long_random_4096": {
+      "exact": true,
+      "first_divergence": null,
+      "length": 4096
+    },
+    "threshold_crossings_2048": {
+      "exact": true,
+      "first_divergence": null,
+      "length": 2048
+    }
+  },
+  "transition_check": {
+    "effectively_hard": false,
+    "failures": [],
+    "finite": true,
+    "max_non_state_mass": 0.04742587317756679,
+    "max_stale_state_mass": 0.12687017378651322,
+    "min_decision_margin": 0.6988337792494068,
+    "passed": true
+  }
+}

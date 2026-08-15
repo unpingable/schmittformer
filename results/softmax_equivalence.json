@@ -1,0 +1,19 @@
+{
+  "circuit": {
+    "comparisons": 1680,
+    "examples": [],
+    "groups_checked": 48,
+    "history_equivalence_violations": 0,
+    "max_latent_state_mass_diff": 0.1289168892573711,
+    "mean_latent_state_mass_diff": 0.0024988090548539333,
+    "passed": true
+  },
+  "hysteresis": {
+    "comparisons": 35,
+    "examples": [],
+    "history_equivalence_violations": 0,
+    "max_latent_state_mass_diff": 0.11354961935990138,
+    "mean_latent_state_mass_diff": 0.048406588153358646,
+    "passed": true
+  }
+}

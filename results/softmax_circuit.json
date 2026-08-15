@@ -1,0 +1,60 @@
+{
+  "config": {
+    "dtype": "float64",
+    "non_state_penalty": 4.0,
+    "state_record_gap": 2.0
+  },
+  "history_equivalence": {
+    "comparisons": 1680,
+    "examples": [],
+    "groups_checked": 48,
+    "history_equivalence_violations": 0,
+    "max_latent_state_mass_diff": 0.1289168892573711,
+    "mean_latent_state_mass_diff": 0.0024988090548539333,
+    "passed": true
+  },
+  "long_traces": {
+    "healthy_4096": {
+      "exact_state": true,
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "length": 4096
+    },
+    "repeated_trip_recover_1280": {
+      "exact_state": true,
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "length": 1280
+    },
+    "sustained_failure_256": {
+      "exact_state": true,
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "length": 256
+    },
+    "sustained_unknown_1024": {
+      "exact_state": true,
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "length": 1024
+    },
+    "threshold_edge_1024": {
+      "exact_state": true,
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "length": 1024
+    }
+  },
+  "transition_check": {
+    "effectively_hard": false,
+    "failures": [],
+    "finite": true,
+    "histories_checked": 384,
+    "max_non_state_mass": 0.04742587317756679,
+    "max_stale_state_mass": 0.1289168892573831,
+    "min_decision_margin": 0.6947403483076672,
+    "passed": true,
+    "reachable_states": 48,
+    "transitions_checked": 1152
+  }
+}

@@ -79,6 +79,15 @@ The second experiment adds a richer finite-state controller with a failure windo
 .venv/bin/python -m experiments.run_circuit --natural-steps 1500 --balanced-steps 1200 --classifier-steps 1000 --e2e-steps 1500 --train-len 64
 ```
 
+
+## Finite-Softmax Experiment
+
+The third experiment replaces hard latest-state retrieval with ordinary finite-temperature softmax attention while preserving explicit state tokens and final argmax decoding. See `SOFTMAX_ANALYSIS.md` and `SOFTMAX_RESULTS.md`, and run:
+
+```bash
+.venv/bin/python -m experiments.run_softmax --hysteresis-max-len 6 --batch-size 8192
+```
+
 ## Current Ruling
 
 The intended ruling for this first pass is **B**, not **A**.

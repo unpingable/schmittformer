@@ -1,0 +1,21 @@
+{
+  "circuit_passed": true,
+  "counterexamples_found": 6,
+  "first_passing_margin_by_controller_dtype_16384": {
+    "circuit/bfloat16": null,
+    "circuit/float16": null,
+    "circuit/float32": 0.7,
+    "circuit/float64": 0.7,
+    "hysteresis/bfloat16": null,
+    "hysteresis/float16": null,
+    "hysteresis/float32": 0.7,
+    "hysteresis/float64": 0.7
+  },
+  "good_config": {
+    "dtype": "float64",
+    "non_state_penalty": 4.0,
+    "state_record_gap": 2.0
+  },
+  "hard_attention_checkpoint": "cd5a9867175c73ca186a8c4cb67d0338fbf474ff",
+  "hysteresis_passed": true
+}
