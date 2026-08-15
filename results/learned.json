@@ -1,0 +1,145 @@
+{
+  "eval": {
+    "adversarial": {
+      "deadband_off": {
+        "exact": false,
+        "first_divergence": 4,
+        "length": 96,
+        "token_accuracy": 0.6979166666666666
+      },
+      "example": {
+        "exact": true,
+        "first_divergence": null,
+        "length": 8,
+        "token_accuracy": 1.0
+      },
+      "long_random": {
+        "exact": false,
+        "first_divergence": 18,
+        "length": 512,
+        "token_accuracy": 0.79296875
+      },
+      "near_thresholds": {
+        "exact": false,
+        "first_divergence": 17,
+        "length": 128,
+        "token_accuracy": 0.78125
+      },
+      "threshold_crossings": {
+        "exact": false,
+        "first_divergence": 16,
+        "length": 120,
+        "token_accuracy": 0.7
+      }
+    },
+    "exhaustive": {
+      "initial_off_len4": {
+        "exact_sequences": 11109,
+        "exact_tokens": 43209,
+        "first_divergence": {
+          "actual": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "expected": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "index": 3,
+          "initial_state": 0,
+          "inputs": [
+            5,
+            6,
+            4,
+            5
+          ]
+        },
+        "illegal_transitions": 1,
+        "sequence_accuracy": 0.9999099909990999,
+        "sequences": 11110,
+        "token_accuracy": 0.9999768572089794,
+        "tokens": 43210
+      },
+      "initial_on_len4": {
+        "exact_sequences": 11110,
+        "exact_tokens": 43210,
+        "first_divergence": null,
+        "illegal_transitions": 0,
+        "sequence_accuracy": 1.0,
+        "sequences": 11110,
+        "token_accuracy": 1.0,
+        "tokens": 43210
+      }
+    }
+  },
+  "train": {
+    "config": {
+      "batch_size": 128,
+      "d_ff": 64,
+      "d_model": 32,
+      "learning_rate": 0.0003,
+      "log_every": 100,
+      "max_len": 1024,
+      "n_heads": 2,
+      "n_layers": 2,
+      "seed": 7,
+      "steps": 800,
+      "train_len": 16
+    },
+    "cuda_available": false,
+    "device": "cpu",
+    "history": [
+      {
+        "accuracy": 0.67333984375,
+        "loss": 0.6241161227226257,
+        "step": 1
+      },
+      {
+        "accuracy": 0.91796875,
+        "loss": 0.18220670521259308,
+        "step": 100
+      },
+      {
+        "accuracy": 0.9267578125,
+        "loss": 0.14386340975761414,
+        "step": 200
+      },
+      {
+        "accuracy": 0.95361328125,
+        "loss": 0.10654959827661514,
+        "step": 300
+      },
+      {
+        "accuracy": 0.97119140625,
+        "loss": 0.05987775698304176,
+        "step": 400
+      },
+      {
+        "accuracy": 0.98779296875,
+        "loss": 0.032158903777599335,
+        "step": 500
+      },
+      {
+        "accuracy": 0.9951171875,
+        "loss": 0.014039631932973862,
+        "step": 600
+      },
+      {
+        "accuracy": 0.99609375,
+        "loss": 0.011050350964069366,
+        "step": 700
+      },
+      {
+        "accuracy": 0.99853515625,
+        "loss": 0.005262921564280987,
+        "step": 800
+      }
+    ],
+    "torch_version": "2.13.0+cpu",
+    "training_time_seconds": 6.6447508335113525
+  }
+}

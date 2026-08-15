@@ -1,0 +1,7 @@
+{
+  "cuda_available": false,
+  "cuda_version": null,
+  "device": "cpu",
+  "gpu": "NVIDIA GeForce RTX 5060 Ti, 16311 MiB, 570.211.01",
+  "torch_version": "2.13.0+cpu"
+}

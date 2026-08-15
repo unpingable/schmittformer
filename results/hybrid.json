@@ -1,0 +1,169 @@
+{
+  "scenarios": {
+    "in_distribution": {
+      "batches": 8,
+      "bias": 0.0,
+      "classifier_accuracy": 0.7968292236328125,
+      "end_to_end_illegal_transitions_vs_true_latent": 18842,
+      "end_to_end_state_accuracy": 0.8470993041992188,
+      "hybrid_illegal_transitions_vs_predicted_belief": 0,
+      "hybrid_illegal_transitions_vs_true_latent": 2046,
+      "hybrid_state_accuracy": 0.9784469604492188,
+      "near_threshold_prob": 0.0,
+      "seq_len": 128,
+      "sigma": 0.35,
+      "tokens": 131072
+    },
+    "long_duration": {
+      "batches": 2,
+      "bias": 0.0,
+      "classifier_accuracy": 0.6388435363769531,
+      "end_to_end_illegal_transitions_vs_true_latent": 47754,
+      "end_to_end_state_accuracy": 0.8091506958007812,
+      "hybrid_illegal_transitions_vs_predicted_belief": 0,
+      "hybrid_illegal_transitions_vs_true_latent": 11361,
+      "hybrid_state_accuracy": 0.9398727416992188,
+      "near_threshold_prob": 0.5,
+      "seq_len": 1024,
+      "sigma": 0.5,
+      "tokens": 262144
+    },
+    "near_thresholds": {
+      "batches": 8,
+      "bias": 0.1,
+      "classifier_accuracy": 0.5192947387695312,
+      "end_to_end_illegal_transitions_vs_true_latent": 53294,
+      "end_to_end_state_accuracy": 0.7916412353515625,
+      "hybrid_illegal_transitions_vs_predicted_belief": 0,
+      "hybrid_illegal_transitions_vs_true_latent": 18398,
+      "hybrid_state_accuracy": 0.9037132263183594,
+      "near_threshold_prob": 1.0,
+      "seq_len": 256,
+      "sigma": 0.6,
+      "tokens": 262144
+    },
+    "shifted_noise": {
+      "batches": 8,
+      "bias": 0.25,
+      "classifier_accuracy": 0.482177734375,
+      "end_to_end_illegal_transitions_vs_true_latent": 44936,
+      "end_to_end_state_accuracy": 0.8262252807617188,
+      "hybrid_illegal_transitions_vs_predicted_belief": 0,
+      "hybrid_illegal_transitions_vs_true_latent": 16716,
+      "hybrid_state_accuracy": 0.9146881103515625,
+      "near_threshold_prob": 0.0,
+      "seq_len": 256,
+      "sigma": 0.8,
+      "tokens": 262144
+    }
+  },
+  "train": {
+    "classifier": {
+      "history": [
+        {
+          "accuracy": 0.09375,
+          "loss": 2.5620718002319336,
+          "step": 1
+        },
+        {
+          "accuracy": 0.1875,
+          "loss": 1.991609811782837,
+          "step": 100
+        },
+        {
+          "accuracy": 0.4296875,
+          "loss": 1.6082398891448975,
+          "step": 200
+        },
+        {
+          "accuracy": 0.546875,
+          "loss": 1.382261872291565,
+          "step": 300
+        },
+        {
+          "accuracy": 0.640625,
+          "loss": 1.082716464996338,
+          "step": 400
+        },
+        {
+          "accuracy": 0.8046875,
+          "loss": 0.9561888575553894,
+          "step": 500
+        },
+        {
+          "accuracy": 0.7265625,
+          "loss": 0.8552466034889221,
+          "step": 600
+        }
+      ],
+      "training_time_seconds": 0.4537632465362549
+    },
+    "config": {
+      "batch_size": 128,
+      "classifier_steps": 600,
+      "d_ff": 64,
+      "d_model": 32,
+      "e2e_steps": 800,
+      "learning_rate": 0.0005,
+      "max_len": 1024,
+      "n_heads": 2,
+      "n_layers": 2,
+      "seed": 11,
+      "sigma": 0.35,
+      "train_len": 16
+    },
+    "cuda_available": false,
+    "device": "cpu",
+    "end_to_end": {
+      "history": [
+        {
+          "accuracy": 0.54150390625,
+          "loss": 0.8764335513114929,
+          "step": 1
+        },
+        {
+          "accuracy": 0.86865234375,
+          "loss": 0.25256896018981934,
+          "step": 100
+        },
+        {
+          "accuracy": 0.88916015625,
+          "loss": 0.22532252967357635,
+          "step": 200
+        },
+        {
+          "accuracy": 0.900390625,
+          "loss": 0.20971934497356415,
+          "step": 300
+        },
+        {
+          "accuracy": 0.93017578125,
+          "loss": 0.16243866086006165,
+          "step": 400
+        },
+        {
+          "accuracy": 0.927734375,
+          "loss": 0.16846832633018494,
+          "step": 500
+        },
+        {
+          "accuracy": 0.93505859375,
+          "loss": 0.1479744166135788,
+          "step": 600
+        },
+        {
+          "accuracy": 0.94970703125,
+          "loss": 0.12045828253030777,
+          "step": 700
+        },
+        {
+          "accuracy": 0.95654296875,
+          "loss": 0.10858184099197388,
+          "step": 800
+        }
+      ],
+      "training_time_seconds": 6.706214189529419
+    },
+    "torch_version": "2.13.0+cpu"
+  }
+}

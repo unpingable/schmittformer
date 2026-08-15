@@ -1,0 +1,77 @@
+{
+  "adversarial": {
+    "deadband_off": {
+      "exact": false,
+      "first_divergence": 4,
+      "length": 96,
+      "token_accuracy": 0.6979166666666666
+    },
+    "example": {
+      "exact": true,
+      "first_divergence": null,
+      "length": 8,
+      "token_accuracy": 1.0
+    },
+    "long_random": {
+      "exact": false,
+      "first_divergence": 18,
+      "length": 512,
+      "token_accuracy": 0.79296875
+    },
+    "near_thresholds": {
+      "exact": false,
+      "first_divergence": 17,
+      "length": 128,
+      "token_accuracy": 0.78125
+    },
+    "threshold_crossings": {
+      "exact": false,
+      "first_divergence": 16,
+      "length": 120,
+      "token_accuracy": 0.7
+    }
+  },
+  "exhaustive": {
+    "initial_off_len4": {
+      "exact_sequences": 11109,
+      "exact_tokens": 43209,
+      "first_divergence": {
+        "actual": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "expected": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "index": 3,
+        "initial_state": 0,
+        "inputs": [
+          5,
+          6,
+          4,
+          5
+        ]
+      },
+      "illegal_transitions": 1,
+      "sequence_accuracy": 0.9999099909990999,
+      "sequences": 11110,
+      "token_accuracy": 0.9999768572089794,
+      "tokens": 43210
+    },
+    "initial_on_len4": {
+      "exact_sequences": 11110,
+      "exact_tokens": 43210,
+      "first_divergence": null,
+      "illegal_transitions": 0,
+      "sequence_accuracy": 1.0,
+      "sequences": 11110,
+      "token_accuracy": 1.0,
+      "tokens": 43210
+    }
+  }
+}

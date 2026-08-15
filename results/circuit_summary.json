@@ -1,0 +1,9 @@
+{
+  "compiled_history_equivalence_passed": true,
+  "compiled_transition_check_passed": true,
+  "hybrid_ran": true,
+  "learned_variants": [
+    "natural",
+    "adversarial"
+  ]
+}

@@ -1,0 +1,2325 @@
+{
+  "canonical_histories": {
+    "0": [],
+    "1": [
+      0
+    ],
+    "10": [
+      0,
+      1,
+      1
+    ],
+    "11": [
+      1,
+      0,
+      0
+    ],
+    "12": [
+      1,
+      0,
+      1
+    ],
+    "13": [
+      1,
+      1,
+      0
+    ],
+    "14": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "15": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "16": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "17": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "18": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "19": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "2": [
+      1
+    ],
+    "20": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "21": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "22": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "23": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "24": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "25": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "26": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "27": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "28": [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "29": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "3": [
+      0,
+      0
+    ],
+    "30": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "31": [
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "32": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "33": [
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "34": [
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "35": [
+      0,
+      1,
+      1,
+      0,
+      0
+    ],
+    "36": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "37": [
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "38": [
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    "39": [
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "4": [
+      0,
+      1
+    ],
+    "40": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "41": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "42": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "43": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "44": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "45": [
+      1,
+      1,
+      1
+    ],
+    "46": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "47": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "5": [
+      1,
+      0
+    ],
+    "6": [
+      1,
+      1
+    ],
+    "7": [
+      0,
+      0,
+      0
+    ],
+    "8": [
+      0,
+      0,
+      1
+    ],
+    "9": [
+      0,
+      1,
+      0
+    ]
+  },
+  "reachable_states": 48,
+  "reachable_transitions": 144,
+  "states": [
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [],
+      "failure_window_ids": [],
+      "id": 0,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0
+      ],
+      "id": 1,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        1
+      ],
+      "id": 2,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        0
+      ],
+      "id": 3,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        0,
+        1
+      ],
+      "id": 4,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        1,
+        0
+      ],
+      "id": 5,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        1,
+        1
+      ],
+      "id": 6,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        0,
+        0
+      ],
+      "id": 7,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        0,
+        0,
+        1
+      ],
+      "id": 8,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        1,
+        0
+      ],
+      "id": 9,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "FAILURE",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        0,
+        1,
+        1
+      ],
+      "id": 10,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        1,
+        0,
+        0
+      ],
+      "id": 11,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "SUCCESS",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        1,
+        0,
+        1
+      ],
+      "id": 12,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "FAILURE",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        1,
+        1,
+        0
+      ],
+      "id": 13,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 14,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "id": 15,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "id": 16,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "id": 17,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "id": 18,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "id": 19,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "FAILURE",
+        "FAILURE",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "id": 20,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "id": 21,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "id": 22,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "id": 23,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "id": 24,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 25,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "id": 26,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "id": 27,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "id": 28,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "id": 29,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "id": 30,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE",
+        "FAILURE",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "id": 31,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "id": 32,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "id": 33,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "id": 34,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "SUCCESS",
+        "FAILURE",
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "id": 35,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "id": 36,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE"
+      ],
+      "failure_window_ids": [
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "id": 37,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "id": 38,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "SUCCESS",
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "id": 39,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [
+        "FAILURE",
+        "FAILURE",
+        "SUCCESS",
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "failure_window_ids": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "id": 40,
+      "mode": "CLOSED",
+      "mode_id": 0,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [],
+      "failure_window_ids": [],
+      "id": 41,
+      "mode": "OPEN",
+      "mode_id": 1,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 1,
+      "failure_window": [],
+      "failure_window_ids": [],
+      "id": 42,
+      "mode": "OPEN",
+      "mode_id": 1,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 2,
+      "failure_window": [],
+      "failure_window_ids": [],
+      "id": 43,
+      "mode": "OPEN",
+      "mode_id": 1,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 3,
+      "failure_window": [],
+      "failure_window_ids": [],
+      "id": 44,
+      "mode": "OPEN",
+      "mode_id": 1,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 4,
+      "failure_window": [],
+      "failure_window_ids": [],
+      "id": 45,
+      "mode": "OPEN",
+      "mode_id": 1,
+      "probe_budget": 0
+    },
+    {
+      "consecutive_successes": 0,
+      "cooldown_remaining": 0,
+      "failure_window": [],
+      "failure_window_ids": [],
+      "id": 46,
+      "mode": "HALF_OPEN",
+      "mode_id": 2,
+      "probe_budget": 3
+    },
+    {
+      "consecutive_successes": 1,
+      "cooldown_remaining": 0,
+      "failure_window": [],
+      "failure_window_ids": [],
+      "id": 47,
+      "mode": "HALF_OPEN",
+      "mode_id": 2,
+      "probe_budget": 2
+    }
+  ],
+  "syntactic_normalized_states": 80,
+  "transitions": [
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 0,
+      "from_mode": "CLOSED",
+      "to": 1,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 0,
+      "from_mode": "CLOSED",
+      "to": 2,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 0,
+      "from_mode": "CLOSED",
+      "to": 0,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 1,
+      "from_mode": "CLOSED",
+      "to": 3,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 1,
+      "from_mode": "CLOSED",
+      "to": 4,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 1,
+      "from_mode": "CLOSED",
+      "to": 1,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 2,
+      "from_mode": "CLOSED",
+      "to": 5,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 2,
+      "from_mode": "CLOSED",
+      "to": 6,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 2,
+      "from_mode": "CLOSED",
+      "to": 2,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 3,
+      "from_mode": "CLOSED",
+      "to": 7,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 3,
+      "from_mode": "CLOSED",
+      "to": 8,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 3,
+      "from_mode": "CLOSED",
+      "to": 3,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 4,
+      "from_mode": "CLOSED",
+      "to": 9,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 4,
+      "from_mode": "CLOSED",
+      "to": 10,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 4,
+      "from_mode": "CLOSED",
+      "to": 4,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 5,
+      "from_mode": "CLOSED",
+      "to": 11,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 5,
+      "from_mode": "CLOSED",
+      "to": 12,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 5,
+      "from_mode": "CLOSED",
+      "to": 5,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 6,
+      "from_mode": "CLOSED",
+      "to": 13,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 6,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 6,
+      "from_mode": "CLOSED",
+      "to": 6,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 7,
+      "from_mode": "CLOSED",
+      "to": 14,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 7,
+      "from_mode": "CLOSED",
+      "to": 15,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 7,
+      "from_mode": "CLOSED",
+      "to": 7,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 8,
+      "from_mode": "CLOSED",
+      "to": 16,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 8,
+      "from_mode": "CLOSED",
+      "to": 17,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 8,
+      "from_mode": "CLOSED",
+      "to": 8,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 9,
+      "from_mode": "CLOSED",
+      "to": 18,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 9,
+      "from_mode": "CLOSED",
+      "to": 19,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 9,
+      "from_mode": "CLOSED",
+      "to": 9,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 10,
+      "from_mode": "CLOSED",
+      "to": 20,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 10,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 10,
+      "from_mode": "CLOSED",
+      "to": 10,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 11,
+      "from_mode": "CLOSED",
+      "to": 21,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 11,
+      "from_mode": "CLOSED",
+      "to": 22,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 11,
+      "from_mode": "CLOSED",
+      "to": 11,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 12,
+      "from_mode": "CLOSED",
+      "to": 23,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 12,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 12,
+      "from_mode": "CLOSED",
+      "to": 12,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 13,
+      "from_mode": "CLOSED",
+      "to": 24,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 13,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 13,
+      "from_mode": "CLOSED",
+      "to": 13,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 14,
+      "from_mode": "CLOSED",
+      "to": 25,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 14,
+      "from_mode": "CLOSED",
+      "to": 26,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 14,
+      "from_mode": "CLOSED",
+      "to": 14,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 15,
+      "from_mode": "CLOSED",
+      "to": 27,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 15,
+      "from_mode": "CLOSED",
+      "to": 28,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 15,
+      "from_mode": "CLOSED",
+      "to": 15,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 16,
+      "from_mode": "CLOSED",
+      "to": 29,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 16,
+      "from_mode": "CLOSED",
+      "to": 30,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 16,
+      "from_mode": "CLOSED",
+      "to": 16,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 17,
+      "from_mode": "CLOSED",
+      "to": 31,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 17,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 17,
+      "from_mode": "CLOSED",
+      "to": 17,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 18,
+      "from_mode": "CLOSED",
+      "to": 32,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 18,
+      "from_mode": "CLOSED",
+      "to": 33,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 18,
+      "from_mode": "CLOSED",
+      "to": 18,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 19,
+      "from_mode": "CLOSED",
+      "to": 34,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 19,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 19,
+      "from_mode": "CLOSED",
+      "to": 19,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 20,
+      "from_mode": "CLOSED",
+      "to": 35,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 20,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 20,
+      "from_mode": "CLOSED",
+      "to": 20,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 21,
+      "from_mode": "CLOSED",
+      "to": 36,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 21,
+      "from_mode": "CLOSED",
+      "to": 37,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 21,
+      "from_mode": "CLOSED",
+      "to": 21,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 22,
+      "from_mode": "CLOSED",
+      "to": 38,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 22,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 22,
+      "from_mode": "CLOSED",
+      "to": 22,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 23,
+      "from_mode": "CLOSED",
+      "to": 39,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 23,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 23,
+      "from_mode": "CLOSED",
+      "to": 23,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 24,
+      "from_mode": "CLOSED",
+      "to": 40,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 24,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 24,
+      "from_mode": "CLOSED",
+      "to": 24,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 25,
+      "from_mode": "CLOSED",
+      "to": 25,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 25,
+      "from_mode": "CLOSED",
+      "to": 26,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 25,
+      "from_mode": "CLOSED",
+      "to": 25,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 26,
+      "from_mode": "CLOSED",
+      "to": 27,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 26,
+      "from_mode": "CLOSED",
+      "to": 28,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 26,
+      "from_mode": "CLOSED",
+      "to": 26,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 27,
+      "from_mode": "CLOSED",
+      "to": 29,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 27,
+      "from_mode": "CLOSED",
+      "to": 30,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 27,
+      "from_mode": "CLOSED",
+      "to": 27,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 28,
+      "from_mode": "CLOSED",
+      "to": 31,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 28,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 28,
+      "from_mode": "CLOSED",
+      "to": 28,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 29,
+      "from_mode": "CLOSED",
+      "to": 32,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 29,
+      "from_mode": "CLOSED",
+      "to": 33,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 29,
+      "from_mode": "CLOSED",
+      "to": 29,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 30,
+      "from_mode": "CLOSED",
+      "to": 34,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 30,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 30,
+      "from_mode": "CLOSED",
+      "to": 30,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 31,
+      "from_mode": "CLOSED",
+      "to": 35,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 31,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 31,
+      "from_mode": "CLOSED",
+      "to": 31,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 32,
+      "from_mode": "CLOSED",
+      "to": 36,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 32,
+      "from_mode": "CLOSED",
+      "to": 37,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 32,
+      "from_mode": "CLOSED",
+      "to": 32,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 33,
+      "from_mode": "CLOSED",
+      "to": 38,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 33,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 33,
+      "from_mode": "CLOSED",
+      "to": 33,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 34,
+      "from_mode": "CLOSED",
+      "to": 39,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 34,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 34,
+      "from_mode": "CLOSED",
+      "to": 34,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 35,
+      "from_mode": "CLOSED",
+      "to": 40,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 35,
+      "from_mode": "CLOSED",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 35,
+      "from_mode": "CLOSED",
+      "to": 35,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 36,
+      "from_mode": "CLOSED",
+      "to": 25,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 36,
+      "from_mode": "CLOSED",
+      "to": 26,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 36,
+      "from_mode": "CLOSED",
+      "to": 36,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 37,
+      "from_mode": "CLOSED",
+      "to": 27,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 37,
+      "from_mode": "CLOSED",
+      "to": 28,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 37,
+      "from_mode": "CLOSED",
+      "to": 37,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 38,
+      "from_mode": "CLOSED",
+      "to": 29,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 38,
+      "from_mode": "CLOSED",
+      "to": 30,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 38,
+      "from_mode": "CLOSED",
+      "to": 38,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 39,
+      "from_mode": "CLOSED",
+      "to": 32,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 39,
+      "from_mode": "CLOSED",
+      "to": 33,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 39,
+      "from_mode": "CLOSED",
+      "to": 39,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 40,
+      "from_mode": "CLOSED",
+      "to": 36,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 40,
+      "from_mode": "CLOSED",
+      "to": 37,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 40,
+      "from_mode": "CLOSED",
+      "to": 40,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 41,
+      "from_mode": "OPEN",
+      "to": 46,
+      "to_mode": "HALF_OPEN"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 41,
+      "from_mode": "OPEN",
+      "to": 46,
+      "to_mode": "HALF_OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 41,
+      "from_mode": "OPEN",
+      "to": 46,
+      "to_mode": "HALF_OPEN"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 42,
+      "from_mode": "OPEN",
+      "to": 41,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 42,
+      "from_mode": "OPEN",
+      "to": 41,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 42,
+      "from_mode": "OPEN",
+      "to": 41,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 43,
+      "from_mode": "OPEN",
+      "to": 42,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 43,
+      "from_mode": "OPEN",
+      "to": 42,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 43,
+      "from_mode": "OPEN",
+      "to": 42,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 44,
+      "from_mode": "OPEN",
+      "to": 43,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 44,
+      "from_mode": "OPEN",
+      "to": 43,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 44,
+      "from_mode": "OPEN",
+      "to": 43,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 45,
+      "from_mode": "OPEN",
+      "to": 44,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 45,
+      "from_mode": "OPEN",
+      "to": 44,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 45,
+      "from_mode": "OPEN",
+      "to": 44,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 46,
+      "from_mode": "HALF_OPEN",
+      "to": 47,
+      "to_mode": "HALF_OPEN"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 46,
+      "from_mode": "HALF_OPEN",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 46,
+      "from_mode": "HALF_OPEN",
+      "to": 46,
+      "to_mode": "HALF_OPEN"
+    },
+    {
+      "event": "SUCCESS",
+      "event_id": 0,
+      "from": 47,
+      "from_mode": "HALF_OPEN",
+      "to": 0,
+      "to_mode": "CLOSED"
+    },
+    {
+      "event": "FAILURE",
+      "event_id": 1,
+      "from": 47,
+      "from_mode": "HALF_OPEN",
+      "to": 45,
+      "to_mode": "OPEN"
+    },
+    {
+      "event": "UNKNOWN",
+      "event_id": 2,
+      "from": 47,
+      "from_mode": "HALF_OPEN",
+      "to": 47,
+      "to_mode": "HALF_OPEN"
+    }
+  ]
+}

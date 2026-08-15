@@ -1,0 +1,3643 @@
+{
+  "counterexamples": {
+    "adversarial_mix_1024": {
+      "minimized_length": 4,
+      "original_length": 1054,
+      "sequence": [
+        2,
+        0,
+        1,
+        1
+      ]
+    },
+    "healthy_128": {
+      "minimized_length": 6,
+      "original_length": 128,
+      "sequence": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "natural_32": {
+      "minimized_length": 4,
+      "original_length": 32,
+      "sequence": [
+        0,
+        1,
+        0,
+        2
+      ]
+    },
+    "natural_64": {
+      "minimized_length": 4,
+      "original_length": 64,
+      "sequence": [
+        0,
+        1,
+        0,
+        2
+      ]
+    },
+    "repeated_trip_recover_256": {
+      "minimized_length": 5,
+      "original_length": 260,
+      "sequence": [
+        1,
+        2,
+        2,
+        0,
+        0
+      ]
+    },
+    "sustained_failure_128": {
+      "minimized_length": 22,
+      "original_length": 128,
+      "sequence": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "sustained_unknown_256": {
+      "minimized_length": 95,
+      "original_length": 256,
+      "sequence": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "threshold_edge_256": {
+      "minimized_length": 3,
+      "original_length": 256,
+      "sequence": [
+        1,
+        0,
+        1
+      ]
+    }
+  },
+  "history_equivalence": {
+    "comparisons": 63,
+    "examples": [
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "history_b_len": 7,
+        "outputs_a": [
+          1,
+          3
+        ],
+        "outputs_b": [
+          1,
+          1
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ],
+        "history_b_len": 10,
+        "outputs_a": [
+          1,
+          3
+        ],
+        "outputs_b": [
+          13,
+          40
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ],
+        "history_b_len": 21,
+        "outputs_a": [
+          1,
+          3
+        ],
+        "outputs_b": [
+          16,
+          29
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ],
+        "history_b_len": 10,
+        "outputs_a": [
+          2
+        ],
+        "outputs_b": [
+          45
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ],
+        "history_b_len": 21,
+        "outputs_a": [
+          2
+        ],
+        "outputs_b": [
+          45
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ],
+        "history_b_len": 10,
+        "outputs_a": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "outputs_b": [
+          13,
+          5,
+          5,
+          5,
+          5,
+          13,
+          13,
+          5
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ],
+        "history_b_len": 21,
+        "outputs_a": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "outputs_b": [
+          46,
+          46,
+          13,
+          13,
+          13,
+          13,
+          13,
+          13
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "history_b_len": 7,
+        "outputs_a": [
+          2,
+          6,
+          45,
+          6,
+          6,
+          6,
+          46,
+          46,
+          46,
+          47
+        ],
+        "outputs_b": [
+          2,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          47,
+          0
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "history_b_len": 37,
+        "outputs_a": [
+          2,
+          6,
+          45,
+          6,
+          6,
+          6,
+          46,
+          46,
+          46,
+          47
+        ],
+        "outputs_b": [
+          2,
+          6,
+          6,
+          2,
+          2,
+          2,
+          2,
+          2,
+          5,
+          5
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ],
+        "history_b_len": 10,
+        "outputs_a": [
+          2,
+          6,
+          45,
+          6,
+          6,
+          6,
+          46,
+          46,
+          46,
+          47
+        ],
+        "outputs_b": [
+          45,
+          45,
+          42,
+          41,
+          46,
+          46,
+          46,
+          46,
+          41,
+          41
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ],
+        "history_b_len": 21,
+        "outputs_a": [
+          2,
+          6,
+          45,
+          6,
+          6,
+          6,
+          46,
+          46,
+          46,
+          47
+        ],
+        "outputs_b": [
+          45,
+          45,
+          43,
+          42,
+          42,
+          42,
+          46,
+          46,
+          47,
+          47
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "history_b_len": 7,
+        "outputs_a": [
+          1,
+          1,
+          3,
+          8
+        ],
+        "outputs_b": [
+          1,
+          1,
+          1,
+          8
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "history_b_len": 37,
+        "outputs_a": [
+          1,
+          1,
+          3,
+          8
+        ],
+        "outputs_b": [
+          1,
+          3,
+          3,
+          15
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ],
+        "history_b_len": 10,
+        "outputs_a": [
+          1,
+          1,
+          3,
+          8
+        ],
+        "outputs_b": [
+          13,
+          11,
+          11,
+          26
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "history_a": [],
+        "history_a_len": 0,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ],
+        "history_b_len": 21,
+        "outputs_a": [
+          1,
+          1,
+          3,
+          8
+        ],
+        "outputs_b": [
+          16,
+          16,
+          29,
+          26
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [],
+          "failure_window_ids": [],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0
+        ],
+        "history_b_len": 8,
+        "outputs_a": [
+          3,
+          7
+        ],
+        "outputs_b": [
+          1,
+          7
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0
+        ],
+        "history_b_len": 38,
+        "outputs_a": [
+          3,
+          7
+        ],
+        "outputs_b": [
+          3,
+          14
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "history_b_len": 11,
+        "outputs_a": [
+          3,
+          7
+        ],
+        "outputs_b": [
+          40,
+          36
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "history_b_len": 22,
+        "outputs_a": [
+          3,
+          7
+        ],
+        "outputs_b": [
+          29,
+          29
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0
+        ],
+        "history_b_len": 38,
+        "outputs_a": [
+          4
+        ],
+        "outputs_b": [
+          2
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "history_b_len": 11,
+        "outputs_a": [
+          4
+        ],
+        "outputs_b": [
+          30
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "history_b_len": 22,
+        "outputs_a": [
+          4
+        ],
+        "outputs_b": [
+          8
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0
+        ],
+        "history_b_len": 38,
+        "outputs_a": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "outputs_b": [
+          3,
+          3,
+          3,
+          3,
+          1,
+          1,
+          1,
+          1
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "history_b_len": 11,
+        "outputs_a": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "outputs_b": [
+          11,
+          11,
+          11,
+          11,
+          13,
+          13,
+          9,
+          11
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "history_b_len": 22,
+        "outputs_a": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "outputs_b": [
+          16,
+          27,
+          27,
+          27,
+          16,
+          16,
+          16,
+          16
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0
+        ],
+        "history_b_len": 8,
+        "outputs_a": [
+          4,
+          10,
+          45,
+          6,
+          12,
+          10,
+          10,
+          12,
+          31,
+          31
+        ],
+        "outputs_b": [
+          4,
+          4,
+          6,
+          43,
+          43,
+          41,
+          46,
+          46,
+          47,
+          47
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0
+        ],
+        "history_b_len": 38,
+        "outputs_a": [
+          4,
+          10,
+          45,
+          6,
+          12,
+          10,
+          10,
+          12,
+          31,
+          31
+        ],
+        "outputs_b": [
+          2,
+          4,
+          45,
+          4,
+          4,
+          4,
+          4,
+          4,
+          5,
+          9
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "history_b_len": 11,
+        "outputs_a": [
+          4,
+          10,
+          45,
+          6,
+          12,
+          10,
+          10,
+          12,
+          31,
+          31
+        ],
+        "outputs_b": [
+          30,
+          45,
+          43,
+          46,
+          46,
+          46,
+          46,
+          46,
+          41,
+          31
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "history_b_len": 22,
+        "outputs_a": [
+          4,
+          10,
+          45,
+          6,
+          12,
+          10,
+          10,
+          12,
+          31,
+          31
+        ],
+        "outputs_b": [
+          8,
+          45,
+          44,
+          43,
+          42,
+          42,
+          46,
+          46,
+          47,
+          47
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0
+        ],
+        "history_b_len": 8,
+        "outputs_a": [
+          3,
+          3,
+          7,
+          26
+        ],
+        "outputs_b": [
+          1,
+          3,
+          7,
+          15
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0
+        ],
+        "history_b_len": 38,
+        "outputs_a": [
+          3,
+          3,
+          7,
+          26
+        ],
+        "outputs_b": [
+          3,
+          7,
+          14,
+          26
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "history_b_len": 11,
+        "outputs_a": [
+          3,
+          3,
+          7,
+          26
+        ],
+        "outputs_b": [
+          40,
+          3,
+          36,
+          26
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "history_a": [
+          0
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        "history_b_len": 22,
+        "outputs_a": [
+          3,
+          3,
+          7,
+          26
+        ],
+        "outputs_b": [
+          29,
+          27,
+          29,
+          26
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1
+        ],
+        "history_b_len": 8,
+        "outputs_a": [
+          5,
+          11
+        ],
+        "outputs_b": [
+          5,
+          5
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          1
+        ],
+        "history_b_len": 11,
+        "outputs_a": [
+          5,
+          11
+        ],
+        "outputs_b": [
+          43,
+          5
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          1
+        ],
+        "history_b_len": 22,
+        "outputs_a": [
+          5,
+          11
+        ],
+        "outputs_b": [
+          31,
+          31
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          1
+        ],
+        "history_b_len": 11,
+        "outputs_a": [
+          6
+        ],
+        "outputs_b": [
+          45
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          1
+        ],
+        "history_b_len": 22,
+        "outputs_a": [
+          6
+        ],
+        "outputs_b": [
+          45
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          1
+        ],
+        "history_b_len": 11,
+        "outputs_a": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "outputs_b": [
+          46,
+          46,
+          46,
+          46,
+          46,
+          46,
+          13,
+          13
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          1
+        ],
+        "history_b_len": 22,
+        "outputs_a": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "outputs_b": [
+          42,
+          42,
+          42,
+          44,
+          46,
+          46,
+          46,
+          46
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1
+        ],
+        "history_b_len": 8,
+        "outputs_a": [
+          6,
+          45,
+          44,
+          43,
+          46,
+          46,
+          46,
+          46,
+          46,
+          43
+        ],
+        "outputs_b": [
+          6,
+          6,
+          44,
+          43,
+          41,
+          46,
+          46,
+          46,
+          47,
+          47
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1
+        ],
+        "history_b_len": 38,
+        "outputs_a": [
+          6,
+          45,
+          44,
+          43,
+          46,
+          46,
+          46,
+          46,
+          46,
+          43
+        ],
+        "outputs_b": [
+          6,
+          6,
+          44,
+          6,
+          2,
+          2,
+          2,
+          2,
+          5,
+          5
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          1
+        ],
+        "history_b_len": 11,
+        "outputs_a": [
+          6,
+          45,
+          44,
+          43,
+          46,
+          46,
+          46,
+          46,
+          46,
+          43
+        ],
+        "outputs_b": [
+          45,
+          42,
+          42,
+          46,
+          46,
+          46,
+          46,
+          46,
+          41,
+          41
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          1
+        ],
+        "history_b_len": 22,
+        "outputs_a": [
+          6,
+          45,
+          44,
+          43,
+          46,
+          46,
+          46,
+          46,
+          46,
+          43
+        ],
+        "outputs_b": [
+          45,
+          43,
+          43,
+          42,
+          42,
+          46,
+          46,
+          46,
+          47,
+          47
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1
+        ],
+        "history_b_len": 8,
+        "outputs_a": [
+          5,
+          5,
+          11,
+          4
+        ],
+        "outputs_b": [
+          5,
+          4,
+          5,
+          4
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1
+        ],
+        "history_b_len": 38,
+        "outputs_a": [
+          5,
+          5,
+          11,
+          4
+        ],
+        "outputs_b": [
+          5,
+          5,
+          11,
+          45
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          1
+        ],
+        "history_b_len": 11,
+        "outputs_a": [
+          5,
+          5,
+          11,
+          4
+        ],
+        "outputs_b": [
+          43,
+          13,
+          5,
+          45
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "history_a": [
+          1
+        ],
+        "history_a_len": 1,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          1
+        ],
+        "history_b_len": 22,
+        "outputs_a": [
+          5,
+          5,
+          11,
+          4
+        ],
+        "outputs_b": [
+          31,
+          42,
+          31,
+          45
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "FAILURE"
+          ],
+          "failure_window_ids": [
+            1
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "history_a": [
+          0,
+          0
+        ],
+        "history_a_len": 2,
+        "history_b": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0
+        ],
+        "history_b_len": 39,
+        "outputs_a": [
+          7,
+          14
+        ],
+        "outputs_b": [
+          14,
+          25
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS",
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0,
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          0
+        ]
+      },
+      {
+        "history_a": [
+          0,
+          0
+        ],
+        "history_a_len": 2,
+        "history_b": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        "history_b_len": 12,
+        "outputs_a": [
+          7,
+          14
+        ],
+        "outputs_b": [
+          36,
+          36
+        ],
+        "state": {
+          "consecutive_successes": 0,
+          "cooldown_remaining": 0,
+          "failure_window": [
+            "SUCCESS",
+            "SUCCESS"
+          ],
+          "failure_window_ids": [
+            0,
+            0
+          ],
+          "mode": "CLOSED",
+          "mode_id": 0,
+          "probe_budget": 0
+        },
+        "suffix": [
+          0,
+          0
+        ]
+      }
+    ],
+    "groups_checked": 4,
+    "history_equivalence_violations": 50
+  },
+  "scenarios": {
+    "adversarial_mix_1024": {
+      "first_mode_divergence": 3,
+      "first_state_divergence": 3,
+      "illegal_transition_steps": 688,
+      "length": 1054,
+      "mode_accuracy": 0.37855787476280833,
+      "state_accuracy": 0.1204933586337761,
+      "transition_conditioned": {
+        "CLOSED->CLOSED": {
+          "mode_accuracy": 0.2800751879699248,
+          "mode_correct": 149,
+          "state_accuracy": 0.009398496240601503,
+          "state_correct": 5,
+          "total": 532
+        },
+        "CLOSED->OPEN": {
+          "mode_accuracy": 0.6451612903225806,
+          "mode_correct": 20,
+          "state_accuracy": 0.5806451612903226,
+          "state_correct": 18,
+          "total": 31
+        },
+        "HALF_OPEN->CLOSED": {
+          "mode_accuracy": 0.0967741935483871,
+          "mode_correct": 3,
+          "state_accuracy": 0.03225806451612903,
+          "state_correct": 1,
+          "total": 31
+        },
+        "HALF_OPEN->HALF_OPEN": {
+          "mode_accuracy": 0.44,
+          "mode_correct": 55,
+          "state_accuracy": 0.392,
+          "state_correct": 49,
+          "total": 125
+        },
+        "HALF_OPEN->OPEN": {
+          "mode_accuracy": 0.6666666666666666,
+          "mode_correct": 20,
+          "state_accuracy": 0.6,
+          "state_correct": 18,
+          "total": 30
+        },
+        "OPEN->HALF_OPEN": {
+          "mode_accuracy": 0.19672131147540983,
+          "mode_correct": 12,
+          "state_accuracy": 0.19672131147540983,
+          "state_correct": 12,
+          "total": 61
+        },
+        "OPEN->OPEN": {
+          "mode_accuracy": 0.5737704918032787,
+          "mode_correct": 140,
+          "state_accuracy": 0.09836065573770492,
+          "state_correct": 24,
+          "total": 244
+        }
+      },
+      "violation_counts": {
+        "cooldown_shortened_count": 230,
+        "cooldown_shortened_mode": 152,
+        "forbidden_CLOSED_to_HALF_OPEN": 17,
+        "forbidden_OPEN_to_CLOSED": 61,
+        "half_open_closed_without_recovery_condition": 23,
+        "half_open_failure_did_not_reopen": 10,
+        "transition_mismatch": 688,
+        "unknown_altered_failure_window": 66,
+        "unknown_consumed_probe_budget": 43,
+        "unknown_increased_recovery_progress": 3
+      }
+    },
+    "healthy_128": {
+      "first_mode_divergence": null,
+      "first_state_divergence": 5,
+      "illegal_transition_steps": 1,
+      "length": 128,
+      "mode_accuracy": 1.0,
+      "state_accuracy": 0.9921875,
+      "transition_conditioned": {
+        "CLOSED->CLOSED": {
+          "mode_accuracy": 1.0,
+          "mode_correct": 128,
+          "state_accuracy": 0.9921875,
+          "state_correct": 127,
+          "total": 128
+        }
+      },
+      "violation_counts": {
+        "transition_mismatch": 1,
+        "unknown_altered_failure_window": 1
+      }
+    },
+    "natural_32": {
+      "first_mode_divergence": null,
+      "first_state_divergence": 4,
+      "illegal_transition_steps": 19,
+      "length": 32,
+      "mode_accuracy": 1.0,
+      "state_accuracy": 0.5,
+      "transition_conditioned": {
+        "CLOSED->CLOSED": {
+          "mode_accuracy": 1.0,
+          "mode_correct": 32,
+          "state_accuracy": 0.5,
+          "state_correct": 16,
+          "total": 32
+        }
+      },
+      "violation_counts": {
+        "transition_mismatch": 19,
+        "unknown_altered_failure_window": 6
+      }
+    },
+    "natural_64": {
+      "first_mode_divergence": 53,
+      "first_state_divergence": 4,
+      "illegal_transition_steps": 32,
+      "length": 64,
+      "mode_accuracy": 0.984375,
+      "state_accuracy": 0.375,
+      "transition_conditioned": {
+        "CLOSED->CLOSED": {
+          "mode_accuracy": 0.984375,
+          "mode_correct": 63,
+          "state_accuracy": 0.375,
+          "state_correct": 24,
+          "total": 64
+        }
+      },
+      "violation_counts": {
+        "cooldown_shortened_mode": 1,
+        "forbidden_OPEN_to_CLOSED": 1,
+        "transition_mismatch": 32,
+        "unknown_altered_failure_window": 9
+      }
+    },
+    "repeated_trip_recover_256": {
+      "first_mode_divergence": 3,
+      "first_state_divergence": 3,
+      "illegal_transition_steps": 174,
+      "length": 260,
+      "mode_accuracy": 0.35384615384615387,
+      "state_accuracy": 0.15,
+      "transition_conditioned": {
+        "CLOSED->CLOSED": {
+          "mode_accuracy": 0.21153846153846154,
+          "mode_correct": 11,
+          "state_accuracy": 0.11538461538461539,
+          "state_correct": 6,
+          "total": 52
+        },
+        "CLOSED->OPEN": {
+          "mode_accuracy": 0.7692307692307693,
+          "mode_correct": 20,
+          "state_accuracy": 0.2692307692307692,
+          "state_correct": 7,
+          "total": 26
+        },
+        "HALF_OPEN->CLOSED": {
+          "mode_accuracy": 0.0,
+          "mode_correct": 0,
+          "state_accuracy": 0.0,
+          "state_correct": 0,
+          "total": 26
+        },
+        "HALF_OPEN->HALF_OPEN": {
+          "mode_accuracy": 0.15384615384615385,
+          "mode_correct": 4,
+          "state_accuracy": 0.038461538461538464,
+          "state_correct": 1,
+          "total": 26
+        },
+        "OPEN->HALF_OPEN": {
+          "mode_accuracy": 0.6538461538461539,
+          "mode_correct": 17,
+          "state_accuracy": 0.6538461538461539,
+          "state_correct": 17,
+          "total": 26
+        },
+        "OPEN->OPEN": {
+          "mode_accuracy": 0.38461538461538464,
+          "mode_correct": 40,
+          "state_accuracy": 0.07692307692307693,
+          "state_correct": 8,
+          "total": 104
+        }
+      },
+      "violation_counts": {
+        "cooldown_shortened_count": 88,
+        "cooldown_shortened_mode": 28,
+        "forbidden_CLOSED_to_HALF_OPEN": 1,
+        "forbidden_OPEN_to_CLOSED": 10,
+        "half_open_closed_without_recovery_condition": 1,
+        "half_open_failure_did_not_reopen": 4,
+        "transition_mismatch": 174,
+        "unknown_altered_failure_window": 4,
+        "unknown_consumed_probe_budget": 8
+      }
+    },
+    "sustained_failure_128": {
+      "first_mode_divergence": 25,
+      "first_state_divergence": 21,
+      "illegal_transition_steps": 82,
+      "length": 128,
+      "mode_accuracy": 0.5625,
+      "state_accuracy": 0.28125,
+      "transition_conditioned": {
+        "CLOSED->CLOSED": {
+          "mode_accuracy": 1.0,
+          "mode_correct": 2,
+          "state_accuracy": 1.0,
+          "state_correct": 2,
+          "total": 2
+        },
+        "CLOSED->OPEN": {
+          "mode_accuracy": 1.0,
+          "mode_correct": 1,
+          "state_accuracy": 1.0,
+          "state_correct": 1,
+          "total": 1
+        },
+        "HALF_OPEN->OPEN": {
+          "mode_accuracy": 0.5,
+          "mode_correct": 10,
+          "state_accuracy": 0.4,
+          "state_correct": 8,
+          "total": 20
+        },
+        "OPEN->HALF_OPEN": {
+          "mode_accuracy": 0.42857142857142855,
+          "mode_correct": 9,
+          "state_accuracy": 0.42857142857142855,
+          "state_correct": 9,
+          "total": 21
+        },
+        "OPEN->OPEN": {
+          "mode_accuracy": 0.5952380952380952,
+          "mode_correct": 50,
+          "state_accuracy": 0.19047619047619047,
+          "state_correct": 16,
+          "total": 84
+        }
+      },
+      "violation_counts": {
+        "cooldown_shortened_count": 33,
+        "cooldown_shortened_mode": 13,
+        "forbidden_CLOSED_to_HALF_OPEN": 1,
+        "forbidden_OPEN_to_CLOSED": 1,
+        "half_open_closed_without_recovery_condition": 2,
+        "half_open_failure_did_not_reopen": 28,
+        "transition_mismatch": 82
+      }
+    },
+    "sustained_unknown_256": {
+      "first_mode_divergence": null,
+      "first_state_divergence": 94,
+      "illegal_transition_steps": 4,
+      "length": 256,
+      "mode_accuracy": 1.0,
+      "state_accuracy": 0.765625,
+      "transition_conditioned": {
+        "CLOSED->CLOSED": {
+          "mode_accuracy": 1.0,
+          "mode_correct": 256,
+          "state_accuracy": 0.765625,
+          "state_correct": 196,
+          "total": 256
+        }
+      },
+      "violation_counts": {
+        "transition_mismatch": 4,
+        "unknown_altered_failure_window": 4
+      }
+    },
+    "threshold_edge_256": {
+      "first_mode_divergence": 3,
+      "first_state_divergence": 3,
+      "illegal_transition_steps": 223,
+      "length": 256,
+      "mode_accuracy": 0.50390625,
+      "state_accuracy": 0.171875,
+      "transition_conditioned": {
+        "CLOSED->CLOSED": {
+          "mode_accuracy": 0.8333333333333334,
+          "mode_correct": 5,
+          "state_accuracy": 0.5,
+          "state_correct": 3,
+          "total": 6
+        },
+        "CLOSED->OPEN": {
+          "mode_accuracy": 1.0,
+          "mode_correct": 1,
+          "state_accuracy": 1.0,
+          "state_correct": 1,
+          "total": 1
+        },
+        "HALF_OPEN->HALF_OPEN": {
+          "mode_accuracy": 0.41935483870967744,
+          "mode_correct": 26,
+          "state_accuracy": 0.3064516129032258,
+          "state_correct": 19,
+          "total": 62
+        },
+        "HALF_OPEN->OPEN": {
+          "mode_accuracy": 0.6451612903225806,
+          "mode_correct": 20,
+          "state_accuracy": 0.25806451612903225,
+          "state_correct": 8,
+          "total": 31
+        },
+        "OPEN->HALF_OPEN": {
+          "mode_accuracy": 0.0967741935483871,
+          "mode_correct": 3,
+          "state_accuracy": 0.0967741935483871,
+          "state_correct": 3,
+          "total": 31
+        },
+        "OPEN->OPEN": {
+          "mode_accuracy": 0.592,
+          "mode_correct": 74,
+          "state_accuracy": 0.08,
+          "state_correct": 10,
+          "total": 125
+        }
+      },
+      "violation_counts": {
+        "cooldown_shortened_count": 69,
+        "cooldown_shortened_mode": 51,
+        "forbidden_CLOSED_to_HALF_OPEN": 10,
+        "forbidden_OPEN_to_CLOSED": 25,
+        "half_open_failure_did_not_reopen": 6,
+        "transition_mismatch": 223,
+        "unknown_altered_failure_window": 13,
+        "unknown_consumed_probe_budget": 1,
+        "unknown_increased_recovery_progress": 1
+      }
+    }
+  },
+  "train": {
+    "config": {
+      "batch_size": 128,
+      "d_ff": 96,
+      "d_model": 48,
+      "distribution": "adversarial",
+      "learning_rate": 0.0003,
+      "log_every": 150,
+      "max_len": 4096,
+      "n_heads": 4,
+      "n_layers": 2,
+      "seed": 22,
+      "steps": 1200,
+      "train_len": 64
+    },
+    "cuda_available": false,
+    "device": "cpu",
+    "history": [
+      {
+        "loss": 4.298231601715088,
+        "mode_accuracy": 0.513671875,
+        "state_accuracy": 0.007080078125,
+        "step": 1
+      },
+      {
+        "loss": 1.7276116609573364,
+        "mode_accuracy": 0.8017578125,
+        "state_accuracy": 0.480712890625,
+        "step": 150
+      },
+      {
+        "loss": 1.1368372440338135,
+        "mode_accuracy": 0.869140625,
+        "state_accuracy": 0.6201171875,
+        "step": 300
+      },
+      {
+        "loss": 0.9433081746101379,
+        "mode_accuracy": 0.89453125,
+        "state_accuracy": 0.7327880859375,
+        "step": 450
+      },
+      {
+        "loss": 0.7005729079246521,
+        "mode_accuracy": 0.9302978515625,
+        "state_accuracy": 0.807861328125,
+        "step": 600
+      },
+      {
+        "loss": 0.6195684671401978,
+        "mode_accuracy": 0.9346923828125,
+        "state_accuracy": 0.83544921875,
+        "step": 750
+      },
+      {
+        "loss": 0.5334799885749817,
+        "mode_accuracy": 0.9351806640625,
+        "state_accuracy": 0.84375,
+        "step": 900
+      },
+      {
+        "loss": 0.49002569913864136,
+        "mode_accuracy": 0.9481201171875,
+        "state_accuracy": 0.8592529296875,
+        "step": 1050
+      },
+      {
+        "loss": 0.45154696702957153,
+        "mode_accuracy": 0.9613037109375,
+        "state_accuracy": 0.873291015625,
+        "step": 1200
+      }
+    ],
+    "torch_version": "2.13.0+cpu",
+    "training_time_seconds": 46.528688192367554
+  }
+}

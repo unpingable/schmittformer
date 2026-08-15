@@ -1,0 +1,67 @@
+{
+  "elapsed_seconds": 4.592223167419434,
+  "graph_counts": {
+    "reachable_states": 48,
+    "reachable_transitions": 144,
+    "syntactic_normalized_states": 80
+  },
+  "history_equivalence": {
+    "comparisons": 1680,
+    "examples": [],
+    "groups_checked": 48,
+    "history_equivalence_violations": 0,
+    "passed": true
+  },
+  "long_traces": {
+    "healthy_4096": {
+      "exact_state": true,
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "length": 4096
+    },
+    "repeated_trip_recover_1280": {
+      "exact_state": true,
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "length": 1280
+    },
+    "sustained_failure_256": {
+      "exact_state": true,
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "length": 256
+    },
+    "sustained_unknown_1024": {
+      "exact_state": true,
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "length": 1024
+    },
+    "threshold_edge_1024": {
+      "exact_state": true,
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "length": 1024
+    },
+    "throughput": {
+      "elapsed_seconds": 2.798400402069092,
+      "tokens": 7680,
+      "tokens_per_second": 2744.4249916207605
+    }
+  },
+  "representation": {
+    "attention": "hard argmax over prior state-token positions selects the latest complete logical state",
+    "decoding": "greedy argmax emits the next complete state token",
+    "input_tokens": 3,
+    "lookup": "deterministic transition table over reachable_state_id x event_id",
+    "state_tokens": 48,
+    "token_overhead": "one generated complete-state token per input token plus initial state token"
+  },
+  "transition_check": {
+    "failures": [],
+    "histories_checked": 384,
+    "passed": true,
+    "reachable_states": 48,
+    "transitions_checked": 1152
+  }
+}
