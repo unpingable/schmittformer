@@ -1,0 +1,114 @@
+{
+  "adversarial_admissibility": {
+    "ambiguous_no_blind_retry": {
+      "admissible": true,
+      "length": 10,
+      "violation_count": 0,
+      "violations": []
+    },
+    "authority_claim_is_not_authority": {
+      "admissible": true,
+      "length": 3,
+      "violation_count": 0,
+      "violations": []
+    },
+    "expired_before_burn": {
+      "admissible": true,
+      "length": 6,
+      "violation_count": 0,
+      "violations": []
+    },
+    "halted_unresolved_blocks_human_return": {
+      "admissible": true,
+      "length": 8,
+      "violation_count": 0,
+      "violations": []
+    },
+    "long_claim_spam": {
+      "admissible": true,
+      "length": 2048,
+      "violation_count": 0,
+      "violations": []
+    },
+    "normal_success_path": {
+      "admissible": true,
+      "length": 6,
+      "violation_count": 0,
+      "violations": []
+    },
+    "one_use_burn": {
+      "admissible": true,
+      "length": 7,
+      "violation_count": 0,
+      "violations": []
+    },
+    "probe_budget_exhaustion": {
+      "admissible": true,
+      "length": 2,
+      "violation_count": 0,
+      "violations": []
+    },
+    "retry_same_preconditions_only": {
+      "admissible": true,
+      "length": 9,
+      "violation_count": 0,
+      "violations": []
+    },
+    "standing_revoked_before_burn": {
+      "admissible": true,
+      "length": 4,
+      "violation_count": 0,
+      "violations": []
+    },
+    "successor_cannot_reuse_proposal": {
+      "admissible": true,
+      "length": 9,
+      "violation_count": 0,
+      "violations": []
+    },
+    "summary": {
+      "passed": true,
+      "total_violations": 0,
+      "traces": 11
+    }
+  },
+  "elapsed_seconds": 2.1504485607147217,
+  "graph_counts": {
+    "admitted_transitions": 144,
+    "event_alphabet_size": 39,
+    "reachable_states": 912,
+    "reachable_transitions": 35568,
+    "refusal_transitions": 30724,
+    "syntactic_states": 3840
+  },
+  "invariants": {
+    "checked_transitions": 35568,
+    "event_alphabet_size": 39,
+    "passed": true,
+    "reachable_states": 912,
+    "violation_count": 0,
+    "violations": []
+  },
+  "metadata": {
+    "ag_ng_path": "/home/jbeck/ag_ng",
+    "ag_ng_revision": "aab771b636d0e7f09b5e281fa2104d94dde7a595",
+    "ag_ng_status_short": "",
+    "cuda_available": false,
+    "cuda_version": null,
+    "gpu": null,
+    "python": "3.12.3",
+    "schmittformer_describe": "softmax-bounded-margin-success",
+    "schmittformer_revision": "9710f2b4e92fc97624e9829a7e3388c06bad7a5a",
+    "schmittformer_status_short": "?? GOVERNANCE_RESULTS.md\n?? GOVERNANCE_SOURCE.md\n?? experiments/run_governance.py\n?? results/governance_states.json\n?? results/governance_summary.json\n?? results/governance_transitions.json\n?? src/governance_admissibility.py\n?? src/governance_compiled.py\n?? src/governance_reference.py\n?? tests/test_governance_invariants.py\n?? tests/test_governance_reachable.py\n?? tests/test_governance_reference.py",
+    "torch_available": true,
+    "torch_version": "2.13.0+cpu"
+  },
+  "state_abstraction": {
+    "comparisons": 21888,
+    "groups": 912,
+    "groups_with_multiple_histories": 912,
+    "passed": true,
+    "violation_count": 0,
+    "violations": []
+  }
+}
