@@ -19,6 +19,7 @@ except Exception:  # pragma: no cover - torch is expected in this repo, but not 
     torch = None  # type: ignore[assignment]
 
 from src.governance_admissibility import admissibility_report
+from src.governance_conformance import conformance_corpus
 from src.governance_reference import (
     EVENTS,
     adversarial_sequences,
@@ -157,9 +158,12 @@ def main() -> None:
 
     start = time.time()
     graph = reachable_graph()
+    conformance = conformance_corpus()
+    digest = conformance["semantic_digest_sha256"]
     states_payload = {
         "metadata": environment_report(),
         "source_model": graph["source_model"],
+        "semantic_digest_sha256": digest,
         "syntactic_states": graph["syntactic_states"],
         "reachable_states": graph["reachable_states"],
         "event_alphabet_size": graph["event_alphabet_size"],
@@ -170,6 +174,7 @@ def main() -> None:
     transitions_payload = {
         "metadata": environment_report(),
         "source_model": graph["source_model"],
+        "semantic_digest_sha256": digest,
         "reachable_states": graph["reachable_states"],
         "event_alphabet_size": graph["event_alphabet_size"],
         "reachable_transitions": graph["reachable_transitions"],
@@ -185,6 +190,7 @@ def main() -> None:
     summary = {
         "metadata": environment_report(),
         "elapsed_seconds": time.time() - start,
+        "semantic_digest_sha256": digest,
         "graph_counts": {
             "syntactic_states": graph["syntactic_states"],
             "reachable_states": graph["reachable_states"],
@@ -199,6 +205,7 @@ def main() -> None:
     }
     write_json(args.out_dir / "governance_states.json", states_payload)
     write_json(args.out_dir / "governance_transitions.json", transitions_payload)
+    write_json(args.out_dir / "governance_conformance.json", conformance)
     write_json(args.out_dir / "governance_summary.json", summary)
 
 

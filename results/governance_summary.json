@@ -72,7 +72,7 @@
       "traces": 11
     }
   },
-  "elapsed_seconds": 2.1504485607147217,
+  "elapsed_seconds": 2.5284652709960938,
   "graph_counts": {
     "admitted_transitions": 144,
     "event_alphabet_size": 39,
@@ -97,12 +97,13 @@
     "cuda_version": null,
     "gpu": null,
     "python": "3.12.3",
-    "schmittformer_describe": "softmax-bounded-margin-success",
-    "schmittformer_revision": "9710f2b4e92fc97624e9829a7e3388c06bad7a5a",
-    "schmittformer_status_short": "?? GOVERNANCE_RESULTS.md\n?? GOVERNANCE_SOURCE.md\n?? experiments/run_governance.py\n?? results/governance_states.json\n?? results/governance_summary.json\n?? results/governance_transitions.json\n?? src/governance_admissibility.py\n?? src/governance_compiled.py\n?? src/governance_reference.py\n?? tests/test_governance_invariants.py\n?? tests/test_governance_reachable.py\n?? tests/test_governance_reference.py",
+    "schmittformer_describe": "governance-semantic-core-v0-dirty",
+    "schmittformer_revision": "6f11f3681479e2c929e20a84a539944c7d1954b9",
+    "schmittformer_status_short": "M experiments/run_governance.py\n M results/governance_states.json\n M results/governance_summary.json\n M results/governance_transitions.json\n?? CONSTELLATION_USE.md\n?? GOVERNANCE_CHECKPOINT.md\n?? GOVERNANCE_FIDELITY.md\n?? RESEARCH_NEXT.md\n?? results/governance_conformance.json\n?? src/governance_conformance.py\n?? tests/test_governance_conformance.py",
     "torch_available": true,
     "torch_version": "2.13.0+cpu"
   },
+  "semantic_digest_sha256": "1926060d9a20ff1f19d4e67d31c0c0cf4725a11b1a3f401419fd6c033333cf8c",
   "state_abstraction": {
     "comparisons": 21888,
     "groups": 912,
