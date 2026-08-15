@@ -1,0 +1,108 @@
+{
+  "analog_carry_diagnostic_count": 4,
+  "count": 4,
+  "counterexamples": [
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 255,
+        "authority": 1,
+        "lease_remaining": 65528,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "carry_mode": "analog_carry",
+      "category": "analog_carry_diagnostic",
+      "event": 1,
+      "expected": {
+        "next_state": {
+          "action_budget": 255,
+          "authority": 1,
+          "lease_remaining": 65532,
+          "occurrence": 0,
+          "settlement": 0
+        },
+        "output": 7
+      },
+      "index": 4,
+      "source": "longrun"
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 255,
+        "authority": 1,
+        "lease_remaining": 65528,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "carry_mode": "analog_carry",
+      "category": "analog_carry_diagnostic",
+      "event": 1,
+      "expected": {
+        "next_state": {
+          "action_budget": 255,
+          "authority": 1,
+          "lease_remaining": 65532,
+          "occurrence": 0,
+          "settlement": 0
+        },
+        "output": 7
+      },
+      "index": 4,
+      "source": "longrun"
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 255,
+        "authority": 1,
+        "lease_remaining": 65528,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "carry_mode": "analog_carry",
+      "category": "analog_carry_diagnostic",
+      "event": 1,
+      "expected": {
+        "next_state": {
+          "action_budget": 255,
+          "authority": 1,
+          "lease_remaining": 65532,
+          "occurrence": 0,
+          "settlement": 0
+        },
+        "output": 7
+      },
+      "index": 4,
+      "source": "longrun"
+    },
+    {
+      "actual_output": 7,
+      "actual_state": {
+        "action_budget": 255,
+        "authority": 1,
+        "lease_remaining": 65528,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "carry_mode": "analog_carry",
+      "category": "analog_carry_diagnostic",
+      "event": 1,
+      "expected": {
+        "next_state": {
+          "action_budget": 255,
+          "authority": 1,
+          "lease_remaining": 65532,
+          "occurrence": 0,
+          "settlement": 0
+        },
+        "output": 7
+      },
+      "index": 4,
+      "source": "longrun"
+    }
+  ],
+  "main_semantic_count": 0,
+  "schema": "schmittformer.recurrent_softmax.v1"
+}

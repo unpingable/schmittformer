@@ -1,0 +1,42 @@
+{
+  "rows": [
+    {
+      "checked": 128,
+      "first_failure": null,
+      "passed": true,
+      "sigma": 0.0
+    },
+    {
+      "checked": 128,
+      "first_failure": null,
+      "passed": true,
+      "sigma": 1e-06
+    },
+    {
+      "checked": 128,
+      "first_failure": null,
+      "passed": true,
+      "sigma": 1e-05
+    },
+    {
+      "checked": 128,
+      "first_failure": null,
+      "passed": true,
+      "sigma": 0.0001
+    },
+    {
+      "checked": 128,
+      "first_failure": null,
+      "passed": true,
+      "sigma": 0.001
+    },
+    {
+      "checked": 128,
+      "first_failure": null,
+      "passed": true,
+      "sigma": 0.01
+    }
+  ],
+  "schema": "schmittformer.recurrent_softmax.v1",
+  "score_gap": 8.0
+}

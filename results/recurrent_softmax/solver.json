@@ -1,0 +1,10 @@
+{
+  "attempted": true,
+  "available": true,
+  "query": "exists valid bounded state/event where reference transition differs from compiled ripple/Boolean transition",
+  "result": "UNSAT",
+  "runtime_seconds": 0.031085491180419922,
+  "timeout_ms": 120000,
+  "valid_domain": "authority bool, occurrence in {0,1,2}, settlement in {0,1,2}, event in 0..13; invalid enum states excluded",
+  "z3_version": "5.0.0"
+}

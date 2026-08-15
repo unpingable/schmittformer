@@ -1,0 +1,71 @@
+{
+  "adversarial": {
+    "attention": {
+      "effectively_hard": false,
+      "finite": true,
+      "max_losing_mass": 0.013893678784370422,
+      "max_losing_weight": 0.0003308018494863063,
+      "min_correct_mass": 0.9861063957214355
+    },
+    "checked": 21168,
+    "classification": "PASS_EXACT",
+    "device": "cuda",
+    "dtype": "torch.float32",
+    "failures": [],
+    "leakage_bound": 0.013893676385857177,
+    "max_input_error_before_transition": 0.013893604278564453,
+    "max_next_bit_error_before_decode": 0.1273602843284607,
+    "min_next_bit_margin_to_half": 0.3726397156715393,
+    "min_output_margin": 24.714839935302734,
+    "passed": true,
+    "reference_invariant_violations": 0,
+    "score_gap": 8.0
+  },
+  "edge": {
+    "attention": {
+      "effectively_hard": false,
+      "finite": true,
+      "max_losing_mass": 0.013893678784370422,
+      "max_losing_weight": 0.0003308018494863063,
+      "min_correct_mass": 0.9861063957214355
+    },
+    "checked": 10584,
+    "classification": "PASS_EXACT",
+    "device": "cuda",
+    "dtype": "torch.float32",
+    "failures": [],
+    "leakage_bound": 0.013893676385857177,
+    "max_input_error_before_transition": 0.013893604278564453,
+    "max_next_bit_error_before_decode": 0.1273602843284607,
+    "min_next_bit_margin_to_half": 0.3726397156715393,
+    "min_output_margin": 24.714839935302734,
+    "passed": true,
+    "reference_invariant_violations": 0,
+    "score_gap": 8.0
+  },
+  "random": {
+    "attention": {
+      "effectively_hard": false,
+      "finite": true,
+      "max_losing_mass": 0.013893678784370422,
+      "max_losing_weight": 0.0003308018494863063,
+      "min_correct_mass": 0.9861063957214355
+    },
+    "checked": 200000,
+    "classification": "PASS_EXACT",
+    "device": "cuda",
+    "dtype": "torch.float32",
+    "elapsed_seconds": 33.751140117645264,
+    "failures": [],
+    "leakage_bound": 0.013893676385857177,
+    "max_input_error_before_transition": 0.013231992721557617,
+    "max_next_bit_error_before_decode": 0.11116266250610352,
+    "min_next_bit_margin_to_half": 0.3888373374938965,
+    "min_output_margin": 25.845073699951172,
+    "passed": true,
+    "reference_invariant_violations": 0,
+    "score_gap": 8.0
+  },
+  "schema": "schmittformer.recurrent_softmax.v1",
+  "score_gap": 8.0
+}

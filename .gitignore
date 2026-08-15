@@ -1,5 +1,6 @@
 .venv/
 .venv-cuda/
+.venv-solver/
 __pycache__/
 *.pyc
 .pytest_cache/
@@ -17,3 +18,5 @@ results/latent_autopsy_smoke2/
 results/semantic_register_smoke/
 # Recurrent governance calibration output; final artifacts are under results/recurrent/.
 results/recurrent_smoke/
+# Recurrent softmax calibration output; final artifacts are under results/recurrent_softmax/.
+results/recurrent_softmax_smoke/

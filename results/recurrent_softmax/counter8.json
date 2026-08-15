@@ -1,0 +1,315 @@
+{
+  "rows": [
+    {
+      "attention": {
+        "effectively_hard": false,
+        "finite": true,
+        "max_losing_mass": 0.48648086190223694,
+        "max_losing_weight": 0.06949726492166519,
+        "min_correct_mass": 0.5135191679000854
+      },
+      "checked": 256,
+      "classification": "SEMANTIC_FAILURE",
+      "device": "cuda",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 0.17988276481628418,
+      "exhaustive": true,
+      "failures": [
+        {
+          "actual": 0,
+          "expected": 2,
+          "input": 3
+        },
+        {
+          "actual": 0,
+          "expected": 4,
+          "input": 5
+        },
+        {
+          "actual": 1,
+          "expected": 5,
+          "input": 6
+        },
+        {
+          "actual": 4,
+          "expected": 6,
+          "input": 7
+        },
+        {
+          "actual": 0,
+          "expected": 8,
+          "input": 9
+        },
+        {
+          "actual": 1,
+          "expected": 9,
+          "input": 10
+        },
+        {
+          "actual": 8,
+          "expected": 10,
+          "input": 11
+        },
+        {
+          "actual": 3,
+          "expected": 11,
+          "input": 12
+        },
+        {
+          "actual": 12,
+          "expected": 14,
+          "input": 15
+        },
+        {
+          "actual": 16,
+          "expected": 18,
+          "input": 19
+        },
+        {
+          "actual": 20,
+          "expected": 22,
+          "input": 23
+        },
+        {
+          "actual": 24,
+          "expected": 26,
+          "input": 27
+        },
+        {
+          "actual": 32,
+          "expected": 34,
+          "input": 35
+        },
+        {
+          "actual": 36,
+          "expected": 38,
+          "input": 39
+        },
+        {
+          "actual": 40,
+          "expected": 42,
+          "input": 43
+        },
+        {
+          "actual": 39,
+          "expected": 47,
+          "input": 48
+        },
+        {
+          "actual": 48,
+          "expected": 50,
+          "input": 51
+        },
+        {
+          "actual": 51,
+          "expected": 55,
+          "input": 56
+        },
+        {
+          "actual": 57,
+          "expected": 59,
+          "input": 60
+        },
+        {
+          "actual": 64,
+          "expected": 66,
+          "input": 67
+        }
+      ],
+      "leakage_bound": 0.4864808332021319,
+      "max_input_error_before_decode": 0.48648086190223694,
+      "max_output_error_before_decode": 0.9575411677360535,
+      "min_output_margin_to_half": 0.01351863145828247,
+      "min_retrieved_margin_to_half": 0.013519138097763062,
+      "passed": false,
+      "peak_gpu_memory_mib": 8.2080078125,
+      "score_gap": 2.0,
+      "values_per_second": 1423.1491286085968,
+      "width": 8
+    },
+    {
+      "attention": {
+        "effectively_hard": false,
+        "finite": true,
+        "max_losing_mass": 0.11363977938890457,
+        "max_losing_weight": 0.016234254464507103,
+        "min_correct_mass": 0.886360228061676
+      },
+      "checked": 256,
+      "classification": "PASS_EXACT",
+      "device": "cuda",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 0.0018262863159179688,
+      "exhaustive": true,
+      "failures": [],
+      "leakage_bound": 0.11363977645811596,
+      "max_input_error_before_decode": 0.11363977938890457,
+      "max_output_error_before_decode": 0.2597479820251465,
+      "min_output_margin_to_half": 0.24025201797485352,
+      "min_retrieved_margin_to_half": 0.386360228061676,
+      "passed": true,
+      "peak_gpu_memory_mib": 8.2080078125,
+      "score_gap": 4.0,
+      "values_per_second": 140175.172845953,
+      "width": 8
+    },
+    {
+      "attention": {
+        "effectively_hard": false,
+        "finite": true,
+        "max_losing_mass": 0.017055334523320198,
+        "max_losing_weight": 0.002436476293951273,
+        "min_correct_mass": 0.982944667339325
+      },
+      "checked": 256,
+      "classification": "PASS_EXACT",
+      "device": "cuda",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 0.0018188953399658203,
+      "exhaustive": true,
+      "failures": [],
+      "leakage_bound": 0.017055333619335616,
+      "max_input_error_before_decode": 0.017055334523320198,
+      "max_output_error_before_decode": 0.03898340463638306,
+      "min_output_margin_to_half": 0.46101659536361694,
+      "min_retrieved_margin_to_half": 0.48294466733932495,
+      "passed": true,
+      "peak_gpu_memory_mib": 8.2080078125,
+      "score_gap": 6.0,
+      "values_per_second": 140744.76654869577,
+      "width": 8
+    },
+    {
+      "attention": {
+        "effectively_hard": false,
+        "finite": true,
+        "max_losing_mass": 0.002342737279832363,
+        "max_losing_weight": 0.00033467673347331583,
+        "min_correct_mass": 0.997657299041748
+      },
+      "checked": 256,
+      "classification": "PASS_EXACT",
+      "device": "cuda",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 0.0017552375793457031,
+      "exhaustive": true,
+      "failures": [],
+      "leakage_bound": 0.0023427370901323995,
+      "max_input_error_before_decode": 0.002342737279832363,
+      "max_output_error_before_decode": 0.005354881286621094,
+      "min_output_margin_to_half": 0.4946451187133789,
+      "min_retrieved_margin_to_half": 0.49765726923942566,
+      "passed": true,
+      "peak_gpu_memory_mib": 8.2080078125,
+      "score_gap": 8.0,
+      "values_per_second": 145849.2018473241,
+      "width": 8
+    },
+    {
+      "attention": {
+        "effectively_hard": false,
+        "finite": true,
+        "max_losing_mass": 4.300763976061717e-05,
+        "max_losing_weight": 6.1439482124114875e-06,
+        "min_correct_mass": 0.9999569654464722
+      },
+      "checked": 256,
+      "classification": "PASS_EXACT",
+      "device": "cuda",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 0.001786947250366211,
+      "exhaustive": true,
+      "failures": [],
+      "leakage_bound": 4.300763673692698e-05,
+      "max_input_error_before_decode": 4.303455352783203e-05,
+      "max_output_error_before_decode": 9.822845458984375e-05,
+      "min_output_margin_to_half": 0.49990177154541016,
+      "min_retrieved_margin_to_half": 0.49995696544647217,
+      "passed": true,
+      "peak_gpu_memory_mib": 8.2080078125,
+      "score_gap": 12.0,
+      "values_per_second": 143261.08392261507,
+      "width": 8
+    },
+    {
+      "attention": {
+        "effectively_hard": false,
+        "finite": true,
+        "max_losing_mass": 7.877455914240272e-07,
+        "max_losing_weight": 1.125350834740857e-07,
+        "min_correct_mass": 0.9999991655349731
+      },
+      "checked": 256,
+      "classification": "PASS_EXACT",
+      "device": "cuda",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 0.0017654895782470703,
+      "exhaustive": true,
+      "failures": [],
+      "leakage_bound": 7.877456024911907e-07,
+      "max_input_error_before_decode": 8.344650268554688e-07,
+      "max_output_error_before_decode": 1.9073486328125e-06,
+      "min_output_margin_to_half": 0.4999980926513672,
+      "min_retrieved_margin_to_half": 0.49999916553497314,
+      "passed": true,
+      "peak_gpu_memory_mib": 8.2080078125,
+      "score_gap": 16.0,
+      "values_per_second": 145002.27197839296,
+      "width": 8
+    },
+    {
+      "attention": {
+        "effectively_hard": false,
+        "finite": true,
+        "max_losing_mass": 2.642594476576221e-10,
+        "max_losing_weight": 3.775134718719819e-11,
+        "min_correct_mass": 1.0
+      },
+      "checked": 256,
+      "classification": "PASS_EXACT",
+      "device": "cuda",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 0.001865386962890625,
+      "exhaustive": true,
+      "failures": [],
+      "leakage_bound": 2.642594180297038e-10,
+      "max_input_error_before_decode": 2.642594476576221e-10,
+      "max_output_error_before_decode": 2.642594476576221e-10,
+      "min_output_margin_to_half": 0.5,
+      "min_retrieved_margin_to_half": 0.5,
+      "passed": true,
+      "peak_gpu_memory_mib": 8.2080078125,
+      "score_gap": 24.0,
+      "values_per_second": 137236.94069529654,
+      "width": 8
+    },
+    {
+      "attention": {
+        "effectively_hard": false,
+        "finite": true,
+        "max_losing_mass": 8.864916721702809e-14,
+        "max_losing_weight": 1.266416662428502e-14,
+        "min_correct_mass": 1.0
+      },
+      "checked": 256,
+      "classification": "PASS_EXACT",
+      "device": "cuda",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 0.0018000602722167969,
+      "exhaustive": true,
+      "failures": [],
+      "leakage_bound": 8.864915884365138e-14,
+      "max_input_error_before_decode": 8.864916721702809e-14,
+      "max_output_error_before_decode": 8.864916721702809e-14,
+      "min_output_margin_to_half": 0.5,
+      "min_retrieved_margin_to_half": 0.5,
+      "passed": true,
+      "peak_gpu_memory_mib": 8.2080078125,
+      "score_gap": 32.0,
+      "values_per_second": 142217.46013245033,
+      "width": 8
+    }
+  ],
+  "schema": "schmittformer.recurrent_softmax.v1",
+  "width": 8
+}

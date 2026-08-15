@@ -1,0 +1,21 @@
+{
+  "audit_classification": "stock nn.MultiheadAttention for retrieval; recurrent arithmetic remains custom tensor circuit",
+  "checkpoint_path": "results/recurrent_softmax/stock_gather_recurrent.pt",
+  "checkpoint_size_bytes": 122547,
+  "governance_smoke_checked": 3,
+  "governance_smoke_failures": [],
+  "parameter_count": 29928,
+  "save_load_failures": [],
+  "save_load_passed": true,
+  "schema": "schmittformer.recurrent_softmax.v1",
+  "score_gap": 8.0,
+  "stock_gather": {
+    "checked": 64,
+    "dtype": "torch.float32",
+    "max_abs_diff": 2.980232238769531e-07,
+    "parameter_count": 29928,
+    "passed": true,
+    "score_gap": 8.0,
+    "slot_count": 43
+  }
+}

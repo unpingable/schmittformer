@@ -1,0 +1,14 @@
+{
+  "base_checkpoint": "cb6ce94 recurrent: add fixed-state counter governance",
+  "cuda_available": true,
+  "event_count": 14,
+  "executable": "/home/jbeck/git/trans/.venv-cuda/bin/python",
+  "gpu": "NVIDIA GeForce RTX 5060 Ti, 16311 MiB, 570.211.01",
+  "physical_input_width": 43,
+  "python": "3.12.3",
+  "revision": "cb6ce94ede9f53fba65e7403c2bf370406213dba",
+  "schema": "schmittformer.recurrent_softmax.v1",
+  "state_width": 29,
+  "torch_cuda": "12.8",
+  "torch_version": "2.11.0+cu128"
+}
