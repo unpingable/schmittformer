@@ -1,0 +1,2792 @@
+[
+  {
+    "context_len": 1024,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.30712375355872423,
+      "mean": 0.625,
+      "n": 8,
+      "std": 0.44320263021395917
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.2891474537325203,
+      "mean": 0.4375,
+      "n": 8,
+      "std": 0.4172614801981401
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.9375,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.875,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.17932163840429297,
+      "mean": 0.1875,
+      "n": 8,
+      "std": 0.25877458475338283
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.2619160170741759,
+      "mean": 0.25,
+      "n": 8,
+      "std": 0.37796447300922725
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.2891474537325203,
+      "mean": 0.5625,
+      "n": 8,
+      "std": 0.4172614801981401
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.2891474537325203,
+      "mean": 0.5625,
+      "n": 8,
+      "std": 0.4172614801981401
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.9375,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.125,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.17932163840429297,
+      "mean": 0.1875,
+      "n": 8,
+      "std": 0.25877458475338283
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.875,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.3433747952311002,
+      "mean": 0.5625,
+      "n": 8,
+      "std": 0.49551560448255744
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.2577910975964841,
+      "mean": 0.6875,
+      "n": 8,
+      "std": 0.37201190457142247
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.9375,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.125,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.17932163840429297,
+      "mean": 0.1875,
+      "n": 8,
+      "std": 0.25877458475338283
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.5625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.2619160170741759,
+      "mean": 0.75,
+      "n": 8,
+      "std": 0.37796447300922725
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.17932163840429297,
+      "mean": 0.6875,
+      "n": 8,
+      "std": 0.25877458475338283
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.9375,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.875,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.125,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.125,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 1024,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.125,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.5625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.17932163840429297,
+      "mean": 0.1875,
+      "n": 8,
+      "std": 0.25877458475338283
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.375,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.2577910975964841,
+      "mean": 0.8125,
+      "n": 8,
+      "std": 0.37201190457142247
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.24499999999999997,
+      "mean": 0.875,
+      "n": 8,
+      "std": 0.3535533905932738
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.9375,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.17932163840429297,
+      "mean": 0.1875,
+      "n": 8,
+      "std": 0.25877458475338283
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.30712375355872423,
+      "mean": 0.375,
+      "n": 8,
+      "std": 0.44320263021395917
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.31742125007629846,
+      "mean": 0.6875,
+      "n": 8,
+      "std": 0.45806269065645216
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.125,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.17932163840429297,
+      "mean": 0.1875,
+      "n": 8,
+      "std": 0.25877458475338283
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.875,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.31742125007629846,
+      "mean": 0.6875,
+      "n": 8,
+      "std": 0.45806269065645216
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.17932163840429297,
+      "mean": 0.8125,
+      "n": 8,
+      "std": 0.25877458475338283
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.125,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.875,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.30712375355872423,
+      "mean": 0.625,
+      "n": 8,
+      "std": 0.44320263021395917
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.17932163840429297,
+      "mean": 0.8125,
+      "n": 8,
+      "std": 0.25877458475338283
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 256,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.125,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.17932163840429297,
+      "mean": 0.6875,
+      "n": 8,
+      "std": 0.25877458475338283
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.2577910975964841,
+      "mean": 0.3125,
+      "n": 8,
+      "std": 0.37201190457142247
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.2619160170741759,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.37796447300922725
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.2577910975964841,
+      "mean": 0.8125,
+      "n": 8,
+      "std": 0.37201190457142247
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.24499999999999997,
+      "mean": 0.875,
+      "n": 8,
+      "std": 0.3535533905932738
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.625,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.125,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.2220501069578666,
+      "mean": 0.5625,
+      "n": 8,
+      "std": 0.3204349722308279
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.24499999999999997,
+      "mean": 0.875,
+      "n": 8,
+      "std": 0.3535533905932738
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.9375,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.2577910975964841,
+      "mean": 0.1875,
+      "n": 8,
+      "std": 0.37201190457142247
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.17932163840429297,
+      "mean": 0.8125,
+      "n": 8,
+      "std": 0.25877458475338283
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.31742125007629846,
+      "mean": 0.6875,
+      "n": 8,
+      "std": 0.45806269065645216
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.9375,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "nuisance",
+    "intervention": "nuisance",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.3433747952311002,
+      "mean": 0.5625,
+      "n": 8,
+      "std": 0.49551560448255744
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "nuisance",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "scope",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "scope",
+    "intervention": "scope",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "random",
+    "intervention": "witness",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "context_len": 64,
+    "direction": "witness",
+    "intervention": "witness",
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_intervention": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_intervention": {
+      "ci95": 0.16039014932345438,
+      "mean": 0.875,
+      "n": 8,
+      "std": 0.23145502494313785
+    },
+    "target_stability": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  }
+]

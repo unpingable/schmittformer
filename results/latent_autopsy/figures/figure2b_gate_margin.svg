@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="460" viewBox="0 0 780 460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="390.0" y="24" text-anchor="middle" font-family="sans-serif" font-size="16">Figure 2b: synthesized-gate margin</text>
+<line x1="74" y1="398" x2="752" y2="398" stroke="#333"/>
+<line x1="74" y1="38" x2="74" y2="398" stroke="#333"/>
+<text x="390.0" y="442" text-anchor="middle" font-family="sans-serif" font-size="12">layer</text>
+<text x="18" y="230.0" transform="rotate(-90 18 230.0)" text-anchor="middle" font-family="sans-serif" font-size="12">decision margin</text>
+<polyline fill="none" stroke="#174ea6" stroke-width="2" points="74.00,269.72 243.50,71.02 413.00,62.87 582.50,62.83 752.00,62.83"/>
+<circle cx="74.00" cy="269.72" r="3" fill="#174ea6"/>
+<circle cx="243.50" cy="71.02" r="3" fill="#174ea6"/>
+<circle cx="413.00" cy="62.87" r="3" fill="#174ea6"/>
+<circle cx="582.50" cy="62.83" r="3" fill="#174ea6"/>
+<circle cx="752.00" cy="62.83" r="3" fill="#174ea6"/>
+<rect x="530" y="46" width="12" height="12" fill="#174ea6"/>
+<text x="548" y="56" font-family="sans-serif" font-size="11">margin ctx 64</text>
+<polyline fill="none" stroke="#c5221f" stroke-width="2" points="74.00,269.72 243.50,74.04 413.00,63.20 582.50,62.85 752.00,62.83"/>
+<circle cx="74.00" cy="269.72" r="3" fill="#c5221f"/>
+<circle cx="243.50" cy="74.04" r="3" fill="#c5221f"/>
+<circle cx="413.00" cy="63.20" r="3" fill="#c5221f"/>
+<circle cx="582.50" cy="62.85" r="3" fill="#c5221f"/>
+<circle cx="752.00" cy="62.83" r="3" fill="#c5221f"/>
+<rect x="530" y="64" width="12" height="12" fill="#c5221f"/>
+<text x="548" y="74" font-family="sans-serif" font-size="11">margin ctx 256</text>
+<polyline fill="none" stroke="#188038" stroke-width="2" points="74.00,269.72 243.50,86.99 413.00,64.56 582.50,63.13 752.00,62.97"/>
+<circle cx="74.00" cy="269.72" r="3" fill="#188038"/>
+<circle cx="243.50" cy="86.99" r="3" fill="#188038"/>
+<circle cx="413.00" cy="64.56" r="3" fill="#188038"/>
+<circle cx="582.50" cy="63.13" r="3" fill="#188038"/>
+<circle cx="752.00" cy="62.97" r="3" fill="#188038"/>
+<rect x="530" y="82" width="12" height="12" fill="#188038"/>
+<text x="548" y="92" font-family="sans-serif" font-size="11">margin ctx 1024</text>
+</svg>

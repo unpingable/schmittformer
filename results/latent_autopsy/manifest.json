@@ -1,0 +1,23 @@
+{
+  "completed": [
+    "latent_autopsy_seed_101",
+    "latent_autopsy_seed_102",
+    "latent_autopsy_seed_103",
+    "latent_autopsy_seed_104",
+    "latent_autopsy_seed_105",
+    "latent_autopsy_seed_106",
+    "latent_autopsy_seed_107",
+    "latent_autopsy_seed_108"
+  ],
+  "runs": {
+    "latent_autopsy_seed_101": "results/latent_autopsy/runs/latent_autopsy_seed_101.json",
+    "latent_autopsy_seed_102": "results/latent_autopsy/runs/latent_autopsy_seed_102.json",
+    "latent_autopsy_seed_103": "results/latent_autopsy/runs/latent_autopsy_seed_103.json",
+    "latent_autopsy_seed_104": "results/latent_autopsy/runs/latent_autopsy_seed_104.json",
+    "latent_autopsy_seed_105": "results/latent_autopsy/runs/latent_autopsy_seed_105.json",
+    "latent_autopsy_seed_106": "results/latent_autopsy/runs/latent_autopsy_seed_106.json",
+    "latent_autopsy_seed_107": "results/latent_autopsy/runs/latent_autopsy_seed_107.json",
+    "latent_autopsy_seed_108": "results/latent_autopsy/runs/latent_autopsy_seed_108.json"
+  },
+  "schema": "schmittformer.latent_autopsy.v1"
+}

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="460" viewBox="0 0 780 460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="390.0" y="24" text-anchor="middle" font-family="sans-serif" font-size="16">Figure 4: witness intervention consistency</text>
+<line x1="74" y1="398" x2="752" y2="398" stroke="#333"/>
+<line x1="74" y1="38" x2="74" y2="398" stroke="#333"/>
+<text x="390.0" y="442" text-anchor="middle" font-family="sans-serif" font-size="12">layer</text>
+<text x="18" y="230.0" transform="rotate(-90 18 230.0)" text-anchor="middle" font-family="sans-serif" font-size="12">consistency</text>
+<polyline fill="none" stroke="#174ea6" stroke-width="2" points="74.00,62.83 243.50,62.83 413.00,62.83 582.50,82.22 752.00,101.62"/>
+<circle cx="74.00" cy="62.83" r="3" fill="#174ea6"/>
+<circle cx="243.50" cy="62.83" r="3" fill="#174ea6"/>
+<circle cx="413.00" cy="62.83" r="3" fill="#174ea6"/>
+<circle cx="582.50" cy="82.22" r="3" fill="#174ea6"/>
+<circle cx="752.00" cy="101.62" r="3" fill="#174ea6"/>
+<rect x="530" y="46" width="12" height="12" fill="#174ea6"/>
+<text x="548" y="56" font-family="sans-serif" font-size="11">witness ctx 64</text>
+<polyline fill="none" stroke="#c5221f" stroke-width="2" points="74.00,62.83 243.50,62.83 413.00,101.62 582.50,101.62 752.00,159.81"/>
+<circle cx="74.00" cy="62.83" r="3" fill="#c5221f"/>
+<circle cx="243.50" cy="62.83" r="3" fill="#c5221f"/>
+<circle cx="413.00" cy="101.62" r="3" fill="#c5221f"/>
+<circle cx="582.50" cy="101.62" r="3" fill="#c5221f"/>
+<circle cx="752.00" cy="159.81" r="3" fill="#c5221f"/>
+<rect x="530" y="64" width="12" height="12" fill="#c5221f"/>
+<text x="548" y="74" font-family="sans-serif" font-size="11">witness ctx 256</text>
+<polyline fill="none" stroke="#188038" stroke-width="2" points="74.00,62.83 243.50,62.83 413.00,101.62 582.50,198.60 752.00,198.60"/>
+<circle cx="74.00" cy="62.83" r="3" fill="#188038"/>
+<circle cx="243.50" cy="62.83" r="3" fill="#188038"/>
+<circle cx="413.00" cy="101.62" r="3" fill="#188038"/>
+<circle cx="582.50" cy="198.60" r="3" fill="#188038"/>
+<circle cx="752.00" cy="198.60" r="3" fill="#188038"/>
+<rect x="530" y="82" width="12" height="12" fill="#188038"/>
+<text x="548" y="92" font-family="sans-serif" font-size="11">witness ctx 1024</text>
+</svg>

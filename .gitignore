@@ -8,3 +8,6 @@ results/projection/
 results/projection_smoke/
 results/projection_overnight/
 results/projection_context_smoke/
+# Latent autopsy calibration outputs; final artifacts are under results/latent_autopsy/.
+results/latent_autopsy_smoke/
+results/latent_autopsy_smoke2/

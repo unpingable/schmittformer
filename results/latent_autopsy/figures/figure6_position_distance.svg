@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="460" viewBox="0 0 780 460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="390.0" y="24" text-anchor="middle" font-family="sans-serif" font-size="16">Figure 6: position/distance effect</text>
+<line x1="74" y1="398" x2="752" y2="398" stroke="#333"/>
+<line x1="74" y1="38" x2="74" y2="398" stroke="#333"/>
+<text x="390.0" y="442" text-anchor="middle" font-family="sans-serif" font-size="12">context length</text>
+<text x="18" y="230.0" transform="rotate(-90 18 230.0)" text-anchor="middle" font-family="sans-serif" font-size="12">accuracy</text>
+<polyline fill="none" stroke="#174ea6" stroke-width="2" points="74.00,62.83 209.60,111.32 752.00,146.88"/>
+<circle cx="74.00" cy="62.83" r="3" fill="#174ea6"/>
+<circle cx="209.60" cy="111.32" r="3" fill="#174ea6"/>
+<circle cx="752.00" cy="146.88" r="3" fill="#174ea6"/>
+<rect x="530" y="46" width="12" height="12" fill="#174ea6"/>
+<text x="548" y="56" font-family="sans-serif" font-size="11">scaled</text>
+<polyline fill="none" stroke="#c5221f" stroke-width="2" points="74.00,62.83 209.60,70.91 752.00,101.62"/>
+<circle cx="74.00" cy="62.83" r="3" fill="#c5221f"/>
+<circle cx="209.60" cy="70.91" r="3" fill="#c5221f"/>
+<circle cx="752.00" cy="101.62" r="3" fill="#c5221f"/>
+<rect x="530" y="64" width="12" height="12" fill="#c5221f"/>
+<text x="548" y="74" font-family="sans-serif" font-size="11">fixed_absolute</text>
+<polyline fill="none" stroke="#188038" stroke-width="2" points="74.00,85.46 209.60,175.97 752.00,195.37"/>
+<circle cx="74.00" cy="85.46" r="3" fill="#188038"/>
+<circle cx="209.60" cy="175.97" r="3" fill="#188038"/>
+<circle cx="752.00" cy="195.37" r="3" fill="#188038"/>
+<rect x="530" y="82" width="12" height="12" fill="#188038"/>
+<text x="548" y="92" font-family="sans-serif" font-size="11">fixed_distance</text>
+</svg>

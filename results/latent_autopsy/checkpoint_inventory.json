@@ -1,0 +1,242 @@
+[
+  {
+    "architecture": {
+      "batch_size": 192,
+      "d_ff": 192,
+      "d_model": 96,
+      "max_len": 1024,
+      "n_heads": 4,
+      "n_layers": 4,
+      "steps": 900
+    },
+    "checkpoint_exists": true,
+    "checkpoint_path": "results/projection_context/checkpoints/upstream_overnight_seed_101_L64_D96_S900.pt",
+    "final_training_metrics": {
+      "decision_accuracy": 1.0,
+      "loss": 0.00035181076964363456,
+      "nuisance_accuracy": 1.0,
+      "proposal_accuracy": 1.0,
+      "scope_accuracy": 1.0,
+      "step": 900,
+      "witness_accuracy": 1.0
+    },
+    "projection_config_id": "overnight_seed_101_L64_D96_S900",
+    "projection_contexts": [
+      64,
+      256,
+      1024
+    ],
+    "seed": 101,
+    "training_context": 64
+  },
+  {
+    "architecture": {
+      "batch_size": 192,
+      "d_ff": 192,
+      "d_model": 96,
+      "max_len": 1024,
+      "n_heads": 4,
+      "n_layers": 4,
+      "steps": 900
+    },
+    "checkpoint_exists": true,
+    "checkpoint_path": "results/projection_context/checkpoints/upstream_overnight_seed_102_L64_D96_S900.pt",
+    "final_training_metrics": {
+      "decision_accuracy": 1.0,
+      "loss": 0.0003653717285487801,
+      "nuisance_accuracy": 1.0,
+      "proposal_accuracy": 1.0,
+      "scope_accuracy": 1.0,
+      "step": 900,
+      "witness_accuracy": 1.0
+    },
+    "projection_config_id": "overnight_seed_102_L64_D96_S900",
+    "projection_contexts": [
+      64,
+      256,
+      1024
+    ],
+    "seed": 102,
+    "training_context": 64
+  },
+  {
+    "architecture": {
+      "batch_size": 192,
+      "d_ff": 192,
+      "d_model": 96,
+      "max_len": 1024,
+      "n_heads": 4,
+      "n_layers": 4,
+      "steps": 900
+    },
+    "checkpoint_exists": true,
+    "checkpoint_path": "results/projection_context/checkpoints/upstream_overnight_seed_103_L64_D96_S900.pt",
+    "final_training_metrics": {
+      "decision_accuracy": 1.0,
+      "loss": 0.00035797577584162354,
+      "nuisance_accuracy": 1.0,
+      "proposal_accuracy": 1.0,
+      "scope_accuracy": 1.0,
+      "step": 900,
+      "witness_accuracy": 1.0
+    },
+    "projection_config_id": "overnight_seed_103_L64_D96_S900",
+    "projection_contexts": [
+      64,
+      256,
+      1024
+    ],
+    "seed": 103,
+    "training_context": 64
+  },
+  {
+    "architecture": {
+      "batch_size": 192,
+      "d_ff": 192,
+      "d_model": 96,
+      "max_len": 1024,
+      "n_heads": 4,
+      "n_layers": 4,
+      "steps": 900
+    },
+    "checkpoint_exists": true,
+    "checkpoint_path": "results/projection_context/checkpoints/upstream_overnight_seed_104_L64_D96_S900.pt",
+    "final_training_metrics": {
+      "decision_accuracy": 1.0,
+      "loss": 0.0002879750682041049,
+      "nuisance_accuracy": 1.0,
+      "proposal_accuracy": 1.0,
+      "scope_accuracy": 1.0,
+      "step": 900,
+      "witness_accuracy": 1.0
+    },
+    "projection_config_id": "overnight_seed_104_L64_D96_S900",
+    "projection_contexts": [
+      64,
+      256,
+      1024
+    ],
+    "seed": 104,
+    "training_context": 64
+  },
+  {
+    "architecture": {
+      "batch_size": 192,
+      "d_ff": 192,
+      "d_model": 96,
+      "max_len": 1024,
+      "n_heads": 4,
+      "n_layers": 4,
+      "steps": 900
+    },
+    "checkpoint_exists": true,
+    "checkpoint_path": "results/projection_context/checkpoints/upstream_overnight_seed_105_L64_D96_S900.pt",
+    "final_training_metrics": {
+      "decision_accuracy": 1.0,
+      "loss": 0.00036758033093065023,
+      "nuisance_accuracy": 1.0,
+      "proposal_accuracy": 1.0,
+      "scope_accuracy": 1.0,
+      "step": 900,
+      "witness_accuracy": 1.0
+    },
+    "projection_config_id": "overnight_seed_105_L64_D96_S900",
+    "projection_contexts": [
+      64,
+      256,
+      1024
+    ],
+    "seed": 105,
+    "training_context": 64
+  },
+  {
+    "architecture": {
+      "batch_size": 192,
+      "d_ff": 192,
+      "d_model": 96,
+      "max_len": 1024,
+      "n_heads": 4,
+      "n_layers": 4,
+      "steps": 900
+    },
+    "checkpoint_exists": true,
+    "checkpoint_path": "results/projection_context/checkpoints/upstream_overnight_seed_106_L64_D96_S900.pt",
+    "final_training_metrics": {
+      "decision_accuracy": 1.0,
+      "loss": 0.00034747214522212744,
+      "nuisance_accuracy": 1.0,
+      "proposal_accuracy": 1.0,
+      "scope_accuracy": 1.0,
+      "step": 900,
+      "witness_accuracy": 1.0
+    },
+    "projection_config_id": "overnight_seed_106_L64_D96_S900",
+    "projection_contexts": [
+      64,
+      256,
+      1024
+    ],
+    "seed": 106,
+    "training_context": 64
+  },
+  {
+    "architecture": {
+      "batch_size": 192,
+      "d_ff": 192,
+      "d_model": 96,
+      "max_len": 1024,
+      "n_heads": 4,
+      "n_layers": 4,
+      "steps": 900
+    },
+    "checkpoint_exists": true,
+    "checkpoint_path": "results/projection_context/checkpoints/upstream_overnight_seed_107_L64_D96_S900.pt",
+    "final_training_metrics": {
+      "decision_accuracy": 1.0,
+      "loss": 0.00040458858711645007,
+      "nuisance_accuracy": 1.0,
+      "proposal_accuracy": 1.0,
+      "scope_accuracy": 1.0,
+      "step": 900,
+      "witness_accuracy": 1.0
+    },
+    "projection_config_id": "overnight_seed_107_L64_D96_S900",
+    "projection_contexts": [
+      64,
+      256,
+      1024
+    ],
+    "seed": 107,
+    "training_context": 64
+  },
+  {
+    "architecture": {
+      "batch_size": 192,
+      "d_ff": 192,
+      "d_model": 96,
+      "max_len": 1024,
+      "n_heads": 4,
+      "n_layers": 4,
+      "steps": 900
+    },
+    "checkpoint_exists": true,
+    "checkpoint_path": "results/projection_context/checkpoints/upstream_overnight_seed_108_L64_D96_S900.pt",
+    "final_training_metrics": {
+      "decision_accuracy": 1.0,
+      "loss": 0.0003187015827279538,
+      "nuisance_accuracy": 1.0,
+      "proposal_accuracy": 1.0,
+      "scope_accuracy": 1.0,
+      "step": 900,
+      "witness_accuracy": 1.0
+    },
+    "projection_config_id": "overnight_seed_108_L64_D96_S900",
+    "projection_contexts": [
+      64,
+      256,
+      1024
+    ],
+    "seed": 108,
+    "training_context": 64
+  }
+]

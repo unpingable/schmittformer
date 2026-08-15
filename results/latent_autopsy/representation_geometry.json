@@ -1,0 +1,1802 @@
+[
+  {
+    "between_centroid_distance": {
+      "ci95": 0.37219496528736995,
+      "mean": 9.529689311981201,
+      "n": 8,
+      "std": 0.5371052732207979
+    },
+    "between_centroid_min": {
+      "ci95": 5.348997592903605e-08,
+      "mean": 4.926821581818785e-07,
+      "n": 8,
+      "std": 7.719005041821754e-08
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.01509022752566104,
+      "mean": 0.42452963814139366,
+      "n": 8,
+      "std": 0.02177633104702616
+    },
+    "context_len": 1024,
+    "layer": "embedding",
+    "layer_index": 0,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.12936790394071257,
+      "mean": 2.5987981259822845,
+      "n": 8,
+      "std": 0.1866875962129954
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "between_centroid_min": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "centroid_cosine_mean": {
+      "ci95": 5.294087099024453e-08,
+      "mean": 1.0000000149011612,
+      "n": 8,
+      "std": 7.639765077372262e-08
+    },
+    "context_len": 1024,
+    "layer": "embedding",
+    "layer_index": 0,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 0.3250480671577046,
+      "mean": 7.569896697998047,
+      "n": 8,
+      "std": 0.46906876020161886
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "between_centroid_min": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "centroid_cosine_mean": {
+      "ci95": 5.294087099024453e-08,
+      "mean": 1.0000000149011612,
+      "n": 8,
+      "std": 7.639765077372262e-08
+    },
+    "context_len": 1024,
+    "layer": "embedding",
+    "layer_index": 0,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 0.3250480671577046,
+      "mean": 7.569896697998047,
+      "n": 8,
+      "std": 0.46906876020161886
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "between_centroid_min": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "centroid_cosine_mean": {
+      "ci95": 5.294087099024453e-08,
+      "mean": 1.0000000149011612,
+      "n": 8,
+      "std": 7.639765077372262e-08
+    },
+    "context_len": 1024,
+    "layer": "embedding",
+    "layer_index": 0,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.3250480671577046,
+      "mean": 7.569896697998047,
+      "n": 8,
+      "std": 0.46906876020161886
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.3727075959279371,
+      "mean": 10.877815961837769,
+      "n": 8,
+      "std": 0.5378450377150613
+    },
+    "between_centroid_min": {
+      "ci95": 0.1496708150220632,
+      "mean": 0.32686836179345846,
+      "n": 8,
+      "std": 0.21598622091391487
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.020715554452257198,
+      "mean": 0.40841813385486603,
+      "n": 8,
+      "std": 0.029894100059653556
+    },
+    "context_len": 1024,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.12154771060445534,
+      "mean": 3.191524237394333,
+      "n": 8,
+      "std": 0.17540247021655184
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.11661915211777266,
+      "mean": 0.7707381099462509,
+      "n": 8,
+      "std": 0.16829019036469914
+    },
+    "between_centroid_min": {
+      "ci95": 0.11661915211777266,
+      "mean": 0.7707381099462509,
+      "n": 8,
+      "std": 0.16829019036469914
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.0012839539483067018,
+      "mean": 0.9967958703637123,
+      "n": 8,
+      "std": 0.0018528419256712465
+    },
+    "context_len": 1024,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 0.35651765495344717,
+      "mean": 8.75216281414032,
+      "n": 8,
+      "std": 0.514481737612874
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.5108228635573607,
+      "mean": 0.6049773804843426,
+      "n": 8,
+      "std": 0.7371557363398782
+    },
+    "between_centroid_min": {
+      "ci95": 0.5108228635573607,
+      "mean": 0.6049773804843426,
+      "n": 8,
+      "std": 0.7371557363398782
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.006338309083374522,
+      "mean": 0.9958109930157661,
+      "n": 8,
+      "std": 0.009146655783898805
+    },
+    "context_len": 1024,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 0.34810628135531135,
+      "mean": 8.749383389949799,
+      "n": 8,
+      "std": 0.5023434941223938
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.06622553648681076,
+      "mean": 0.12733849766664207,
+      "n": 8,
+      "std": 0.09556842028069597
+    },
+    "between_centroid_min": {
+      "ci95": 0.06622553648681076,
+      "mean": 0.12733849766664207,
+      "n": 8,
+      "std": 0.09556842028069597
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.00011063107944920761,
+      "mean": 0.9998760968446732,
+      "n": 8,
+      "std": 0.00015964895201739265
+    },
+    "context_len": 1024,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.35587009489888904,
+      "mean": 8.760687947273254,
+      "n": 8,
+      "std": 0.513547259845928
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.399022343899499,
+      "mean": 13.72870659828186,
+      "n": 8,
+      "std": 0.5758191943189517
+    },
+    "between_centroid_min": {
+      "ci95": 0.9670538741098387,
+      "mean": 2.202799689024687,
+      "n": 8,
+      "std": 1.3955313309301811
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.042475648878829396,
+      "mean": 0.3732455261051655,
+      "n": 8,
+      "std": 0.06129554970922254
+    },
+    "context_len": 1024,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.2602921203146718,
+      "mean": 4.321786284446716,
+      "n": 8,
+      "std": 0.37562106808965134
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.5367588267600463,
+      "mean": 1.7190094888210297,
+      "n": 8,
+      "std": 0.7745832780893144
+    },
+    "between_centroid_min": {
+      "ci95": 0.5367588267600463,
+      "mean": 1.7190094888210297,
+      "n": 8,
+      "std": 0.7745832780893144
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.009482200920808218,
+      "mean": 0.986616887152195,
+      "n": 8,
+      "std": 0.013683527697299627
+    },
+    "context_len": 1024,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 0.5797933695204847,
+      "mean": 11.163156270980835,
+      "n": 8,
+      "std": 0.8366853536223111
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.6093397499287967,
+      "mean": 1.1683077905327082,
+      "n": 8,
+      "std": 0.8793229984105454
+    },
+    "between_centroid_min": {
+      "ci95": 0.6093397499287967,
+      "mean": 1.1683077905327082,
+      "n": 8,
+      "std": 0.8793229984105454
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.009349479002511632,
+      "mean": 0.9917070046067238,
+      "n": 8,
+      "std": 0.01349200000660656
+    },
+    "context_len": 1024,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 0.5684842953706637,
+      "mean": 11.179832816123962,
+      "n": 8,
+      "std": 0.8203655107237807
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.9047164195461879,
+      "mean": 1.7973395390436053,
+      "n": 8,
+      "std": 1.3055737047182103
+    },
+    "between_centroid_min": {
+      "ci95": 0.9047164195461879,
+      "mean": 1.7973395390436053,
+      "n": 8,
+      "std": 1.3055737047182103
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.012391965714777088,
+      "mean": 0.9825764670968056,
+      "n": 8,
+      "std": 0.01788253671255119
+    },
+    "context_len": 1024,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.6035201195268246,
+      "mean": 11.147830605506897,
+      "n": 8,
+      "std": 0.8709248348978234
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.6084976799051042,
+      "mean": 18.041666984558105,
+      "n": 8,
+      "std": 0.878107828157511
+    },
+    "between_centroid_min": {
+      "ci95": 1.9086856332112085,
+      "mean": 5.550612539052963,
+      "n": 8,
+      "std": 2.7543766416265
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.052455949650575165,
+      "mean": 0.3525191769003868,
+      "n": 8,
+      "std": 0.07569787288061594
+    },
+    "context_len": 1024,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.5219793198453861,
+      "mean": 5.916849255561829,
+      "n": 8,
+      "std": 0.7532553402077845
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.5940601927889515,
+      "mean": 2.5521544069051743,
+      "n": 8,
+      "std": 0.8572734505184805
+    },
+    "between_centroid_min": {
+      "ci95": 0.5940601927889515,
+      "mean": 2.5521544069051743,
+      "n": 8,
+      "std": 0.8572734505184805
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.010494291266857242,
+      "mean": 0.9817414656281471,
+      "n": 8,
+      "std": 0.01514405003783984
+    },
+    "context_len": 1024,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 0.8791691888515729,
+      "mean": 14.673430442810059,
+      "n": 8,
+      "std": 1.2687071331575994
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 1.1452952412963897,
+      "mean": 2.540583997964859,
+      "n": 8,
+      "std": 1.6527470032272662
+    },
+    "between_centroid_min": {
+      "ci95": 1.1452952412963897,
+      "mean": 2.540583997964859,
+      "n": 8,
+      "std": 1.6527470032272662
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.022026428082094957,
+      "mean": 0.9779046326875687,
+      "n": 8,
+      "std": 0.03178578910646356
+    },
+    "context_len": 1024,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 0.8726164282611485,
+      "mean": 14.66083574295044,
+      "n": 8,
+      "std": 1.2592510077515155
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 1.8977005744747697,
+      "mean": 4.774402782320976,
+      "n": 8,
+      "std": 2.738524377291258
+    },
+    "between_centroid_min": {
+      "ci95": 1.8977005744747697,
+      "mean": 4.774402782320976,
+      "n": 8,
+      "std": 2.738524377291258
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.03944636986683261,
+      "mean": 0.933618813753128,
+      "n": 8,
+      "std": 0.05692407270618373
+    },
+    "context_len": 1024,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.9650101748437159,
+      "mean": 14.475315809249878,
+      "n": 8,
+      "std": 1.3925821194816477
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.9204197681526072,
+      "mean": 23.53349804878235,
+      "n": 8,
+      "std": 1.3282348155078745
+    },
+    "between_centroid_min": {
+      "ci95": 3.602965514492207,
+      "mean": 9.578764349222183,
+      "n": 8,
+      "std": 5.199349689140241
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.06892449426073123,
+      "mean": 0.3608698472380638,
+      "n": 8,
+      "std": 0.09946321894207415
+    },
+    "context_len": 1024,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.7911631624736817,
+      "mean": 7.794282257556915,
+      "n": 8,
+      "std": 1.141707831041091
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.8367279040533424,
+      "mean": 3.9745254814624786,
+      "n": 8,
+      "std": 1.2074611733961742
+    },
+    "between_centroid_min": {
+      "ci95": 0.8367279040533424,
+      "mean": 3.9745254814624786,
+      "n": 8,
+      "std": 1.2074611733961742
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.014133911143426972,
+      "mean": 0.9743905663490295,
+      "n": 8,
+      "std": 0.020396294722868004
+    },
+    "context_len": 1024,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 1.3270752884951837,
+      "mean": 18.609057664871216,
+      "n": 8,
+      "std": 1.9150692564082417
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 1.3981522910315105,
+      "mean": 3.466899573802948,
+      "n": 8,
+      "std": 2.0176387063671193
+    },
+    "between_centroid_min": {
+      "ci95": 1.3981522910315105,
+      "mean": 3.466899573802948,
+      "n": 8,
+      "std": 2.0176387063671193
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.023933161464803582,
+      "mean": 0.9768781736493111,
+      "n": 8,
+      "std": 0.034537348504071794
+    },
+    "context_len": 1024,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 1.3255145869548872,
+      "mean": 18.62015175819397,
+      "n": 8,
+      "std": 1.9128170469336458
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 3.7185435499361743,
+      "mean": 9.03480663895607,
+      "n": 8,
+      "std": 5.366137469994625
+    },
+    "between_centroid_min": {
+      "ci95": 3.7185435499361743,
+      "mean": 9.03480663895607,
+      "n": 8,
+      "std": 5.366137469994625
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.08979566854368427,
+      "mean": 0.8572237938642502,
+      "n": 8,
+      "std": 0.12958189009881368
+    },
+    "context_len": 1024,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 1.3844007405029053,
+      "mean": 17.98960828781128,
+      "n": 8,
+      "std": 1.9977941867128208
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.3251943293757579,
+      "mean": 9.491862893104553,
+      "n": 8,
+      "std": 0.4692798275612451
+    },
+    "between_centroid_min": {
+      "ci95": 5.5624265265134035e-08,
+      "mean": 4.804414963643922e-07,
+      "n": 8,
+      "std": 8.026999013774615e-08
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.013572170226477016,
+      "mean": 0.4194382578134537,
+      "n": 8,
+      "std": 0.019585660413387877
+    },
+    "context_len": 256,
+    "layer": "embedding",
+    "layer_index": 0,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.129367924188317,
+      "mean": 2.598798096179962,
+      "n": 8,
+      "std": 0.18668762543180845
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "between_centroid_min": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "centroid_cosine_mean": {
+      "ci95": 5.294087099024453e-08,
+      "mean": 1.0000000149011612,
+      "n": 8,
+      "std": 7.639765077372262e-08
+    },
+    "context_len": 256,
+    "layer": "embedding",
+    "layer_index": 0,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 0.32504834972399343,
+      "mean": 7.569896757602692,
+      "n": 8,
+      "std": 0.46906916796598414
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "between_centroid_min": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "centroid_cosine_mean": {
+      "ci95": 5.294087099024453e-08,
+      "mean": 1.0000000149011612,
+      "n": 8,
+      "std": 7.639765077372262e-08
+    },
+    "context_len": 256,
+    "layer": "embedding",
+    "layer_index": 0,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 0.32504834972399343,
+      "mean": 7.569896757602692,
+      "n": 8,
+      "std": 0.46906916796598414
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "between_centroid_min": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "centroid_cosine_mean": {
+      "ci95": 5.294087099024453e-08,
+      "mean": 1.0000000149011612,
+      "n": 8,
+      "std": 7.639765077372262e-08
+    },
+    "context_len": 256,
+    "layer": "embedding",
+    "layer_index": 0,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.32504834972399343,
+      "mean": 7.569896757602692,
+      "n": 8,
+      "std": 0.46906916796598414
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.2973840961153362,
+      "mean": 11.033228039741516,
+      "n": 8,
+      "std": 0.4291475734289516
+    },
+    "between_centroid_min": {
+      "ci95": 0.7427234317803638,
+      "mean": 1.2131973840296268,
+      "n": 8,
+      "std": 1.0718056635878355
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.012286125189046735,
+      "mean": 0.3630612641572952,
+      "n": 8,
+      "std": 0.01772980088914653
+    },
+    "context_len": 256,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.18511190202109024,
+      "mean": 3.8478389978408813,
+      "n": 8,
+      "std": 0.26713036979071975
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.43689143814847037,
+      "mean": 2.2562853544950485,
+      "n": 8,
+      "std": 0.6304671399125031
+    },
+    "between_centroid_min": {
+      "ci95": 0.43689143814847037,
+      "mean": 2.2562853544950485,
+      "n": 8,
+      "std": 0.6304671399125031
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.013739222768178226,
+      "mean": 0.967740960419178,
+      "n": 8,
+      "std": 0.01982672977063558
+    },
+    "context_len": 256,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 0.3147750912422934,
+      "mean": 9.07551372051239,
+      "n": 8,
+      "std": 0.4542440848286529
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.9175774773734463,
+      "mean": 1.6242426633834839,
+      "n": 8,
+      "std": 1.3241331765608364
+    },
+    "between_centroid_min": {
+      "ci95": 0.9175774773734463,
+      "mean": 1.6242426633834839,
+      "n": 8,
+      "std": 1.3241331765608364
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.02478969624379,
+      "mean": 0.9746065810322762,
+      "n": 8,
+      "std": 0.03577339248477264
+    },
+    "context_len": 256,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 0.3005823018007412,
+      "mean": 9.09280014038086,
+      "n": 8,
+      "std": 0.43376282430197044
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.5408676496542961,
+      "mean": 0.7191968741826713,
+      "n": 8,
+      "std": 0.7805126179489442
+    },
+    "between_centroid_min": {
+      "ci95": 0.5408676496542961,
+      "mean": 0.7191968741826713,
+      "n": 8,
+      "std": 0.7805126179489442
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.008592259953666751,
+      "mean": 0.9934083819389343,
+      "n": 8,
+      "std": 0.012399276079500756
+    },
+    "context_len": 256,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.33237890301173956,
+      "mean": 9.134247660636902,
+      "n": 8,
+      "std": 0.47964770661825884
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.3183177849213032,
+      "mean": 14.89699673652649,
+      "n": 8,
+      "std": 0.45935645773496825
+    },
+    "between_centroid_min": {
+      "ci95": 1.813528192884065,
+      "mean": 5.530772253870964,
+      "n": 8,
+      "std": 2.617057312370015
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.03082778237439646,
+      "mean": 0.2750896271318197,
+      "n": 8,
+      "std": 0.044486804011997685
+    },
+    "context_len": 256,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.32689678955460877,
+      "mean": 5.659893274307251,
+      "n": 8,
+      "std": 0.47173660539219514
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.796374690590717,
+      "mean": 4.3417061269283295,
+      "n": 8,
+      "std": 1.149228457310275
+    },
+    "between_centroid_min": {
+      "ci95": 0.796374690590717,
+      "mean": 4.3417061269283295,
+      "n": 8,
+      "std": 1.149228457310275
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.03269514889691732,
+      "mean": 0.9061286896467209,
+      "n": 8,
+      "std": 0.04718155407533491
+    },
+    "context_len": 256,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 0.48241950405186873,
+      "mean": 12.358489394187927,
+      "n": 8,
+      "std": 0.6961675565137297
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.8917387451818515,
+      "mean": 3.932717591524124,
+      "n": 8,
+      "std": 1.2868459464589181
+    },
+    "between_centroid_min": {
+      "ci95": 0.8917387451818515,
+      "mean": 3.932717591524124,
+      "n": 8,
+      "std": 1.2868459464589181
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.03769226363541471,
+      "mean": 0.9200025722384453,
+      "n": 8,
+      "std": 0.05439276574463848
+    },
+    "context_len": 256,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 0.5026257469770111,
+      "mean": 12.393654227256775,
+      "n": 8,
+      "std": 0.7253266818089765
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 1.3513911363268343,
+      "mean": 4.202370375394821,
+      "n": 8,
+      "std": 1.9501588500655076
+    },
+    "between_centroid_min": {
+      "ci95": 1.3513911363268343,
+      "mean": 4.202370375394821,
+      "n": 8,
+      "std": 1.9501588500655076
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.05068781937003456,
+      "mean": 0.8988604992628098,
+      "n": 8,
+      "std": 0.07314632816349036
+    },
+    "context_len": 256,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.519328344054296,
+      "mean": 12.348282933235168,
+      "n": 8,
+      "std": 0.7494297831493331
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.46310021887243935,
+      "mean": 20.62861156463623,
+      "n": 8,
+      "std": 0.6682883778238291
+    },
+    "between_centroid_min": {
+      "ci95": 0.8034902685024686,
+      "mean": 12.47836458683014,
+      "n": 8,
+      "std": 1.159496770358154
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.03314118956236059,
+      "mean": 0.20186857879161835,
+      "n": 8,
+      "std": 0.04782522423700817
+    },
+    "context_len": 256,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.5934600893018794,
+      "mean": 8.114915549755096,
+      "n": 8,
+      "std": 0.8564074561406797
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 1.2776175310603544,
+      "mean": 6.517928808927536,
+      "n": 8,
+      "std": 1.843697999950186
+    },
+    "between_centroid_min": {
+      "ci95": 1.2776175310603544,
+      "mean": 6.517928808927536,
+      "n": 8,
+      "std": 1.843697999950186
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.061143032600180496,
+      "mean": 0.853277288377285,
+      "n": 8,
+      "std": 0.08823398566101587
+    },
+    "context_len": 256,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 0.676297688271914,
+      "mean": 17.042177200317383,
+      "n": 8,
+      "std": 0.9759483295466455
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.8492021334938654,
+      "mean": 7.085688471794128,
+      "n": 8,
+      "std": 1.225462422839992
+    },
+    "between_centroid_min": {
+      "ci95": 0.8492021334938654,
+      "mean": 7.085688471794128,
+      "n": 8,
+      "std": 1.225462422839992
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.029338279416370756,
+      "mean": 0.8515498861670494,
+      "n": 8,
+      "std": 0.042337339436043814
+    },
+    "context_len": 256,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 0.8061476978060674,
+      "mean": 16.993286848068237,
+      "n": 8,
+      "std": 1.1633316403195795
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 1.0606382995157744,
+      "mean": 10.71699059009552,
+      "n": 8,
+      "std": 1.5305806815791276
+    },
+    "between_centroid_min": {
+      "ci95": 1.0606382995157744,
+      "mean": 10.71699059009552,
+      "n": 8,
+      "std": 1.5305806815791276
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.08821035580673948,
+      "mean": 0.6721004396677017,
+      "n": 8,
+      "std": 0.12729416482004827
+    },
+    "context_len": 256,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.8232578346115295,
+      "mean": 16.49659025669098,
+      "n": 8,
+      "std": 1.1880228520791138
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.8126888008858296,
+      "mean": 27.88754415512085,
+      "n": 8,
+      "std": 1.1727709430627227
+    },
+    "between_centroid_min": {
+      "ci95": 0.9021862701027761,
+      "mean": 17.195158004760742,
+      "n": 8,
+      "std": 1.3019225091491249
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.05162037370286758,
+      "mean": 0.16738152131438255,
+      "n": 8,
+      "std": 0.07449207406669674
+    },
+    "context_len": 256,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.7425374534605312,
+      "mean": 11.156029462814331,
+      "n": 8,
+      "std": 1.0715372829121064
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 1.4784031825939734,
+      "mean": 9.731080114841461,
+      "n": 8,
+      "std": 2.13344676681627
+    },
+    "between_centroid_min": {
+      "ci95": 1.4784031825939734,
+      "mean": 9.731080114841461,
+      "n": 8,
+      "std": 2.13344676681627
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.060131027734547975,
+      "mean": 0.8127062767744064,
+      "n": 8,
+      "std": 0.08677358667513314
+    },
+    "context_len": 256,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 1.128589306048838,
+      "mean": 22.639874935150146,
+      "n": 8,
+      "std": 1.628639084656639
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.813478483407956,
+      "mean": 10.1567143201828,
+      "n": 8,
+      "std": 1.1739105142186004
+    },
+    "between_centroid_min": {
+      "ci95": 0.813478483407956,
+      "mean": 10.1567143201828,
+      "n": 8,
+      "std": 1.1739105142186004
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.038352166965600246,
+      "mean": 0.8279224783182144,
+      "n": 8,
+      "std": 0.055345055784846185
+    },
+    "context_len": 256,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 1.2526177047342686,
+      "mean": 22.60165810585022,
+      "n": 8,
+      "std": 1.8076213739835305
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 3.1176371793108113,
+      "mean": 19.286219835281372,
+      "n": 8,
+      "std": 4.498984470959133
+    },
+    "between_centroid_min": {
+      "ci95": 3.1176371793108113,
+      "mean": 19.286219835281372,
+      "n": 8,
+      "std": 4.498984470959133
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.2244028912445201,
+      "mean": 0.4392842445522547,
+      "n": 8,
+      "std": 0.3238302165650357
+    },
+    "context_len": 256,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.9657767798502693,
+      "mean": 20.984219551086426,
+      "n": 8,
+      "std": 1.3936883880502713
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.3425054780838901,
+      "mean": 9.522621512413025,
+      "n": 8,
+      "std": 0.4942611145850186
+    },
+    "between_centroid_min": {
+      "ci95": 4.477648104656039e-08,
+      "mean": 4.687574417516771e-07,
+      "n": 8,
+      "std": 6.461582323610974e-08
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.01808800675202482,
+      "mean": 0.42268838733434677,
+      "n": 8,
+      "std": 0.026102351494907774
+    },
+    "context_len": 64,
+    "layer": "embedding",
+    "layer_index": 0,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.12936790394071257,
+      "mean": 2.5987981259822845,
+      "n": 8,
+      "std": 0.1866875962129954
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "between_centroid_min": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "centroid_cosine_mean": {
+      "ci95": 9.559997875896358e-08,
+      "mean": 0.9999999850988388,
+      "n": 8,
+      "std": 1.379579454321491e-07
+    },
+    "context_len": 64,
+    "layer": "embedding",
+    "layer_index": 0,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 0.3250482070181948,
+      "mean": 7.569896757602692,
+      "n": 8,
+      "std": 0.4690689620308047
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "between_centroid_min": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "centroid_cosine_mean": {
+      "ci95": 9.559997875896358e-08,
+      "mean": 0.9999999850988388,
+      "n": 8,
+      "std": 1.379579454321491e-07
+    },
+    "context_len": 64,
+    "layer": "embedding",
+    "layer_index": 0,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 0.3250482070181948,
+      "mean": 7.569896757602692,
+      "n": 8,
+      "std": 0.4690689620308047
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "between_centroid_min": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "centroid_cosine_mean": {
+      "ci95": 9.559997875896358e-08,
+      "mean": 0.9999999850988388,
+      "n": 8,
+      "std": 1.379579454321491e-07
+    },
+    "context_len": 64,
+    "layer": "embedding",
+    "layer_index": 0,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.3250482070181948,
+      "mean": 7.569896757602692,
+      "n": 8,
+      "std": 0.4690689620308047
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.5419210618387531,
+      "mean": 11.913964867591858,
+      "n": 8,
+      "std": 0.782032770804075
+    },
+    "between_centroid_min": {
+      "ci95": 1.3670989840737018,
+      "mean": 2.8740353658795357,
+      "n": 8,
+      "std": 1.9728264534525601
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.023497208072160373,
+      "mean": 0.30192956887185574,
+      "n": 8,
+      "std": 0.0339082350342365
+    },
+    "context_len": 64,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.4244599189827871,
+      "mean": 5.3849241733551025,
+      "n": 8,
+      "std": 0.6125275246012681
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.34748153390081155,
+      "mean": 5.429812788963318,
+      "n": 8,
+      "std": 0.5014419366497287
+    },
+    "between_centroid_min": {
+      "ci95": 0.34748153390081155,
+      "mean": 5.429812788963318,
+      "n": 8,
+      "std": 0.5014419366497287
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.03185720727404629,
+      "mean": 0.8075849935412407,
+      "n": 8,
+      "std": 0.045972341414578656
+    },
+    "context_len": 64,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 0.550709452488723,
+      "mean": 9.956866264343262,
+      "n": 8,
+      "std": 0.7947150782006263
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 2.6513350979695662,
+      "mean": 5.174739018082619,
+      "n": 8,
+      "std": 3.8260755652493463
+    },
+    "between_centroid_min": {
+      "ci95": 2.6513350979695662,
+      "mean": 5.174739018082619,
+      "n": 8,
+      "std": 3.8260755652493463
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.19005071587501327,
+      "mean": 0.7926653213799,
+      "n": 8,
+      "std": 0.2742574489073056
+    },
+    "context_len": 64,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 0.19691763503708606,
+      "mean": 9.859573602676392,
+      "n": 8,
+      "std": 0.2841669287141658
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 1.0641771062030996,
+      "mean": 1.99924180470407,
+      "n": 8,
+      "std": 1.5356874452646703
+    },
+    "between_centroid_min": {
+      "ci95": 1.0641771062030996,
+      "mean": 1.99924180470407,
+      "n": 8,
+      "std": 1.5356874452646703
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.03289819427578883,
+      "mean": 0.9589855223894119,
+      "n": 8,
+      "std": 0.04747456379837294
+    },
+    "context_len": 64,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.5641200478375347,
+      "mean": 10.247470498085022,
+      "n": 8,
+      "std": 0.8140675739371436
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.4569135941530839,
+      "mean": 17.744279384613037,
+      "n": 8,
+      "std": 0.6593606139631913
+    },
+    "between_centroid_min": {
+      "ci95": 2.381855034046332,
+      "mean": 9.232202112674713,
+      "n": 8,
+      "std": 3.437195604851993
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.028005740107859497,
+      "mean": 0.14340228401124477,
+      "n": 8,
+      "std": 0.040414385188603116
+    },
+    "context_len": 64,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.4489518344876905,
+      "mean": 8.776658833026886,
+      "n": 8,
+      "std": 0.6478711971273193
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.7429504819119053,
+      "mean": 9.864034175872803,
+      "n": 8,
+      "std": 1.0721333139708604
+    },
+    "between_centroid_min": {
+      "ci95": 0.7429504819119053,
+      "mean": 9.864034175872803,
+      "n": 8,
+      "std": 1.0721333139708604
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.0591454386378003,
+      "mean": 0.523840855807066,
+      "n": 8,
+      "std": 0.08535130762661518
+    },
+    "context_len": 64,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 0.49346206195475467,
+      "mean": 14.99864673614502,
+      "n": 8,
+      "std": 0.7121027964622516
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 2.2891675114997736,
+      "mean": 12.679425239562988,
+      "n": 8,
+      "std": 3.3034405523539263
+    },
+    "between_centroid_min": {
+      "ci95": 2.2891675114997736,
+      "mean": 12.679425239562988,
+      "n": 8,
+      "std": 3.3034405523539263
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.18216759066845625,
+      "mean": 0.3230648497119546,
+      "n": 8,
+      "std": 0.26288150749812383
+    },
+    "context_len": 64,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 0.41374471067050284,
+      "mean": 14.414861917495728,
+      "n": 8,
+      "std": 0.5970646746840381
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 2.380582747300319,
+      "mean": 8.019803807139397,
+      "n": 8,
+      "std": 3.435359599575014
+    },
+    "between_centroid_min": {
+      "ci95": 2.380582747300319,
+      "mean": 8.019803807139397,
+      "n": 8,
+      "std": 3.435359599575014
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.1408782620204764,
+      "mean": 0.6332303732633591,
+      "n": 8,
+      "std": 0.20329790693153904
+    },
+    "context_len": 64,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.5953713839835284,
+      "mean": 15.193369030952454,
+      "n": 8,
+      "std": 0.8591655978350465
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.676520803812618,
+      "mean": 25.488587617874146,
+      "n": 8,
+      "std": 0.9762703020197473
+    },
+    "between_centroid_min": {
+      "ci95": 0.6077018250223857,
+      "mean": 15.090924859046936,
+      "n": 8,
+      "std": 0.876959349821979
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.015690630190785416,
+      "mean": 0.027987920308078174,
+      "n": 8,
+      "std": 0.022642757161213754
+    },
+    "context_len": 64,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.5215083319940176,
+      "mean": 12.692317485809326,
+      "n": 8,
+      "std": 0.7525756693841944
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 1.7532043352093944,
+      "mean": 14.348382115364075,
+      "n": 8,
+      "std": 2.530005457616767
+    },
+    "between_centroid_min": {
+      "ci95": 1.7532043352093944,
+      "mean": 14.348382115364075,
+      "n": 8,
+      "std": 2.530005457616767
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.12005361184575578,
+      "mean": 0.2970318477600813,
+      "n": 8,
+      "std": 0.17324637355524805
+    },
+    "context_len": 64,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 0.6043441853301402,
+      "mean": 21.502460479736328,
+      "n": 8,
+      "std": 0.8721140237093915
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 2.198281250461037,
+      "mean": 19.73091983795166,
+      "n": 8,
+      "std": 3.1722848554209033
+    },
+    "between_centroid_min": {
+      "ci95": 2.198281250461037,
+      "mean": 19.73091983795166,
+      "n": 8,
+      "std": 3.1722848554209033
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.14050172410151668,
+      "mean": -0.00838496396318078,
+      "n": 8,
+      "std": 0.20275453445017108
+    },
+    "context_len": 64,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 0.4336614071564237,
+      "mean": 20.4178147315979,
+      "n": 8,
+      "std": 0.6258059627330768
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 1.047878612378004,
+      "mean": 18.25856614112854,
+      "n": 8,
+      "std": 1.5121674952506863
+    },
+    "between_centroid_min": {
+      "ci95": 1.047878612378004,
+      "mean": 18.25856614112854,
+      "n": 8,
+      "std": 1.5121674952506863
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.07595232861083796,
+      "mean": 0.065340515691787,
+      "n": 8,
+      "std": 0.10960491144414806
+    },
+    "context_len": 64,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.6448462819451799,
+      "mean": 20.776176691055298,
+      "n": 8,
+      "std": 0.9305615893599368
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.7854594039667661,
+      "mean": 34.73705196380615,
+      "n": 8,
+      "std": 1.1334768793707022
+    },
+    "between_centroid_min": {
+      "ci95": 0.6294721930961376,
+      "mean": 20.89202380180359,
+      "n": 8,
+      "std": 0.9083756251156057
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.012813091034388503,
+      "mean": -0.026565291482256725,
+      "n": 8,
+      "std": 0.01849025215995238
+    },
+    "context_len": 64,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "variable": "decision",
+    "within_class_distance": {
+      "ci95": 0.29801513993698914,
+      "mean": 17.1611328125,
+      "n": 8,
+      "std": 0.43005821703204683
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.6330041267134128,
+      "mean": 20.321838855743408,
+      "n": 8,
+      "std": 0.9134724704451486
+    },
+    "between_centroid_min": {
+      "ci95": 0.6330041267134128,
+      "mean": 20.321838855743408,
+      "n": 8,
+      "std": 0.9134724704451486
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.05957813601274149,
+      "mean": 0.0956295090727508,
+      "n": 8,
+      "std": 0.0859757224184979
+    },
+    "context_len": 64,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "variable": "nuisance",
+    "within_class_distance": {
+      "ci95": 0.5929706357126282,
+      "mean": 28.986528396606445,
+      "n": 8,
+      "std": 0.8557011378712192
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 0.8644781266460577,
+      "mean": 27.112163066864014,
+      "n": 8,
+      "std": 1.247506827630348
+    },
+    "between_centroid_min": {
+      "ci95": 0.8644781266460577,
+      "mean": 27.112163066864014,
+      "n": 8,
+      "std": 1.247506827630348
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.03961312535926025,
+      "mean": -0.18941067904233932,
+      "n": 8,
+      "std": 0.05716471339903208
+    },
+    "context_len": 64,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "variable": "scope",
+    "within_class_distance": {
+      "ci95": 0.6253507109761469,
+      "mean": 27.574732542037964,
+      "n": 8,
+      "std": 0.9024280170429841
+    }
+  },
+  {
+    "between_centroid_distance": {
+      "ci95": 1.1484361870542443,
+      "mean": 30.46741271018982,
+      "n": 8,
+      "std": 1.657279623726691
+    },
+    "between_centroid_min": {
+      "ci95": 1.1484361870542443,
+      "mean": 30.46741271018982,
+      "n": 8,
+      "std": 1.657279623726691
+    },
+    "centroid_cosine_mean": {
+      "ci95": 0.06929860640253874,
+      "mean": -0.31015859358012676,
+      "n": 8,
+      "std": 0.10000309084492377
+    },
+    "context_len": 64,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "variable": "witness",
+    "within_class_distance": {
+      "ci95": 0.4616350112488605,
+      "mean": 26.665395975112915,
+      "n": 8,
+      "std": 0.6661739732391785
+    }
+  }
+]

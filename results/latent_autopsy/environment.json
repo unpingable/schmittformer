@@ -1,0 +1,14 @@
+{
+  "cuda_available": false,
+  "cuda_diagnosis": "requirements.txt pins torch==2.13.0+cpu from the PyTorch CPU wheel index; the GPU is visible to nvidia-smi but this virtualenv has no CUDA-enabled torch build.",
+  "cuda_version": null,
+  "device": "cpu",
+  "governance_semantic_digest": "1926060d9a20ff1f19d4e67d31c0c0cf4725a11b1a3f401419fd6c033333cf8c",
+  "gpu": "NVIDIA GeForce RTX 5060 Ti, 16311 MiB, 570.211.01",
+  "projection_checkpoint_revision": "0defef1",
+  "python": "Python 3.12.3",
+  "schema": "schmittformer.latent_autopsy.v1",
+  "schmittformer_revision": "0defef10a910a9fe8a142cb42bb6397e7de58e11",
+  "torch_pip_show": "Name: torch\nVersion: 2.13.0+cpu\nSummary: Tensors and Dynamic neural networks in Python with strong GPU acceleration\nHome-page: https://pytorch.org\nAuthor: \nAuthor-email: PyTorch Team <packages@pytorch.org>\nLicense-Expression: Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND MIT\nLocation: /home/jbeck/git/trans/.venv/lib/python3.12/site-packages\nRequires: filelock, fsspec, jinja2, networkx, setuptools, sympy, typing-extensions\nRequired-by: \n",
+  "torch_version": "2.13.0+cpu"
+}

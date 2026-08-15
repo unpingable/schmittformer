@@ -1,0 +1,992 @@
+[
+  {
+    "built_context": 1024,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.6666666865348816,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 1024,
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.6666666865348816,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 9.559997875896358e-09,
+      "mean": 0.33333318680524826,
+      "n": 8,
+      "std": 1.3795794543214909e-08
+    },
+    "synth_margin_min": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 1024,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 1024,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 0.05511639636120535,
+      "mean": 0.9221469536423683,
+      "n": 8,
+      "std": 0.07953709718688542
+    },
+    "synth_margin_min": {
+      "ci95": 0.14987785365432216,
+      "mean": 0.7265552282333374,
+      "n": 8,
+      "std": 0.21628499320133915
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 1024,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 1024,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 0.003726203683007811,
+      "mean": 0.9944039732217789,
+      "n": 8,
+      "std": 0.005377191617014514
+    },
+    "synth_margin_min": {
+      "ci95": 0.03445527191398656,
+      "mean": 0.9540560841560364,
+      "n": 8,
+      "std": 0.04972154371021693
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 1024,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 1024,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 0.00037020419544310214,
+      "mean": 0.9990158751606941,
+      "n": 8,
+      "std": 0.0005342324429010765
+    },
+    "synth_margin_min": {
+      "ci95": 0.0035470481702167067,
+      "mean": 0.9932049810886383,
+      "n": 8,
+      "std": 0.0051186567639909565
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 1024,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 1024,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 0.00018014104780233396,
+      "mean": 0.99955253303051,
+      "n": 8,
+      "std": 0.000259957054022613
+    },
+    "synth_margin_min": {
+      "ci95": 0.0019644499022623265,
+      "mean": 0.9963492453098297,
+      "n": 8,
+      "std": 0.0028348486677366156
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 256,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.6666666865348816,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 256,
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.6666666865348816,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 9.559997875896358e-09,
+      "mean": 0.33333318680524826,
+      "n": 8,
+      "std": 1.3795794543214909e-08
+    },
+    "synth_margin_min": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 256,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 256,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 0.018828756302033327,
+      "mean": 0.9638779535889626,
+      "n": 8,
+      "std": 0.027171308698932056
+    },
+    "synth_margin_min": {
+      "ci95": 0.10407686967425313,
+      "mean": 0.8191866874694824,
+      "n": 8,
+      "std": 0.15019073532925087
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 256,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 256,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 0.0009269739505896572,
+      "mean": 0.9988063871860504,
+      "n": 8,
+      "std": 0.001337692992745368
+    },
+    "synth_margin_min": {
+      "ci95": 0.006029721914773041,
+      "mean": 0.992485910654068,
+      "n": 8,
+      "std": 0.008701341335928882
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 256,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 256,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 3.0132636109951506e-05,
+      "mean": 0.9999114573001862,
+      "n": 8,
+      "std": 4.3483655772190494e-05
+    },
+    "synth_margin_min": {
+      "ci95": 0.0002847329318868355,
+      "mean": 0.999407023191452,
+      "n": 8,
+      "std": 0.0004108909938047117
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 256,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 256,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 1.1814237742297417e-05,
+      "mean": 0.9999735578894615,
+      "n": 8,
+      "std": 1.7048831881895004e-05
+    },
+    "synth_margin_min": {
+      "ci95": 8.174063325107205e-05,
+      "mean": 0.9998418688774109,
+      "n": 8,
+      "std": 0.0001179578695312564
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 64,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.6666666865348816,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 64,
+    "layer": "embedding",
+    "layer_index": 0,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.6666666865348816,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 1.4603137969970701e-08,
+      "mean": 0.33333318680524826,
+      "n": 8,
+      "std": 2.1073424255447017e-08
+    },
+    "synth_margin_min": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 64,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 64,
+    "layer": "layer_1",
+    "layer_index": 1,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 0.026006854444901355,
+      "mean": 0.9735902398824692,
+      "n": 8,
+      "std": 0.037529843133308684
+    },
+    "synth_margin_min": {
+      "ci95": 0.17249110661793804,
+      "mean": 0.818889856338501,
+      "n": 8,
+      "std": 0.24891761466105258
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 64,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 64,
+    "layer": "layer_2",
+    "layer_index": 2,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 0.00022210629337577036,
+      "mean": 0.9998535364866257,
+      "n": 8,
+      "std": 0.0003205160534494204
+    },
+    "synth_margin_min": {
+      "ci95": 0.0014315962440597828,
+      "mean": 0.9990778565406799,
+      "n": 8,
+      "std": 0.002065900841011968
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 64,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 64,
+    "layer": "layer_3",
+    "layer_index": 3,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 2.91498428759073e-06,
+      "mean": 0.9999934360384941,
+      "n": 8,
+      "std": 4.206541136342127e-06
+    },
+    "synth_margin_min": {
+      "ci95": 1.2591389452583013e-05,
+      "mean": 0.9999677091836929,
+      "n": 8,
+      "std": 1.8170320135678e-05
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "built_context": 64,
+    "decision_probe_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "eval_context": 64,
+    "layer": "layer_4",
+    "layer_index": 4,
+    "learned_policy_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "scope_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_false_admit": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "synth_margin_mean": {
+      "ci95": 6.698141406625307e-07,
+      "mean": 0.9999967738986015,
+      "n": 8,
+      "std": 9.665920836675826e-07
+    },
+    "synth_margin_min": {
+      "ci95": 4.445703962337887e-06,
+      "mean": 0.9999851435422897,
+      "n": 8,
+      "std": 6.415484528402089e-06
+    },
+    "witness_accuracy": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    }
+  }
+]
