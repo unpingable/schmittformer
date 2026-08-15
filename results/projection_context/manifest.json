@@ -1,0 +1,23 @@
+{
+  "completed": [
+    "overnight_seed_101_L64_D96_S900",
+    "overnight_seed_102_L64_D96_S900",
+    "overnight_seed_103_L64_D96_S900",
+    "overnight_seed_104_L64_D96_S900",
+    "overnight_seed_105_L64_D96_S900",
+    "overnight_seed_106_L64_D96_S900",
+    "overnight_seed_107_L64_D96_S900",
+    "overnight_seed_108_L64_D96_S900"
+  ],
+  "runs": {
+    "overnight_seed_101_L64_D96_S900": "results/projection_context/runs/overnight_seed_101_L64_D96_S900.json",
+    "overnight_seed_102_L64_D96_S900": "results/projection_context/runs/overnight_seed_102_L64_D96_S900.json",
+    "overnight_seed_103_L64_D96_S900": "results/projection_context/runs/overnight_seed_103_L64_D96_S900.json",
+    "overnight_seed_104_L64_D96_S900": "results/projection_context/runs/overnight_seed_104_L64_D96_S900.json",
+    "overnight_seed_105_L64_D96_S900": "results/projection_context/runs/overnight_seed_105_L64_D96_S900.json",
+    "overnight_seed_106_L64_D96_S900": "results/projection_context/runs/overnight_seed_106_L64_D96_S900.json",
+    "overnight_seed_107_L64_D96_S900": "results/projection_context/runs/overnight_seed_107_L64_D96_S900.json",
+    "overnight_seed_108_L64_D96_S900": "results/projection_context/runs/overnight_seed_108_L64_D96_S900.json"
+  },
+  "schema": "schmittformer.projection_sweep.v1"
+}

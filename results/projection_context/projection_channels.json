@@ -1,0 +1,300 @@
+{
+  "context_lengths": [
+    64,
+    256,
+    1024
+  ],
+  "descriptions": [
+    {
+      "destroyed": [
+        "witness",
+        "scope",
+        "nuisance"
+      ],
+      "notes": "states requiring different policy decisions serialize identically when proposal matches",
+      "regime": "P0_COMPLETE_ERASURE",
+      "survives": [
+        "proposal"
+      ]
+    },
+    {
+      "destroyed": [
+        "scope",
+        "nuisance"
+      ],
+      "notes": "scope-gated decisions remain ambiguous",
+      "regime": "P2_PARTIAL_EXPORT",
+      "survives": [
+        "proposal",
+        "witness"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "ordinary deterministic monitor has all policy inputs",
+      "regime": "P3_FULL_TRUSTED_EXPORT",
+      "survives": [
+        "proposal",
+        "witness",
+        "scope"
+      ]
+    },
+    {
+      "destroyed": [
+        "witness",
+        "scope"
+      ],
+      "notes": "nuisance is correlated with witness during training but is not policy evidence",
+      "regime": "P5_SPURIOUS_EXPORT",
+      "survives": [
+        "proposal",
+        "nuisance"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "policy bits pass through independent binary symmetric channels",
+      "regime": "P1_NOISY_EXPORT",
+      "survives": [
+        "proposal",
+        "noisy witness",
+        "noisy scope"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "policy bits pass through independent binary symmetric channels",
+      "regime": "P1_NOISY_EXPORT",
+      "survives": [
+        "proposal",
+        "noisy witness",
+        "noisy scope"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "policy bits pass through independent binary symmetric channels",
+      "regime": "P1_NOISY_EXPORT",
+      "survives": [
+        "proposal",
+        "noisy witness",
+        "noisy scope"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "policy bits pass through independent binary symmetric channels",
+      "regime": "P1_NOISY_EXPORT",
+      "survives": [
+        "proposal",
+        "noisy witness",
+        "noisy scope"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "policy bits pass through independent binary symmetric channels",
+      "regime": "P1_NOISY_EXPORT",
+      "survives": [
+        "proposal",
+        "noisy witness",
+        "noisy scope"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "policy bits pass through independent binary symmetric channels",
+      "regime": "P1_NOISY_EXPORT",
+      "survives": [
+        "proposal",
+        "noisy witness",
+        "noisy scope"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "policy bits pass through independent binary symmetric channels",
+      "regime": "P1_NOISY_EXPORT",
+      "survives": [
+        "proposal",
+        "noisy witness",
+        "noisy scope"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "majority vote can reduce independent carrier noise",
+      "regime": "P4_REDUNDANT_EXPORT",
+      "survives": [
+        "proposal",
+        "redundant witness carriers",
+        "redundant scope carriers"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "majority vote can reduce independent carrier noise",
+      "regime": "P4_REDUNDANT_EXPORT",
+      "survives": [
+        "proposal",
+        "redundant witness carriers",
+        "redundant scope carriers"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "majority vote can reduce independent carrier noise",
+      "regime": "P4_REDUNDANT_EXPORT",
+      "survives": [
+        "proposal",
+        "redundant witness carriers",
+        "redundant scope carriers"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "majority vote can reduce independent carrier noise",
+      "regime": "P4_REDUNDANT_EXPORT",
+      "survives": [
+        "proposal",
+        "redundant witness carriers",
+        "redundant scope carriers"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "majority vote can reduce independent carrier noise",
+      "regime": "P4_REDUNDANT_EXPORT",
+      "survives": [
+        "proposal",
+        "redundant witness carriers",
+        "redundant scope carriers"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "majority vote can reduce independent carrier noise",
+      "regime": "P4_REDUNDANT_EXPORT",
+      "survives": [
+        "proposal",
+        "redundant witness carriers",
+        "redundant scope carriers"
+      ]
+    },
+    {
+      "destroyed": [
+        "nuisance"
+      ],
+      "notes": "majority vote can reduce independent carrier noise",
+      "regime": "P4_REDUNDANT_EXPORT",
+      "survives": [
+        "proposal",
+        "redundant witness carriers",
+        "redundant scope carriers"
+      ]
+    }
+  ],
+  "points": [
+    {
+      "noise": 0.0,
+      "regime": "P0_COMPLETE_ERASURE"
+    },
+    {
+      "noise": 0.0,
+      "regime": "P2_PARTIAL_EXPORT"
+    },
+    {
+      "noise": 0.0,
+      "regime": "P3_FULL_TRUSTED_EXPORT"
+    },
+    {
+      "noise": 0.0,
+      "regime": "P5_SPURIOUS_EXPORT"
+    },
+    {
+      "noise": 0.0,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.01,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.05,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.1,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.2,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.35,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.5,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.0,
+      "regime": "P4_REDUNDANT_EXPORT"
+    },
+    {
+      "noise": 0.01,
+      "regime": "P4_REDUNDANT_EXPORT"
+    },
+    {
+      "noise": 0.05,
+      "regime": "P4_REDUNDANT_EXPORT"
+    },
+    {
+      "noise": 0.1,
+      "regime": "P4_REDUNDANT_EXPORT"
+    },
+    {
+      "noise": 0.2,
+      "regime": "P4_REDUNDANT_EXPORT"
+    },
+    {
+      "noise": 0.35,
+      "regime": "P4_REDUNDANT_EXPORT"
+    },
+    {
+      "noise": 0.5,
+      "regime": "P4_REDUNDANT_EXPORT"
+    }
+  ],
+  "schema": "schmittformer.projection_sweep.v1"
+}

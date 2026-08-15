@@ -1,0 +1,472 @@
+[
+  {
+    "intervention": "scope",
+    "latent_learned_intervention_consistency": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "latent_synthesized_intervention_consistency": {
+      "ci95": 0.1110250534789333,
+      "mean": 0.28125,
+      "n": 8,
+      "std": 0.16021748611541395
+    },
+    "layer": "embedding",
+    "layer_index": 0,
+    "nuisance_intervention_effect_learned": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_intervention_effect_synthesized": {
+      "ci95": 0.1110250534789333,
+      "mean": 0.71875,
+      "n": 8,
+      "std": 0.16021748611541395
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_learned": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_synthesized": {
+      "ci95": 0.1110250534789333,
+      "mean": 0.28125,
+      "n": 8,
+      "std": 0.16021748611541395
+    }
+  },
+  {
+    "intervention": "scope",
+    "latent_learned_intervention_consistency": {
+      "ci95": 0.23495012768670714,
+      "mean": 0.28125,
+      "n": 8,
+      "std": 0.3390506704651344
+    },
+    "latent_synthesized_intervention_consistency": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "layer": "layer_1",
+    "layer_index": 1,
+    "nuisance_intervention_effect_learned": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_intervention_effect_synthesized": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_learned": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_synthesized": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "intervention": "scope",
+    "latent_learned_intervention_consistency": {
+      "ci95": 0.08966081920214648,
+      "mean": 0.09375,
+      "n": 8,
+      "std": 0.12938729237669142
+    },
+    "latent_synthesized_intervention_consistency": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "layer": "layer_2",
+    "layer_index": 2,
+    "nuisance_intervention_effect_learned": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_intervention_effect_synthesized": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_learned": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_synthesized": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "intervention": "scope",
+    "latent_learned_intervention_consistency": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "latent_synthesized_intervention_consistency": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "layer": "layer_3",
+    "layer_index": 3,
+    "nuisance_intervention_effect_learned": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_intervention_effect_synthesized": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_learned": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_synthesized": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "intervention": "scope",
+    "latent_learned_intervention_consistency": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "latent_synthesized_intervention_consistency": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "layer": "layer_4",
+    "layer_index": 4,
+    "nuisance_intervention_effect_learned": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_intervention_effect_synthesized": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_learned": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_synthesized": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "intervention": "witness",
+    "latent_learned_intervention_consistency": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "latent_synthesized_intervention_consistency": {
+      "ci95": 0.08019507466172719,
+      "mean": 0.4375,
+      "n": 8,
+      "std": 0.11572751247156893
+    },
+    "layer": "embedding",
+    "layer_index": 0,
+    "nuisance_intervention_effect_learned": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_intervention_effect_synthesized": {
+      "ci95": 0.08019507466172719,
+      "mean": 0.5625,
+      "n": 8,
+      "std": 0.11572751247156893
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_learned": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_synthesized": {
+      "ci95": 0.08019507466172719,
+      "mean": 0.4375,
+      "n": 8,
+      "std": 0.11572751247156893
+    }
+  },
+  {
+    "intervention": "witness",
+    "latent_learned_intervention_consistency": {
+      "ci95": 0.0,
+      "mean": 0.5,
+      "n": 8,
+      "std": 0.0
+    },
+    "latent_synthesized_intervention_consistency": {
+      "ci95": 0.13095800853708794,
+      "mean": 0.625,
+      "n": 8,
+      "std": 0.18898223650461363
+    },
+    "layer": "layer_1",
+    "layer_index": 1,
+    "nuisance_intervention_effect_learned": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.4375,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "nuisance_intervention_effect_synthesized": {
+      "ci95": 0.12889554879824205,
+      "mean": 0.40625,
+      "n": 8,
+      "std": 0.18600595228571123
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_learned": {
+      "ci95": 0.13095800853708794,
+      "mean": 0.375,
+      "n": 8,
+      "std": 0.18898223650461363
+    },
+    "random_direction_consistency_synthesized": {
+      "ci95": 0.13095800853708794,
+      "mean": 0.375,
+      "n": 8,
+      "std": 0.18898223650461363
+    }
+  },
+  {
+    "intervention": "witness",
+    "latent_learned_intervention_consistency": {
+      "ci95": 0.08019507466172719,
+      "mean": 0.4375,
+      "n": 8,
+      "std": 0.11572751247156893
+    },
+    "latent_synthesized_intervention_consistency": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.9375,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "layer": "layer_2",
+    "layer_index": 2,
+    "nuisance_intervention_effect_learned": {
+      "ci95": 0.13095800853708794,
+      "mean": 0.125,
+      "n": 8,
+      "std": 0.18898223650461363
+    },
+    "nuisance_intervention_effect_synthesized": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_learned": {
+      "ci95": 0.12889554879824205,
+      "mean": 0.09375,
+      "n": 8,
+      "std": 0.18600595228571123
+    },
+    "random_direction_consistency_synthesized": {
+      "ci95": 0.12249999999999998,
+      "mean": 0.0625,
+      "n": 8,
+      "std": 0.1767766952966369
+    }
+  },
+  {
+    "intervention": "witness",
+    "latent_learned_intervention_consistency": {
+      "ci95": 0.13095800853708794,
+      "mean": 0.25,
+      "n": 8,
+      "std": 0.18898223650461363
+    },
+    "latent_synthesized_intervention_consistency": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "layer": "layer_3",
+    "layer_index": 3,
+    "nuisance_intervention_effect_learned": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_intervention_effect_synthesized": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_learned": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_synthesized": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  },
+  {
+    "intervention": "witness",
+    "latent_learned_intervention_consistency": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "latent_synthesized_intervention_consistency": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "layer": "layer_4",
+    "layer_index": 4,
+    "nuisance_intervention_effect_learned": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "nuisance_intervention_effect_synthesized": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "proposal_preservation": {
+      "ci95": 0.0,
+      "mean": 1.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_learned": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    },
+    "random_direction_consistency_synthesized": {
+      "ci95": 0.0,
+      "mean": 0.0,
+      "n": 8,
+      "std": 0.0
+    }
+  }
+]

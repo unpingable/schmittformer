@@ -1,0 +1,100 @@
+{
+  "context_lengths": [
+    64,
+    256,
+    1024
+  ],
+  "profile": "overnight",
+  "projection_points": [
+    {
+      "noise": 0.0,
+      "regime": "P0_COMPLETE_ERASURE"
+    },
+    {
+      "noise": 0.0,
+      "regime": "P2_PARTIAL_EXPORT"
+    },
+    {
+      "noise": 0.0,
+      "regime": "P3_FULL_TRUSTED_EXPORT"
+    },
+    {
+      "noise": 0.0,
+      "regime": "P5_SPURIOUS_EXPORT"
+    },
+    {
+      "noise": 0.0,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.01,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.05,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.1,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.2,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.35,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.5,
+      "regime": "P1_NOISY_EXPORT"
+    },
+    {
+      "noise": 0.0,
+      "regime": "P4_REDUNDANT_EXPORT"
+    },
+    {
+      "noise": 0.01,
+      "regime": "P4_REDUNDANT_EXPORT"
+    },
+    {
+      "noise": 0.05,
+      "regime": "P4_REDUNDANT_EXPORT"
+    },
+    {
+      "noise": 0.1,
+      "regime": "P4_REDUNDANT_EXPORT"
+    },
+    {
+      "noise": 0.2,
+      "regime": "P4_REDUNDANT_EXPORT"
+    },
+    {
+      "noise": 0.35,
+      "regime": "P4_REDUNDANT_EXPORT"
+    },
+    {
+      "noise": 0.5,
+      "regime": "P4_REDUNDANT_EXPORT"
+    }
+  ],
+  "result_files": {
+    "aggregate": "results/projection_context/aggregate.json",
+    "bayes_bounds": "results/projection_context/bayes_bounds.json",
+    "interventions": "results/projection_context/interventions.json",
+    "manifest": "results/projection_context/manifest.json"
+  },
+  "runs": 8,
+  "schema": "schmittformer.projection_sweep.v1",
+  "seeds": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108
+  ]
+}

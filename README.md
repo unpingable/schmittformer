@@ -99,3 +99,15 @@ uses explicit hard attention/argmax selection as its exactness primitive. The
 experiment is still useful because the state update is executed inside the
 synthesized PyTorch module by attention over the token history, not by a Python
 state-machine loop hidden around the model.
+
+
+## Projection-Loss Governance Boundary Experiment
+
+The current research-track experiment studies where governance can enforce a
+policy when policy-relevant information is erased or corrupted by serialization.
+It is separate from the practical governance semantic core and does not modify
+that semantics. See `PROJECTION_ANALYSIS.md` and `PROJECTION_RESULTS.md`, and run:
+
+```bash
+.venv/bin/python -m experiments.run_projection_sweep --profile overnight --out-dir results/projection_context
+```

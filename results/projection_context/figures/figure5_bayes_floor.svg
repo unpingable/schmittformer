@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="380.0" y="24" text-anchor="middle" font-family="sans-serif" font-size="16">Figure 5: token-boundary error vs Bayes floor</text>
+<line x1="72" y1="396" x2="734" y2="396" stroke="#333"/>
+<line x1="72" y1="40" x2="72" y2="396" stroke="#333"/>
+<text x="380.0" y="442" text-anchor="middle" font-family="sans-serif" font-size="12">bit flip probability</text>
+<text x="18" y="230.0" transform="rotate(-90 18 230.0)" text-anchor="middle" font-family="sans-serif" font-size="12">policy error</text>
+<line x1="68" y1="396.00" x2="72" y2="396.00" stroke="#333"/>
+<text x="64" y="400.00" text-anchor="end" font-family="sans-serif" font-size="10">0.000</text>
+<line x1="68" y1="324.80" x2="72" y2="324.80" stroke="#333"/>
+<text x="64" y="328.80" text-anchor="end" font-family="sans-serif" font-size="10">0.129</text>
+<line x1="68" y1="253.60" x2="72" y2="253.60" stroke="#333"/>
+<text x="64" y="257.60" text-anchor="end" font-family="sans-serif" font-size="10">0.258</text>
+<line x1="68" y1="182.40" x2="72" y2="182.40" stroke="#333"/>
+<text x="64" y="186.40" text-anchor="end" font-family="sans-serif" font-size="10">0.388</text>
+<line x1="68" y1="111.20" x2="72" y2="111.20" stroke="#333"/>
+<text x="64" y="115.20" text-anchor="end" font-family="sans-serif" font-size="10">0.517</text>
+<line x1="68" y1="40.00" x2="72" y2="40.00" stroke="#333"/>
+<text x="64" y="44.00" text-anchor="end" font-family="sans-serif" font-size="10">0.646</text>
+<line x1="72.00" y1="396" x2="72.00" y2="400" stroke="#333"/>
+<text x="72.00" y="414" text-anchor="middle" font-family="sans-serif" font-size="10">0.00</text>
+<line x1="204.40" y1="396" x2="204.40" y2="400" stroke="#333"/>
+<text x="204.40" y="414" text-anchor="middle" font-family="sans-serif" font-size="10">0.10</text>
+<line x1="336.80" y1="396" x2="336.80" y2="400" stroke="#333"/>
+<text x="336.80" y="414" text-anchor="middle" font-family="sans-serif" font-size="10">0.20</text>
+<line x1="469.20" y1="396" x2="469.20" y2="400" stroke="#333"/>
+<text x="469.20" y="414" text-anchor="middle" font-family="sans-serif" font-size="10">0.30</text>
+<line x1="601.60" y1="396" x2="601.60" y2="400" stroke="#333"/>
+<text x="601.60" y="414" text-anchor="middle" font-family="sans-serif" font-size="10">0.40</text>
+<line x1="734.00" y1="396" x2="734.00" y2="400" stroke="#333"/>
+<text x="734.00" y="414" text-anchor="middle" font-family="sans-serif" font-size="10">0.50</text>
+<polyline fill="none" stroke="#174ea6" stroke-width="2" points="72.00,396.00 85.24,388.59 138.20,359.43 204.40,324.10 336.80,257.16 535.40,166.05 734.00,148.08"/>
+<circle cx="72.00" cy="396.00" r="3" fill="#174ea6"/>
+<circle cx="85.24" cy="388.59" r="3" fill="#174ea6"/>
+<circle cx="138.20" cy="359.43" r="3" fill="#174ea6"/>
+<circle cx="204.40" cy="324.10" r="3" fill="#174ea6"/>
+<circle cx="336.80" cy="257.16" r="3" fill="#174ea6"/>
+<circle cx="535.40" cy="166.05" r="3" fill="#174ea6"/>
+<circle cx="734.00" cy="148.08" r="3" fill="#174ea6"/>
+<rect x="530" y="48" width="12" height="12" fill="#174ea6"/>
+<text x="548" y="58" font-family="sans-serif" font-size="11">BAYES_FLOOR</text>
+<polyline fill="none" stroke="#c5221f" stroke-width="2" points="72.00,396.00 85.24,388.05 138.20,359.20 204.40,322.85 336.80,254.92 535.40,156.98 734.00,148.17"/>
+<circle cx="72.00" cy="396.00" r="3" fill="#c5221f"/>
+<circle cx="85.24" cy="388.05" r="3" fill="#c5221f"/>
+<circle cx="138.20" cy="359.20" r="3" fill="#c5221f"/>
+<circle cx="204.40" cy="322.85" r="3" fill="#c5221f"/>
+<circle cx="336.80" cy="254.92" r="3" fill="#c5221f"/>
+<circle cx="535.40" cy="156.98" r="3" fill="#c5221f"/>
+<circle cx="734.00" cy="148.17" r="3" fill="#c5221f"/>
+<rect x="530" y="66" width="12" height="12" fill="#c5221f"/>
+<text x="548" y="76" font-family="sans-serif" font-size="11">TOKEN_LEARNED</text>
+<polyline fill="none" stroke="#188038" stroke-width="2" points="72.00,396.00 85.24,388.80 138.20,360.10 204.40,324.51 336.80,257.91 535.40,166.38 734.00,86.43"/>
+<circle cx="72.00" cy="396.00" r="3" fill="#188038"/>
+<circle cx="85.24" cy="388.80" r="3" fill="#188038"/>
+<circle cx="138.20" cy="360.10" r="3" fill="#188038"/>
+<circle cx="204.40" cy="324.51" r="3" fill="#188038"/>
+<circle cx="336.80" cy="257.91" r="3" fill="#188038"/>
+<circle cx="535.40" cy="166.38" r="3" fill="#188038"/>
+<circle cx="734.00" cy="86.43" r="3" fill="#188038"/>
+<rect x="530" y="84" width="12" height="12" fill="#188038"/>
+<text x="548" y="94" font-family="sans-serif" font-size="11">TOKEN_ONLY_REFERENCE</text>
+</svg>

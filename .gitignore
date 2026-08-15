@@ -2,3 +2,9 @@
 __pycache__/
 *.pyc
 .pytest_cache/
+
+# Projection research calibration outputs; final artifacts are under results/projection_context/.
+results/projection/
+results/projection_smoke/
+results/projection_overnight/
+results/projection_context_smoke/

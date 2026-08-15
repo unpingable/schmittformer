@@ -1,0 +1,97 @@
+{
+  "causal_probe_mismatch": [
+    {
+      "intervention": "scope",
+      "latent_learned_intervention_consistency_mean": 0.0,
+      "latent_synthesized_intervention_consistency_mean": 1.0,
+      "layer": "layer_4",
+      "proposal_preservation_mean": 1.0,
+      "random_direction_consistency_synthesized_mean": 0.0
+    },
+    {
+      "intervention": "witness",
+      "latent_learned_intervention_consistency_mean": 0.0,
+      "latent_synthesized_intervention_consistency_mean": 1.0,
+      "layer": "layer_4",
+      "proposal_preservation_mean": 1.0,
+      "random_direction_consistency_synthesized_mean": 0.0
+    }
+  ],
+  "long_context_degradation": [
+    {
+      "boundary": "END_TO_END_LEARNED",
+      "context_len": 1024,
+      "layer": "final_head",
+      "policy_accuracy_mean": 0.625,
+      "policy_violation_rate_mean": 0.1328125
+    },
+    {
+      "boundary": "END_TO_END_LEARNED",
+      "context_len": 256,
+      "layer": "final_head",
+      "policy_accuracy_mean": 0.849853515625,
+      "policy_violation_rate_mean": 0.030029296875
+    },
+    {
+      "boundary": "LATENT_LEARNED",
+      "context_len": 1024,
+      "layer": "layer_4",
+      "policy_accuracy_mean": 0.62109375,
+      "policy_violation_rate_mean": 0.1796875
+    },
+    {
+      "boundary": "LATENT_LEARNED",
+      "context_len": 256,
+      "layer": "layer_4",
+      "policy_accuracy_mean": 0.811279296875,
+      "policy_violation_rate_mean": 0.056640625
+    },
+    {
+      "boundary": "LATENT_SYNTHESIZED",
+      "context_len": 1024,
+      "layer": "layer_4",
+      "policy_accuracy_mean": 0.66015625,
+      "policy_violation_rate_mean": 0.08203125
+    },
+    {
+      "boundary": "LATENT_SYNTHESIZED",
+      "context_len": 256,
+      "layer": "layer_4",
+      "policy_accuracy_mean": 0.7861328125,
+      "policy_violation_rate_mean": 0.066162109375
+    }
+  ],
+  "projection_collision": {
+    "decision_a": 3,
+    "decision_b": 0,
+    "projection_key": {
+      "nuisance": -1,
+      "proposal": 1,
+      "scope": -1,
+      "scope_carriers": [
+        -1,
+        -1,
+        -1
+      ],
+      "witness": -1,
+      "witness_carriers": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "state_a": {
+      "nuisance": 0,
+      "proposal": 1,
+      "scope": 0,
+      "witness": 0
+    },
+    "state_b": {
+      "nuisance": 0,
+      "proposal": 1,
+      "scope": 0,
+      "witness": 1
+    }
+  },
+  "schema": "schmittformer.projection_counterexamples.v1"
+}

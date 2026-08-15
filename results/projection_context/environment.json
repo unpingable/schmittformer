@@ -1,0 +1,11 @@
+{
+  "cuda_available": false,
+  "cuda_version": null,
+  "device": "cpu",
+  "governance_semantic_digest": "1926060d9a20ff1f19d4e67d31c0c0cf4725a11b1a3f401419fd6c033333cf8c",
+  "gpu": "NVIDIA GeForce RTX 5060 Ti, 16311 MiB, 570.211.01",
+  "python": "Python 3.12.3",
+  "schema": "schmittformer.projection_sweep.v1",
+  "schmittformer_revision": "cc355f12a83fa9bcc19f98790ab16e518dd9f26d",
+  "torch_version": "2.13.0+cpu"
+}

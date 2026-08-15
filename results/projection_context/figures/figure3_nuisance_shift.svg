@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="380.0" y="24" text-anchor="middle" font-family="sans-serif" font-size="16">Figure 3: nuisance shift</text>
+<line x1="72" y1="396" x2="734" y2="396" stroke="#333"/>
+<line x1="72" y1="40" x2="72" y2="396" stroke="#333"/>
+<text x="380.0" y="442" text-anchor="middle" font-family="sans-serif" font-size="12">IID, weakened, independent, reversed</text>
+<text x="18" y="230.0" transform="rotate(-90 18 230.0)" text-anchor="middle" font-family="sans-serif" font-size="12">false admission rate per sample</text>
+<line x1="68" y1="396.00" x2="72" y2="396.00" stroke="#333"/>
+<text x="64" y="400.00" text-anchor="end" font-family="sans-serif" font-size="10">0.000</text>
+<line x1="68" y1="324.80" x2="72" y2="324.80" stroke="#333"/>
+<text x="64" y="328.80" text-anchor="end" font-family="sans-serif" font-size="10">0.032</text>
+<line x1="68" y1="253.60" x2="72" y2="253.60" stroke="#333"/>
+<text x="64" y="257.60" text-anchor="end" font-family="sans-serif" font-size="10">0.064</text>
+<line x1="68" y1="182.40" x2="72" y2="182.40" stroke="#333"/>
+<text x="64" y="186.40" text-anchor="end" font-family="sans-serif" font-size="10">0.095</text>
+<line x1="68" y1="111.20" x2="72" y2="111.20" stroke="#333"/>
+<text x="64" y="115.20" text-anchor="end" font-family="sans-serif" font-size="10">0.127</text>
+<line x1="68" y1="40.00" x2="72" y2="40.00" stroke="#333"/>
+<text x="64" y="44.00" text-anchor="end" font-family="sans-serif" font-size="10">0.159</text>
+<line x1="72.00" y1="396" x2="72.00" y2="400" stroke="#333"/>
+<text x="72.00" y="414" text-anchor="middle" font-family="sans-serif" font-size="10">0.00</text>
+<line x1="204.40" y1="396" x2="204.40" y2="400" stroke="#333"/>
+<text x="204.40" y="414" text-anchor="middle" font-family="sans-serif" font-size="10">0.60</text>
+<line x1="336.80" y1="396" x2="336.80" y2="400" stroke="#333"/>
+<text x="336.80" y="414" text-anchor="middle" font-family="sans-serif" font-size="10">1.20</text>
+<line x1="469.20" y1="396" x2="469.20" y2="400" stroke="#333"/>
+<text x="469.20" y="414" text-anchor="middle" font-family="sans-serif" font-size="10">1.80</text>
+<line x1="601.60" y1="396" x2="601.60" y2="400" stroke="#333"/>
+<text x="601.60" y="414" text-anchor="middle" font-family="sans-serif" font-size="10">2.40</text>
+<line x1="734.00" y1="396" x2="734.00" y2="400" stroke="#333"/>
+<text x="734.00" y="414" text-anchor="middle" font-family="sans-serif" font-size="10">3.00</text>
+<polyline fill="none" stroke="#174ea6" stroke-width="2" points="72.00,229.68 292.67,170.14 513.33,153.76 734.00,86.43"/>
+<circle cx="72.00" cy="229.68" r="3" fill="#174ea6"/>
+<circle cx="292.67" cy="170.14" r="3" fill="#174ea6"/>
+<circle cx="513.33" cy="153.76" r="3" fill="#174ea6"/>
+<circle cx="734.00" cy="86.43" r="3" fill="#174ea6"/>
+<rect x="530" y="48" width="12" height="12" fill="#174ea6"/>
+<text x="548" y="58" font-family="sans-serif" font-size="11">TOKEN_LEARNED</text>
+<polyline fill="none" stroke="#c5221f" stroke-width="2" points="72.00,396.00 292.67,396.00 513.33,396.00 734.00,396.00"/>
+<circle cx="72.00" cy="396.00" r="3" fill="#c5221f"/>
+<circle cx="292.67" cy="396.00" r="3" fill="#c5221f"/>
+<circle cx="513.33" cy="396.00" r="3" fill="#c5221f"/>
+<circle cx="734.00" cy="396.00" r="3" fill="#c5221f"/>
+<rect x="530" y="66" width="12" height="12" fill="#c5221f"/>
+<text x="548" y="76" font-family="sans-serif" font-size="11">LATENT_LEARNED</text>
+<polyline fill="none" stroke="#188038" stroke-width="2" points="72.00,396.00 292.67,396.00 513.33,396.00 734.00,396.00"/>
+<circle cx="72.00" cy="396.00" r="3" fill="#188038"/>
+<circle cx="292.67" cy="396.00" r="3" fill="#188038"/>
+<circle cx="513.33" cy="396.00" r="3" fill="#188038"/>
+<circle cx="734.00" cy="396.00" r="3" fill="#188038"/>
+<rect x="530" y="84" width="12" height="12" fill="#188038"/>
+<text x="548" y="94" font-family="sans-serif" font-size="11">LATENT_SYNTHESIZED</text>
+<polyline fill="none" stroke="#b06000" stroke-width="2" points="72.00,396.00 292.67,396.00 513.33,396.00 734.00,396.00"/>
+<circle cx="72.00" cy="396.00" r="3" fill="#b06000"/>
+<circle cx="292.67" cy="396.00" r="3" fill="#b06000"/>
+<circle cx="513.33" cy="396.00" r="3" fill="#b06000"/>
+<circle cx="734.00" cy="396.00" r="3" fill="#b06000"/>
+<rect x="530" y="102" width="12" height="12" fill="#b06000"/>
+<text x="548" y="112" font-family="sans-serif" font-size="11">END_TO_END_LEARNED</text>
+</svg>

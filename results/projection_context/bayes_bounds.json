@@ -1,0 +1,7958 @@
+[
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.5499999999999999,
+    "bayes_optimal_error": 0.45000000000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.6939955935892812,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P0_COMPLETE_ERASURE"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.6939955935892809,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P0_COMPLETE_ERASURE"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.6939955935892813,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P0_COMPLETE_ERASURE"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.6939955935892814,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P0_COMPLETE_ERASURE"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.5499999999999999,
+    "bayes_optimal_error": 0.45000000000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.6939955935892812,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P0_COMPLETE_ERASURE"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.6939955935892809,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P0_COMPLETE_ERASURE"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.6939955935892813,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P0_COMPLETE_ERASURE"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.6939955935892814,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P0_COMPLETE_ERASURE"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.5499999999999999,
+    "bayes_optimal_error": 0.45000000000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.6939955935892812,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P0_COMPLETE_ERASURE"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.6939955935892809,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P0_COMPLETE_ERASURE"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.6939955935892813,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P0_COMPLETE_ERASURE"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.6939955935892814,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P0_COMPLETE_ERASURE"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.043995593589281,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.043995593589281,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.043995593589281,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9865449999999999,
+    "bayes_optimal_error": 0.013455000000000106,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.9349248601298015,
+    "noise": 0.01,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9865449999999999,
+    "bayes_optimal_error": 0.013455000000000106,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.9349248601298015,
+    "noise": 0.01,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9865449999999999,
+    "bayes_optimal_error": 0.013455000000000106,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.9349248601298015,
+    "noise": 0.01,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9865449999999999,
+    "bayes_optimal_error": 0.013455000000000106,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.934924860129801,
+    "noise": 0.01,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9865449999999999,
+    "bayes_optimal_error": 0.013455000000000106,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.9349248601298015,
+    "noise": 0.01,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9865449999999999,
+    "bayes_optimal_error": 0.013455000000000106,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.9349248601298015,
+    "noise": 0.01,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9865449999999999,
+    "bayes_optimal_error": 0.013455000000000106,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.9349248601298015,
+    "noise": 0.01,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9865449999999999,
+    "bayes_optimal_error": 0.013455000000000106,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.934924860129801,
+    "noise": 0.01,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9865449999999999,
+    "bayes_optimal_error": 0.013455000000000106,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.9349248601298015,
+    "noise": 0.01,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9865449999999999,
+    "bayes_optimal_error": 0.013455000000000106,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.9349248601298015,
+    "noise": 0.01,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9865449999999999,
+    "bayes_optimal_error": 0.013455000000000106,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.9349248601298015,
+    "noise": 0.01,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9865449999999999,
+    "bayes_optimal_error": 0.013455000000000106,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.934924860129801,
+    "noise": 0.01,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9336249999999999,
+    "bayes_optimal_error": 0.06637500000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.6573597014827401,
+    "noise": 0.05,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9336249999999999,
+    "bayes_optimal_error": 0.06637500000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.6573597014827401,
+    "noise": 0.05,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9336249999999999,
+    "bayes_optimal_error": 0.06637500000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.6573597014827401,
+    "noise": 0.05,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9336249999999999,
+    "bayes_optimal_error": 0.06637500000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.6573597014827401,
+    "noise": 0.05,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9336249999999999,
+    "bayes_optimal_error": 0.06637500000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.6573597014827401,
+    "noise": 0.05,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9336249999999999,
+    "bayes_optimal_error": 0.06637500000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.6573597014827401,
+    "noise": 0.05,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9336249999999999,
+    "bayes_optimal_error": 0.06637500000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.6573597014827401,
+    "noise": 0.05,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9336249999999999,
+    "bayes_optimal_error": 0.06637500000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.6573597014827401,
+    "noise": 0.05,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9336249999999999,
+    "bayes_optimal_error": 0.06637500000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.6573597014827401,
+    "noise": 0.05,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9336249999999999,
+    "bayes_optimal_error": 0.06637500000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.6573597014827401,
+    "noise": 0.05,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9336249999999999,
+    "bayes_optimal_error": 0.06637500000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.6573597014827401,
+    "noise": 0.05,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.9336249999999999,
+    "bayes_optimal_error": 0.06637500000000007,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.6573597014827401,
+    "noise": 0.05,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.8695000000000002,
+    "bayes_optimal_error": 0.13049999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.4108515422437522,
+    "noise": 0.1,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.8695000000000002,
+    "bayes_optimal_error": 0.13049999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.4108515422437522,
+    "noise": 0.1,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.8694999999999999,
+    "bayes_optimal_error": 0.13050000000000006,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.4108515422437518,
+    "noise": 0.1,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.8695000000000002,
+    "bayes_optimal_error": 0.13049999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.4108515422437518,
+    "noise": 0.1,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.8695000000000002,
+    "bayes_optimal_error": 0.13049999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.4108515422437522,
+    "noise": 0.1,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.8695000000000002,
+    "bayes_optimal_error": 0.13049999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.4108515422437522,
+    "noise": 0.1,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.8694999999999999,
+    "bayes_optimal_error": 0.13050000000000006,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.4108515422437518,
+    "noise": 0.1,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.8695000000000002,
+    "bayes_optimal_error": 0.13049999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.4108515422437518,
+    "noise": 0.1,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.8695000000000002,
+    "bayes_optimal_error": 0.13049999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.4108515422437522,
+    "noise": 0.1,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.8695000000000002,
+    "bayes_optimal_error": 0.13049999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.4108515422437522,
+    "noise": 0.1,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.8694999999999999,
+    "bayes_optimal_error": 0.13050000000000006,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.4108515422437518,
+    "noise": 0.1,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.8695000000000002,
+    "bayes_optimal_error": 0.13049999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.4108515422437518,
+    "noise": 0.1,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.7480000000000002,
+    "bayes_optimal_error": 0.2519999999999998,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.0693926654913424,
+    "noise": 0.2,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.7480000000000002,
+    "bayes_optimal_error": 0.2519999999999998,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.0693926654913422,
+    "noise": 0.2,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.7480000000000002,
+    "bayes_optimal_error": 0.2519999999999998,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.0693926654913422,
+    "noise": 0.2,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.7480000000000002,
+    "bayes_optimal_error": 0.2519999999999998,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.0693926654913424,
+    "noise": 0.2,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.7480000000000002,
+    "bayes_optimal_error": 0.2519999999999998,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.0693926654913424,
+    "noise": 0.2,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.7480000000000002,
+    "bayes_optimal_error": 0.2519999999999998,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.0693926654913422,
+    "noise": 0.2,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.7480000000000002,
+    "bayes_optimal_error": 0.2519999999999998,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.0693926654913422,
+    "noise": 0.2,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.7480000000000002,
+    "bayes_optimal_error": 0.2519999999999998,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.0693926654913424,
+    "noise": 0.2,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.7480000000000002,
+    "bayes_optimal_error": 0.2519999999999998,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.0693926654913424,
+    "noise": 0.2,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.7480000000000002,
+    "bayes_optimal_error": 0.2519999999999998,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.0693926654913422,
+    "noise": 0.2,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.7480000000000002,
+    "bayes_optimal_error": 0.2519999999999998,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.0693926654913422,
+    "noise": 0.2,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.7480000000000002,
+    "bayes_optimal_error": 0.2519999999999998,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.0693926654913424,
+    "noise": 0.2,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5826250000000001,
+    "bayes_optimal_error": 0.41737499999999994,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.7830037188323689,
+    "noise": 0.35,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5826250000000001,
+    "bayes_optimal_error": 0.41737499999999994,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.7830037188323685,
+    "noise": 0.35,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5826250000000001,
+    "bayes_optimal_error": 0.41737499999999994,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.7830037188323685,
+    "noise": 0.35,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5826250000000001,
+    "bayes_optimal_error": 0.41737499999999994,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.7830037188323684,
+    "noise": 0.35,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5826250000000001,
+    "bayes_optimal_error": 0.41737499999999994,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.7830037188323689,
+    "noise": 0.35,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5826250000000001,
+    "bayes_optimal_error": 0.41737499999999994,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.7830037188323685,
+    "noise": 0.35,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5826250000000001,
+    "bayes_optimal_error": 0.41737499999999994,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.7830037188323685,
+    "noise": 0.35,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5826250000000001,
+    "bayes_optimal_error": 0.41737499999999994,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.7830037188323684,
+    "noise": 0.35,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5826250000000001,
+    "bayes_optimal_error": 0.41737499999999994,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.7830037188323689,
+    "noise": 0.35,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5826250000000001,
+    "bayes_optimal_error": 0.41737499999999994,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.7830037188323685,
+    "noise": 0.35,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5826250000000001,
+    "bayes_optimal_error": 0.41737499999999994,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.7830037188323685,
+    "noise": 0.35,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5826250000000001,
+    "bayes_optimal_error": 0.41737499999999994,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.7830037188323684,
+    "noise": 0.35,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.6939955935892814,
+    "noise": 0.5,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.6939955935892809,
+    "noise": 0.5,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.6939955935892814,
+    "noise": 0.5,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5500000000000002,
+    "bayes_optimal_error": 0.44999999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.6939955935892814,
+    "noise": 0.5,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.6939955935892814,
+    "noise": 0.5,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.6939955935892809,
+    "noise": 0.5,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.6939955935892814,
+    "noise": 0.5,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5500000000000002,
+    "bayes_optimal_error": 0.44999999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.6939955935892814,
+    "noise": 0.5,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.6939955935892814,
+    "noise": 0.5,
+    "nuisance_condition": "IID",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.6939955935892809,
+    "noise": 0.5,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.6939955935892814,
+    "noise": 0.5,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 8,
+    "bayes_optimal_accuracy": 0.5500000000000002,
+    "bayes_optimal_error": 0.44999999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": 0,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 0,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.6939955935892814,
+    "noise": 0.5,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P1_NOISY_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.7749999999999999,
+    "bayes_optimal_error": 0.2250000000000001,
+    "collision_example": {
+      "decision_a": 0,
+      "decision_b": 4,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 1,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.5939955935892811,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P2_PARTIAL_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.775,
+    "bayes_optimal_error": 0.22499999999999998,
+    "collision_example": {
+      "decision_a": 0,
+      "decision_b": 4,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 1,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.5939955935892811,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P2_PARTIAL_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.775,
+    "bayes_optimal_error": 0.22499999999999998,
+    "collision_example": {
+      "decision_a": 0,
+      "decision_b": 4,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 1,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.5939955935892811,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P2_PARTIAL_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.7750000000000001,
+    "bayes_optimal_error": 0.22499999999999987,
+    "collision_example": {
+      "decision_a": 0,
+      "decision_b": 4,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 1,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.5939955935892811,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P2_PARTIAL_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.7749999999999999,
+    "bayes_optimal_error": 0.2250000000000001,
+    "collision_example": {
+      "decision_a": 0,
+      "decision_b": 4,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 1,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.5939955935892811,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P2_PARTIAL_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.775,
+    "bayes_optimal_error": 0.22499999999999998,
+    "collision_example": {
+      "decision_a": 0,
+      "decision_b": 4,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 1,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.5939955935892811,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P2_PARTIAL_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.775,
+    "bayes_optimal_error": 0.22499999999999998,
+    "collision_example": {
+      "decision_a": 0,
+      "decision_b": 4,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 1,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.5939955935892811,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P2_PARTIAL_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.7750000000000001,
+    "bayes_optimal_error": 0.22499999999999987,
+    "collision_example": {
+      "decision_a": 0,
+      "decision_b": 4,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 1,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.5939955935892811,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P2_PARTIAL_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.7749999999999999,
+    "bayes_optimal_error": 0.2250000000000001,
+    "collision_example": {
+      "decision_a": 0,
+      "decision_b": 4,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 1,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.5939955935892811,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P2_PARTIAL_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.775,
+    "bayes_optimal_error": 0.22499999999999998,
+    "collision_example": {
+      "decision_a": 0,
+      "decision_b": 4,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 1,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.5939955935892811,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P2_PARTIAL_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.775,
+    "bayes_optimal_error": 0.22499999999999998,
+    "collision_example": {
+      "decision_a": 0,
+      "decision_b": 4,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 1,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.5939955935892811,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P2_PARTIAL_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 2,
+    "bayes_optimal_accuracy": 0.7750000000000001,
+    "bayes_optimal_error": 0.22499999999999987,
+    "collision_example": {
+      "decision_a": 0,
+      "decision_b": 4,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": 1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 1,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.5939955935892811,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P2_PARTIAL_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P3_FULL_TRUSTED_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.043995593589281,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P3_FULL_TRUSTED_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P3_FULL_TRUSTED_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P3_FULL_TRUSTED_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P3_FULL_TRUSTED_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.043995593589281,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P3_FULL_TRUSTED_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P3_FULL_TRUSTED_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P3_FULL_TRUSTED_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P3_FULL_TRUSTED_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.043995593589281,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P3_FULL_TRUSTED_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P3_FULL_TRUSTED_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P3_FULL_TRUSTED_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.043995593589281,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.043995593589281,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.043995593589281,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 0,
+    "bayes_optimal_accuracy": 1.0000000000000002,
+    "bayes_optimal_error": 0.0,
+    "collision_example": null,
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.0439955935892815,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9995977399618018,
+    "bayes_optimal_error": 0.00040226003819821,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.040727396271911,
+    "noise": 0.01,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9995977399618018,
+    "bayes_optimal_error": 0.00040226003819821,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.040727396271911,
+    "noise": 0.01,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9995977399618018,
+    "bayes_optimal_error": 0.00040226003819821,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.040727396271911,
+    "noise": 0.01,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9995977399618018,
+    "bayes_optimal_error": 0.00040226003819821,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 2.040727396271911,
+    "noise": 0.01,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9995977399618018,
+    "bayes_optimal_error": 0.00040226003819821,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.040727396271911,
+    "noise": 0.01,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9995977399618018,
+    "bayes_optimal_error": 0.00040226003819821,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.040727396271911,
+    "noise": 0.01,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9995977399618018,
+    "bayes_optimal_error": 0.00040226003819821,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.040727396271911,
+    "noise": 0.01,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9995977399618018,
+    "bayes_optimal_error": 0.00040226003819821,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 2.040727396271911,
+    "noise": 0.01,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9995977399618018,
+    "bayes_optimal_error": 0.00040226003819821,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.040727396271911,
+    "noise": 0.01,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9995977399618018,
+    "bayes_optimal_error": 0.00040226003819821,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.040727396271911,
+    "noise": 0.01,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9995977399618018,
+    "bayes_optimal_error": 0.00040226003819821,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.040727396271911,
+    "noise": 0.01,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9995977399618018,
+    "bayes_optimal_error": 0.00040226003819821,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 2.040727396271911,
+    "noise": 0.01,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9902361531249999,
+    "bayes_optimal_error": 0.009763846875000093,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.986505993126027,
+    "noise": 0.05,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.990236153125,
+    "bayes_optimal_error": 0.009763846874999982,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.9865059931260265,
+    "noise": 0.05,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9902361531249999,
+    "bayes_optimal_error": 0.009763846875000093,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.9865059931260265,
+    "noise": 0.05,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.990236153125,
+    "bayes_optimal_error": 0.009763846874999982,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.9865059931260265,
+    "noise": 0.05,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9902361531249999,
+    "bayes_optimal_error": 0.009763846875000093,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.986505993126027,
+    "noise": 0.05,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.990236153125,
+    "bayes_optimal_error": 0.009763846874999982,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.9865059931260265,
+    "noise": 0.05,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9902361531249999,
+    "bayes_optimal_error": 0.009763846875000093,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.9865059931260265,
+    "noise": 0.05,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.990236153125,
+    "bayes_optimal_error": 0.009763846874999982,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.9865059931260265,
+    "noise": 0.05,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9902361531249999,
+    "bayes_optimal_error": 0.009763846875000093,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.986505993126027,
+    "noise": 0.05,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.990236153125,
+    "bayes_optimal_error": 0.009763846874999982,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.9865059931260265,
+    "noise": 0.05,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9902361531249999,
+    "bayes_optimal_error": 0.009763846875000093,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.9865059931260265,
+    "noise": 0.05,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.990236153125,
+    "bayes_optimal_error": 0.009763846874999982,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.9865059931260265,
+    "noise": 0.05,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9625527999999993,
+    "bayes_optimal_error": 0.03744720000000068,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.858259529946587,
+    "noise": 0.1,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9625527999999991,
+    "bayes_optimal_error": 0.0374472000000009,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.8582595299465867,
+    "noise": 0.1,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9625527999999991,
+    "bayes_optimal_error": 0.0374472000000009,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.8582595299465867,
+    "noise": 0.1,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9625527999999994,
+    "bayes_optimal_error": 0.03744720000000057,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.8582595299465872,
+    "noise": 0.1,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9625527999999993,
+    "bayes_optimal_error": 0.03744720000000068,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.858259529946587,
+    "noise": 0.1,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9625527999999991,
+    "bayes_optimal_error": 0.0374472000000009,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.8582595299465867,
+    "noise": 0.1,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9625527999999991,
+    "bayes_optimal_error": 0.0374472000000009,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.8582595299465867,
+    "noise": 0.1,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9625527999999994,
+    "bayes_optimal_error": 0.03744720000000057,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.8582595299465872,
+    "noise": 0.1,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9625527999999993,
+    "bayes_optimal_error": 0.03744720000000068,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.858259529946587,
+    "noise": 0.1,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9625527999999991,
+    "bayes_optimal_error": 0.0374472000000009,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.8582595299465867,
+    "noise": 0.1,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9625527999999991,
+    "bayes_optimal_error": 0.0374472000000009,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.8582595299465867,
+    "noise": 0.1,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.9625527999999994,
+    "bayes_optimal_error": 0.03744720000000057,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.8582595299465872,
+    "noise": 0.1,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.8644672000000005,
+    "bayes_optimal_error": 0.13553279999999945,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.4956839833562985,
+    "noise": 0.2,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.8644672000000005,
+    "bayes_optimal_error": 0.13553279999999945,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.4956839833562985,
+    "noise": 0.2,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.8644672,
+    "bayes_optimal_error": 0.1355328,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.495683983356298,
+    "noise": 0.2,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.8644672000000005,
+    "bayes_optimal_error": 0.13553279999999945,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.4956839833562985,
+    "noise": 0.2,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.8644672000000005,
+    "bayes_optimal_error": 0.13553279999999945,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.4956839833562985,
+    "noise": 0.2,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.8644672000000005,
+    "bayes_optimal_error": 0.13553279999999945,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.4956839833562985,
+    "noise": 0.2,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.8644672,
+    "bayes_optimal_error": 0.1355328,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.495683983356298,
+    "noise": 0.2,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.8644672000000005,
+    "bayes_optimal_error": 0.13553279999999945,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.4956839833562985,
+    "noise": 0.2,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.8644672000000005,
+    "bayes_optimal_error": 0.13553279999999945,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.4956839833562985,
+    "noise": 0.2,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.8644672000000005,
+    "bayes_optimal_error": 0.13553279999999945,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.4956839833562985,
+    "noise": 0.2,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.8644672,
+    "bayes_optimal_error": 0.1355328,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.495683983356298,
+    "noise": 0.2,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.8644672000000005,
+    "bayes_optimal_error": 0.13553279999999945,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.4956839833562985,
+    "noise": 0.2,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.655359878125,
+    "bayes_optimal_error": 0.34464012187500004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.9385815650336323,
+    "noise": 0.35,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.655359878125,
+    "bayes_optimal_error": 0.34464012187500004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.9385815650336321,
+    "noise": 0.35,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.655359878125,
+    "bayes_optimal_error": 0.34464012187500004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.9385815650336323,
+    "noise": 0.35,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.655359878125,
+    "bayes_optimal_error": 0.34464012187500004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.9385815650336324,
+    "noise": 0.35,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.655359878125,
+    "bayes_optimal_error": 0.34464012187500004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.9385815650336323,
+    "noise": 0.35,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.655359878125,
+    "bayes_optimal_error": 0.34464012187500004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.9385815650336321,
+    "noise": 0.35,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.655359878125,
+    "bayes_optimal_error": 0.34464012187500004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.9385815650336323,
+    "noise": 0.35,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.655359878125,
+    "bayes_optimal_error": 0.34464012187500004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.9385815650336324,
+    "noise": 0.35,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.655359878125,
+    "bayes_optimal_error": 0.34464012187500004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.9385815650336323,
+    "noise": 0.35,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.655359878125,
+    "bayes_optimal_error": 0.34464012187500004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.9385815650336321,
+    "noise": 0.35,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.655359878125,
+    "bayes_optimal_error": 0.34464012187500004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.9385815650336323,
+    "noise": 0.35,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.655359878125,
+    "bayes_optimal_error": 0.34464012187500004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.9385815650336324,
+    "noise": 0.35,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.5500000000000015,
+    "bayes_optimal_error": 0.4499999999999985,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.6939955935892831,
+    "noise": 0.5,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.5500000000000015,
+    "bayes_optimal_error": 0.4499999999999985,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.6939955935892831,
+    "noise": 0.5,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.5500000000000015,
+    "bayes_optimal_error": 0.4499999999999985,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.6939955935892831,
+    "noise": 0.5,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.5500000000000016,
+    "bayes_optimal_error": 0.4499999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.6939955935892832,
+    "noise": 0.5,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.5500000000000015,
+    "bayes_optimal_error": 0.4499999999999985,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.6939955935892831,
+    "noise": 0.5,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.5500000000000015,
+    "bayes_optimal_error": 0.4499999999999985,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.6939955935892831,
+    "noise": 0.5,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.5500000000000015,
+    "bayes_optimal_error": 0.4499999999999985,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.6939955935892831,
+    "noise": 0.5,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.5500000000000016,
+    "bayes_optimal_error": 0.4499999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.6939955935892832,
+    "noise": 0.5,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.5500000000000015,
+    "bayes_optimal_error": 0.4499999999999985,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.6939955935892831,
+    "noise": 0.5,
+    "nuisance_condition": "IID",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.5500000000000015,
+    "bayes_optimal_error": 0.4499999999999985,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.6939955935892831,
+    "noise": 0.5,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.5500000000000015,
+    "bayes_optimal_error": 0.4499999999999985,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.6939955935892831,
+    "noise": 0.5,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 128,
+    "bayes_optimal_accuracy": 0.5500000000000016,
+    "bayes_optimal_error": 0.4499999999999984,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": -1,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          0,
+          0,
+          0
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          0,
+          0,
+          0
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.6939955935892832,
+    "noise": 0.5,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P4_REDUNDANT_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 4,
+    "bayes_optimal_accuracy": 0.74125,
+    "bayes_optimal_error": 0.25875000000000004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.3362383321849212,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P5_SPURIOUS_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 4,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.6939955935892812,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P5_SPURIOUS_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 4,
+    "bayes_optimal_accuracy": 0.7412500000000001,
+    "bayes_optimal_error": 0.2587499999999999,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 1.3362383321849207,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P5_SPURIOUS_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 4,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 1024,
+    "mutual_information_policy_decision_bits": 0.7201400585800793,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P5_SPURIOUS_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 4,
+    "bayes_optimal_accuracy": 0.74125,
+    "bayes_optimal_error": 0.25875000000000004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.3362383321849212,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P5_SPURIOUS_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 4,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.6939955935892812,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P5_SPURIOUS_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 4,
+    "bayes_optimal_accuracy": 0.7412500000000001,
+    "bayes_optimal_error": 0.2587499999999999,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 1.3362383321849207,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P5_SPURIOUS_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 4,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 256,
+    "mutual_information_policy_decision_bits": 0.7201400585800793,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P5_SPURIOUS_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 4,
+    "bayes_optimal_accuracy": 0.74125,
+    "bayes_optimal_error": 0.25875000000000004,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.3362383321849212,
+    "noise": 0.0,
+    "nuisance_condition": "IID",
+    "regime": "P5_SPURIOUS_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 4,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.6939955935892812,
+    "noise": 0.0,
+    "nuisance_condition": "INDEPENDENT_NUISANCE",
+    "regime": "P5_SPURIOUS_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 4,
+    "bayes_optimal_accuracy": 0.7412500000000001,
+    "bayes_optimal_error": 0.2587499999999999,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 1.3362383321849207,
+    "noise": 0.0,
+    "nuisance_condition": "REVERSED_NUISANCE",
+    "regime": "P5_SPURIOUS_EXPORT"
+  },
+  {
+    "ambiguous_projection_keys": 4,
+    "bayes_optimal_accuracy": 0.55,
+    "bayes_optimal_error": 0.44999999999999996,
+    "collision_example": {
+      "decision_a": 3,
+      "decision_b": 0,
+      "projection_key": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": -1,
+        "scope_carriers": [
+          -1,
+          -1,
+          -1
+        ],
+        "witness": -1,
+        "witness_carriers": [
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "state_a": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 0
+      },
+      "state_b": {
+        "nuisance": 0,
+        "proposal": 1,
+        "scope": 0,
+        "witness": 1
+      }
+    },
+    "context_len": 64,
+    "mutual_information_policy_decision_bits": 0.7201400585800793,
+    "noise": 0.0,
+    "nuisance_condition": "WEAKENED_NUISANCE",
+    "regime": "P5_SPURIOUS_EXPORT"
+  }
+]
