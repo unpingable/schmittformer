@@ -1,0 +1,197 @@
+{
+  "rows": [
+    {
+      "device": "cpu",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 0.01720142364501953,
+      "final_state": {
+        "action_budget": 253,
+        "authority": 1,
+        "lease_remaining": 65532,
+        "occurrence": 2,
+        "settlement": 0
+      },
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "logical_steps": 10,
+      "name": "mixed_governance",
+      "output_counts": {
+        "0": 2,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0,
+        "7": 7
+      },
+      "passed": true,
+      "physical_input_width": 43,
+      "physical_state_width": 29,
+      "requested_logical_steps": 10,
+      "steps_per_second": 581.3472306924655,
+      "trace_digest": "0ef8dd2ee4718be36f330154c9e8d5b4f8407fcab93e609ae7126522280b0970"
+    },
+    {
+      "device": "cpu",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 0.1672663688659668,
+      "final_state": {
+        "action_budget": 237,
+        "authority": 1,
+        "lease_remaining": 65507,
+        "occurrence": 0,
+        "settlement": 2
+      },
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "logical_steps": 100,
+      "name": "mixed_governance",
+      "output_counts": {
+        "0": 18,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 6,
+        "6": 0,
+        "7": 76
+      },
+      "passed": true,
+      "physical_input_width": 43,
+      "physical_state_width": 29,
+      "requested_logical_steps": 100,
+      "steps_per_second": 597.8488125137193,
+      "trace_digest": "6a9d14d1d0705edfc722b9c6db10717e8c13763fe5c6ef83742783b8a8505ee7"
+    },
+    {
+      "device": "cpu",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 1.6766901016235352,
+      "final_state": {
+        "action_budget": 79,
+        "authority": 1,
+        "lease_remaining": 65242,
+        "occurrence": 0,
+        "settlement": 2
+      },
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "logical_steps": 1000,
+      "name": "mixed_governance",
+      "output_counts": {
+        "0": 176,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 59,
+        "6": 0,
+        "7": 765
+      },
+      "passed": true,
+      "physical_input_width": 43,
+      "physical_state_width": 29,
+      "requested_logical_steps": 1000,
+      "steps_per_second": 596.4131350401021,
+      "trace_digest": "aa8939d7a6e1ce3da67c8c3710ae9d2a69cfa51c48658e2607a42dfa2b3d7e2a"
+    },
+    {
+      "device": "cpu",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 16.990090131759644,
+      "final_state": {
+        "action_budget": 114,
+        "authority": 1,
+        "lease_remaining": 65001,
+        "occurrence": 0,
+        "settlement": 2
+      },
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "logical_steps": 10000,
+      "name": "mixed_governance",
+      "output_counts": {
+        "0": 1750,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 5,
+        "5": 588,
+        "6": 0,
+        "7": 7657
+      },
+      "passed": true,
+      "physical_input_width": 43,
+      "physical_state_width": 29,
+      "requested_logical_steps": 10000,
+      "steps_per_second": 588.5783961385208,
+      "trace_digest": "f9389c5c228feb45171bcae6b3bed609fa9e401d63be073d73a2c0b4ddeb9401"
+    },
+    {
+      "device": "cpu",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 168.1032257080078,
+      "final_state": {
+        "action_budget": 88,
+        "authority": 1,
+        "lease_remaining": 65037,
+        "occurrence": 1,
+        "settlement": 0
+      },
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "logical_steps": 100000,
+      "name": "mixed_governance",
+      "output_counts": {
+        "0": 17502,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 54,
+        "5": 5897,
+        "6": 0,
+        "7": 76547
+      },
+      "passed": true,
+      "physical_input_width": 43,
+      "physical_state_width": 29,
+      "requested_logical_steps": 100000,
+      "steps_per_second": 594.8725824791617,
+      "trace_digest": "55c406611ca8017501e68a0c6c8329e91e432c6092fb30c03f7269268a690ab6"
+    },
+    {
+      "device": "cpu",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 1672.91149020195,
+      "final_state": {
+        "action_budget": 180,
+        "authority": 1,
+        "lease_remaining": 65367,
+        "occurrence": 2,
+        "settlement": 0
+      },
+      "first_divergence": null,
+      "invariant_violations": 0,
+      "logical_steps": 1000000,
+      "name": "mixed_governance",
+      "output_counts": {
+        "0": 174882,
+        "1": 233,
+        "2": 0,
+        "3": 0,
+        "4": 536,
+        "5": 58883,
+        "6": 0,
+        "7": 765466
+      },
+      "passed": true,
+      "physical_input_width": 43,
+      "physical_state_width": 29,
+      "requested_logical_steps": 1000000,
+      "steps_per_second": 597.7602556123769,
+      "trace_digest": "dc9b7f8d426f4113f30e6fee0847b32458d8d566371e758b581bee4d05f929d0"
+    }
+  ],
+  "schema": "schmittformer.recurrent_governance.v1"
+}

@@ -15,3 +15,5 @@ results/latent_autopsy_smoke2/
 
 # Semantic register calibration output; final artifacts are under results/semantic_register/.
 results/semantic_register_smoke/
+# Recurrent governance calibration output; final artifacts are under results/recurrent/.
+results/recurrent_smoke/

@@ -1,0 +1,32 @@
+{
+  "device": "cpu",
+  "dtype": "torch.float32",
+  "elapsed_seconds": 109.41335415840149,
+  "final_state": {
+    "action_budget": 255,
+    "authority": 1,
+    "lease_remaining": 0,
+    "occurrence": 0,
+    "settlement": 0
+  },
+  "first_divergence": null,
+  "invariant_violations": 0,
+  "logical_steps": 65536,
+  "name": "idle_ticks",
+  "output_counts": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 65536
+  },
+  "passed": true,
+  "physical_input_width": 43,
+  "physical_state_width": 29,
+  "requested_logical_steps": 65536,
+  "steps_per_second": 598.9762447563875,
+  "trace_digest": "aaab958504c6c37c5b8769a42de2ce805436b9d66a6fb541e004a6bfd3688562"
+}

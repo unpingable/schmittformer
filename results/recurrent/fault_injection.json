@@ -1,0 +1,167 @@
+{
+  "rows": [
+    {
+      "bits": [
+        0
+      ],
+      "case": "authority_bit_flip",
+      "input_state": {
+        "action_budget": 5,
+        "authority": 0,
+        "lease_remaining": 10,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "next_state": {
+        "action_budget": 5,
+        "authority": 0,
+        "lease_remaining": 10,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "output": 1
+    },
+    {
+      "bits": [
+        1
+      ],
+      "case": "lease_low_bit_flip",
+      "input_state": {
+        "action_budget": 5,
+        "authority": 1,
+        "lease_remaining": 11,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "next_state": {
+        "action_budget": 4,
+        "authority": 1,
+        "lease_remaining": 11,
+        "occurrence": 1,
+        "settlement": 0
+      },
+      "output": 0
+    },
+    {
+      "bits": [
+        16
+      ],
+      "case": "lease_high_bit_flip",
+      "input_state": {
+        "action_budget": 5,
+        "authority": 1,
+        "lease_remaining": 32778,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "next_state": {
+        "action_budget": 4,
+        "authority": 1,
+        "lease_remaining": 32778,
+        "occurrence": 1,
+        "settlement": 0
+      },
+      "output": 0
+    },
+    {
+      "bits": [
+        17
+      ],
+      "case": "budget_low_bit_flip",
+      "input_state": {
+        "action_budget": 4,
+        "authority": 1,
+        "lease_remaining": 10,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "next_state": {
+        "action_budget": 3,
+        "authority": 1,
+        "lease_remaining": 10,
+        "occurrence": 1,
+        "settlement": 0
+      },
+      "output": 0
+    },
+    {
+      "bits": [
+        25
+      ],
+      "case": "occurrence_bit_flip_to_inflight",
+      "input_state": {
+        "action_budget": 5,
+        "authority": 1,
+        "lease_remaining": 10,
+        "occurrence": 1,
+        "settlement": 0
+      },
+      "next_state": {
+        "action_budget": 5,
+        "authority": 1,
+        "lease_remaining": 10,
+        "occurrence": 1,
+        "settlement": 0
+      },
+      "output": 4
+    },
+    {
+      "bits": [
+        28
+      ],
+      "case": "settlement_bit_flip_to_failure",
+      "input_state": {
+        "action_budget": 5,
+        "authority": 1,
+        "lease_remaining": 10,
+        "occurrence": 0,
+        "settlement": 2
+      },
+      "next_state": {
+        "action_budget": 4,
+        "authority": 1,
+        "lease_remaining": 10,
+        "occurrence": 1,
+        "settlement": 0
+      },
+      "output": 0
+    },
+    {
+      "bits": [
+        25,
+        26
+      ],
+      "case": "occurrence_invalid_code",
+      "input_state": {
+        "decode_error": "3 is not a valid Occurrence"
+      },
+      "next_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "output": 6
+    },
+    {
+      "bits": [
+        27,
+        28
+      ],
+      "case": "settlement_invalid_code",
+      "input_state": {
+        "decode_error": "3 is not a valid Settlement"
+      },
+      "next_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "output": 6
+    }
+  ],
+  "schema": "schmittformer.recurrent_governance.v1"
+}

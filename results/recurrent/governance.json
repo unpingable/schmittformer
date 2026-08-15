@@ -1,0 +1,129 @@
+{
+  "composition": {
+    "passed": true,
+    "rows": [
+      {
+        "failures": [],
+        "length": 9,
+        "outputs": [
+          7,
+          7,
+          7,
+          0,
+          7,
+          7,
+          5,
+          7,
+          2
+        ],
+        "passed": true,
+        "scenario": "admit_then_ambiguous_then_settle"
+      },
+      {
+        "failures": [],
+        "length": 5,
+        "outputs": [
+          7,
+          7,
+          7,
+          0,
+          7
+        ],
+        "passed": true,
+        "scenario": "lease_ordering_propose_then_tick"
+      },
+      {
+        "failures": [],
+        "length": 5,
+        "outputs": [
+          7,
+          7,
+          7,
+          7,
+          2
+        ],
+        "passed": true,
+        "scenario": "lease_ordering_tick_then_propose"
+      },
+      {
+        "failures": [],
+        "length": 7,
+        "outputs": [
+          7,
+          7,
+          7,
+          0,
+          7,
+          7,
+          1
+        ],
+        "passed": true,
+        "scenario": "revoke_while_in_flight_then_result"
+      },
+      {
+        "failures": [],
+        "length": 12,
+        "outputs": [
+          7,
+          7,
+          7,
+          7,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "passed": true,
+        "scenario": "proposal_spam_after_expiry"
+      }
+    ],
+    "schema": "schmittformer.recurrent_governance.v1"
+  },
+  "edge_transitions": {
+    "checked": 10584,
+    "device": "cuda",
+    "dtype": "torch.float32",
+    "failures": [],
+    "passed": true,
+    "reference_invariant_violations": 0
+  },
+  "invalid_state_cases": [
+    {
+      "case": "invalid_occurrence_3",
+      "next_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "output": 6
+    },
+    {
+      "case": "invalid_settlement_3",
+      "next_state": {
+        "action_budget": 0,
+        "authority": 0,
+        "lease_remaining": 0,
+        "occurrence": 0,
+        "settlement": 0
+      },
+      "output": 6
+    }
+  ],
+  "random_property": {
+    "checked": 200000,
+    "device": "cuda",
+    "dtype": "torch.float32",
+    "elapsed_seconds": 13.978235483169556,
+    "failures": [],
+    "passed": true,
+    "reference_invariant_violations": 0,
+    "transitions_per_second": 14307.957555931096
+  },
+  "schema": "schmittformer.recurrent_governance.v1"
+}

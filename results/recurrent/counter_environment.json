@@ -1,0 +1,10 @@
+{
+  "cuda_available": true,
+  "executable": "/home/jbeck/git/trans/.venv-cuda/bin/python",
+  "gpu": "NVIDIA GeForce RTX 5060 Ti, 16311 MiB, 570.211.01",
+  "python": "3.12.3",
+  "revision": "f58b429a96d397f122f1ba477ff9d012591e1b93",
+  "schema": "schmittformer.recurrent_counter_verification.v1",
+  "torch_cuda": "12.8",
+  "torch_version": "2.11.0+cu128"
+}

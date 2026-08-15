@@ -1,0 +1,96 @@
+{
+  "rows": [
+    {
+      "checked": 65536,
+      "complexity": {
+        "depth_ripple": 16,
+        "gates": {
+          "and_borrow": 16,
+          "mux_bits": 16,
+          "or_tree_linear_threshold": 1,
+          "xor": 16
+        }
+      },
+      "construction": "ripple_borrow_saturating_decrement",
+      "device": "cpu",
+      "dtype": "torch.float64",
+      "elapsed_seconds": 0.04116940498352051,
+      "exhaustive": true,
+      "failures": [],
+      "min_bit_margin_to_half": 0.5,
+      "passed": true,
+      "values_per_second": 1591861.7241670864,
+      "width": 16
+    },
+    {
+      "checked": 65536,
+      "complexity": {
+        "depth_ripple": 16,
+        "gates": {
+          "and_borrow": 16,
+          "mux_bits": 16,
+          "or_tree_linear_threshold": 1,
+          "xor": 16
+        }
+      },
+      "construction": "ripple_borrow_saturating_decrement",
+      "device": "cuda",
+      "dtype": "torch.float32",
+      "elapsed_seconds": 0.002025604248046875,
+      "exhaustive": true,
+      "failures": [],
+      "min_bit_margin_to_half": 0.5,
+      "passed": true,
+      "peak_gpu_memory_mib": 29.0,
+      "values_per_second": 32353802.60640301,
+      "width": 16
+    },
+    {
+      "checked": 65536,
+      "complexity": {
+        "depth_ripple": 16,
+        "gates": {
+          "and_borrow": 16,
+          "mux_bits": 16,
+          "or_tree_linear_threshold": 1,
+          "xor": 16
+        }
+      },
+      "construction": "ripple_borrow_saturating_decrement",
+      "device": "cuda",
+      "dtype": "torch.float16",
+      "elapsed_seconds": 0.0021860599517822266,
+      "exhaustive": true,
+      "failures": [],
+      "min_bit_margin_to_half": 0.5,
+      "passed": true,
+      "peak_gpu_memory_mib": 21.2509765625,
+      "values_per_second": 29979049.72668775,
+      "width": 16
+    },
+    {
+      "checked": 65536,
+      "complexity": {
+        "depth_ripple": 16,
+        "gates": {
+          "and_borrow": 16,
+          "mux_bits": 16,
+          "or_tree_linear_threshold": 1,
+          "xor": 16
+        }
+      },
+      "construction": "ripple_borrow_saturating_decrement",
+      "device": "cuda",
+      "dtype": "torch.bfloat16",
+      "elapsed_seconds": 0.0020911693572998047,
+      "exhaustive": true,
+      "failures": [],
+      "min_bit_margin_to_half": 0.5,
+      "passed": true,
+      "peak_gpu_memory_mib": 21.2509765625,
+      "values_per_second": 31339403.368373048,
+      "width": 16
+    }
+  ],
+  "schema": "schmittformer.recurrent_counter_verification.v1"
+}

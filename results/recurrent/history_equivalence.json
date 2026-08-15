@@ -1,0 +1,27 @@
+{
+  "future_report": {
+    "checked": 5,
+    "device": "cpu",
+    "dtype": "torch.float32",
+    "failures": [],
+    "passed": true,
+    "reference_invariant_violations": 0
+  },
+  "history_a_length": 3,
+  "history_b_length": 1000000,
+  "passed": true,
+  "same_state": {
+    "action_budget": 1,
+    "authority": 1,
+    "lease_remaining": 65535,
+    "occurrence": 0,
+    "settlement": 0
+  },
+  "suffix": [
+    2,
+    5,
+    2,
+    6,
+    2
+  ]
+}

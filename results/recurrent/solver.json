@@ -1,0 +1,6 @@
+{
+  "attempted": false,
+  "available": false,
+  "reason": "z3 unavailable: No module named 'z3'",
+  "schema": "schmittformer.recurrent_governance.v1"
+}

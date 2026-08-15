@@ -1,0 +1,23 @@
+{
+  "checked": 256,
+  "complexity": {
+    "depth_ripple": 8,
+    "gates": {
+      "and_borrow": 8,
+      "mux_bits": 8,
+      "or_tree_linear_threshold": 1,
+      "xor": 8
+    }
+  },
+  "construction": "ripple_borrow_saturating_decrement",
+  "device": "cuda",
+  "dtype": "torch.float32",
+  "elapsed_seconds": 0.16170024871826172,
+  "exhaustive": true,
+  "failures": [],
+  "min_bit_margin_to_half": 0.5,
+  "passed": true,
+  "peak_gpu_memory_mib": 0.05859375,
+  "values_per_second": 1583.1762908790658,
+  "width": 8
+}

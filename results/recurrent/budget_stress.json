@@ -1,0 +1,1289 @@
+{
+  "checked_initial_budgets": 256,
+  "elapsed_seconds": 111.0370523929596,
+  "failures": [],
+  "passed": true,
+  "rows": [
+    {
+      "admitted_actions": 0,
+      "expected_admitted_actions": 0,
+      "initial_budget": 0
+    },
+    {
+      "admitted_actions": 1,
+      "expected_admitted_actions": 1,
+      "initial_budget": 1
+    },
+    {
+      "admitted_actions": 2,
+      "expected_admitted_actions": 2,
+      "initial_budget": 2
+    },
+    {
+      "admitted_actions": 3,
+      "expected_admitted_actions": 3,
+      "initial_budget": 3
+    },
+    {
+      "admitted_actions": 4,
+      "expected_admitted_actions": 4,
+      "initial_budget": 4
+    },
+    {
+      "admitted_actions": 5,
+      "expected_admitted_actions": 5,
+      "initial_budget": 5
+    },
+    {
+      "admitted_actions": 6,
+      "expected_admitted_actions": 6,
+      "initial_budget": 6
+    },
+    {
+      "admitted_actions": 7,
+      "expected_admitted_actions": 7,
+      "initial_budget": 7
+    },
+    {
+      "admitted_actions": 8,
+      "expected_admitted_actions": 8,
+      "initial_budget": 8
+    },
+    {
+      "admitted_actions": 9,
+      "expected_admitted_actions": 9,
+      "initial_budget": 9
+    },
+    {
+      "admitted_actions": 10,
+      "expected_admitted_actions": 10,
+      "initial_budget": 10
+    },
+    {
+      "admitted_actions": 11,
+      "expected_admitted_actions": 11,
+      "initial_budget": 11
+    },
+    {
+      "admitted_actions": 12,
+      "expected_admitted_actions": 12,
+      "initial_budget": 12
+    },
+    {
+      "admitted_actions": 13,
+      "expected_admitted_actions": 13,
+      "initial_budget": 13
+    },
+    {
+      "admitted_actions": 14,
+      "expected_admitted_actions": 14,
+      "initial_budget": 14
+    },
+    {
+      "admitted_actions": 15,
+      "expected_admitted_actions": 15,
+      "initial_budget": 15
+    },
+    {
+      "admitted_actions": 16,
+      "expected_admitted_actions": 16,
+      "initial_budget": 16
+    },
+    {
+      "admitted_actions": 17,
+      "expected_admitted_actions": 17,
+      "initial_budget": 17
+    },
+    {
+      "admitted_actions": 18,
+      "expected_admitted_actions": 18,
+      "initial_budget": 18
+    },
+    {
+      "admitted_actions": 19,
+      "expected_admitted_actions": 19,
+      "initial_budget": 19
+    },
+    {
+      "admitted_actions": 20,
+      "expected_admitted_actions": 20,
+      "initial_budget": 20
+    },
+    {
+      "admitted_actions": 21,
+      "expected_admitted_actions": 21,
+      "initial_budget": 21
+    },
+    {
+      "admitted_actions": 22,
+      "expected_admitted_actions": 22,
+      "initial_budget": 22
+    },
+    {
+      "admitted_actions": 23,
+      "expected_admitted_actions": 23,
+      "initial_budget": 23
+    },
+    {
+      "admitted_actions": 24,
+      "expected_admitted_actions": 24,
+      "initial_budget": 24
+    },
+    {
+      "admitted_actions": 25,
+      "expected_admitted_actions": 25,
+      "initial_budget": 25
+    },
+    {
+      "admitted_actions": 26,
+      "expected_admitted_actions": 26,
+      "initial_budget": 26
+    },
+    {
+      "admitted_actions": 27,
+      "expected_admitted_actions": 27,
+      "initial_budget": 27
+    },
+    {
+      "admitted_actions": 28,
+      "expected_admitted_actions": 28,
+      "initial_budget": 28
+    },
+    {
+      "admitted_actions": 29,
+      "expected_admitted_actions": 29,
+      "initial_budget": 29
+    },
+    {
+      "admitted_actions": 30,
+      "expected_admitted_actions": 30,
+      "initial_budget": 30
+    },
+    {
+      "admitted_actions": 31,
+      "expected_admitted_actions": 31,
+      "initial_budget": 31
+    },
+    {
+      "admitted_actions": 32,
+      "expected_admitted_actions": 32,
+      "initial_budget": 32
+    },
+    {
+      "admitted_actions": 33,
+      "expected_admitted_actions": 33,
+      "initial_budget": 33
+    },
+    {
+      "admitted_actions": 34,
+      "expected_admitted_actions": 34,
+      "initial_budget": 34
+    },
+    {
+      "admitted_actions": 35,
+      "expected_admitted_actions": 35,
+      "initial_budget": 35
+    },
+    {
+      "admitted_actions": 36,
+      "expected_admitted_actions": 36,
+      "initial_budget": 36
+    },
+    {
+      "admitted_actions": 37,
+      "expected_admitted_actions": 37,
+      "initial_budget": 37
+    },
+    {
+      "admitted_actions": 38,
+      "expected_admitted_actions": 38,
+      "initial_budget": 38
+    },
+    {
+      "admitted_actions": 39,
+      "expected_admitted_actions": 39,
+      "initial_budget": 39
+    },
+    {
+      "admitted_actions": 40,
+      "expected_admitted_actions": 40,
+      "initial_budget": 40
+    },
+    {
+      "admitted_actions": 41,
+      "expected_admitted_actions": 41,
+      "initial_budget": 41
+    },
+    {
+      "admitted_actions": 42,
+      "expected_admitted_actions": 42,
+      "initial_budget": 42
+    },
+    {
+      "admitted_actions": 43,
+      "expected_admitted_actions": 43,
+      "initial_budget": 43
+    },
+    {
+      "admitted_actions": 44,
+      "expected_admitted_actions": 44,
+      "initial_budget": 44
+    },
+    {
+      "admitted_actions": 45,
+      "expected_admitted_actions": 45,
+      "initial_budget": 45
+    },
+    {
+      "admitted_actions": 46,
+      "expected_admitted_actions": 46,
+      "initial_budget": 46
+    },
+    {
+      "admitted_actions": 47,
+      "expected_admitted_actions": 47,
+      "initial_budget": 47
+    },
+    {
+      "admitted_actions": 48,
+      "expected_admitted_actions": 48,
+      "initial_budget": 48
+    },
+    {
+      "admitted_actions": 49,
+      "expected_admitted_actions": 49,
+      "initial_budget": 49
+    },
+    {
+      "admitted_actions": 50,
+      "expected_admitted_actions": 50,
+      "initial_budget": 50
+    },
+    {
+      "admitted_actions": 51,
+      "expected_admitted_actions": 51,
+      "initial_budget": 51
+    },
+    {
+      "admitted_actions": 52,
+      "expected_admitted_actions": 52,
+      "initial_budget": 52
+    },
+    {
+      "admitted_actions": 53,
+      "expected_admitted_actions": 53,
+      "initial_budget": 53
+    },
+    {
+      "admitted_actions": 54,
+      "expected_admitted_actions": 54,
+      "initial_budget": 54
+    },
+    {
+      "admitted_actions": 55,
+      "expected_admitted_actions": 55,
+      "initial_budget": 55
+    },
+    {
+      "admitted_actions": 56,
+      "expected_admitted_actions": 56,
+      "initial_budget": 56
+    },
+    {
+      "admitted_actions": 57,
+      "expected_admitted_actions": 57,
+      "initial_budget": 57
+    },
+    {
+      "admitted_actions": 58,
+      "expected_admitted_actions": 58,
+      "initial_budget": 58
+    },
+    {
+      "admitted_actions": 59,
+      "expected_admitted_actions": 59,
+      "initial_budget": 59
+    },
+    {
+      "admitted_actions": 60,
+      "expected_admitted_actions": 60,
+      "initial_budget": 60
+    },
+    {
+      "admitted_actions": 61,
+      "expected_admitted_actions": 61,
+      "initial_budget": 61
+    },
+    {
+      "admitted_actions": 62,
+      "expected_admitted_actions": 62,
+      "initial_budget": 62
+    },
+    {
+      "admitted_actions": 63,
+      "expected_admitted_actions": 63,
+      "initial_budget": 63
+    },
+    {
+      "admitted_actions": 64,
+      "expected_admitted_actions": 64,
+      "initial_budget": 64
+    },
+    {
+      "admitted_actions": 65,
+      "expected_admitted_actions": 65,
+      "initial_budget": 65
+    },
+    {
+      "admitted_actions": 66,
+      "expected_admitted_actions": 66,
+      "initial_budget": 66
+    },
+    {
+      "admitted_actions": 67,
+      "expected_admitted_actions": 67,
+      "initial_budget": 67
+    },
+    {
+      "admitted_actions": 68,
+      "expected_admitted_actions": 68,
+      "initial_budget": 68
+    },
+    {
+      "admitted_actions": 69,
+      "expected_admitted_actions": 69,
+      "initial_budget": 69
+    },
+    {
+      "admitted_actions": 70,
+      "expected_admitted_actions": 70,
+      "initial_budget": 70
+    },
+    {
+      "admitted_actions": 71,
+      "expected_admitted_actions": 71,
+      "initial_budget": 71
+    },
+    {
+      "admitted_actions": 72,
+      "expected_admitted_actions": 72,
+      "initial_budget": 72
+    },
+    {
+      "admitted_actions": 73,
+      "expected_admitted_actions": 73,
+      "initial_budget": 73
+    },
+    {
+      "admitted_actions": 74,
+      "expected_admitted_actions": 74,
+      "initial_budget": 74
+    },
+    {
+      "admitted_actions": 75,
+      "expected_admitted_actions": 75,
+      "initial_budget": 75
+    },
+    {
+      "admitted_actions": 76,
+      "expected_admitted_actions": 76,
+      "initial_budget": 76
+    },
+    {
+      "admitted_actions": 77,
+      "expected_admitted_actions": 77,
+      "initial_budget": 77
+    },
+    {
+      "admitted_actions": 78,
+      "expected_admitted_actions": 78,
+      "initial_budget": 78
+    },
+    {
+      "admitted_actions": 79,
+      "expected_admitted_actions": 79,
+      "initial_budget": 79
+    },
+    {
+      "admitted_actions": 80,
+      "expected_admitted_actions": 80,
+      "initial_budget": 80
+    },
+    {
+      "admitted_actions": 81,
+      "expected_admitted_actions": 81,
+      "initial_budget": 81
+    },
+    {
+      "admitted_actions": 82,
+      "expected_admitted_actions": 82,
+      "initial_budget": 82
+    },
+    {
+      "admitted_actions": 83,
+      "expected_admitted_actions": 83,
+      "initial_budget": 83
+    },
+    {
+      "admitted_actions": 84,
+      "expected_admitted_actions": 84,
+      "initial_budget": 84
+    },
+    {
+      "admitted_actions": 85,
+      "expected_admitted_actions": 85,
+      "initial_budget": 85
+    },
+    {
+      "admitted_actions": 86,
+      "expected_admitted_actions": 86,
+      "initial_budget": 86
+    },
+    {
+      "admitted_actions": 87,
+      "expected_admitted_actions": 87,
+      "initial_budget": 87
+    },
+    {
+      "admitted_actions": 88,
+      "expected_admitted_actions": 88,
+      "initial_budget": 88
+    },
+    {
+      "admitted_actions": 89,
+      "expected_admitted_actions": 89,
+      "initial_budget": 89
+    },
+    {
+      "admitted_actions": 90,
+      "expected_admitted_actions": 90,
+      "initial_budget": 90
+    },
+    {
+      "admitted_actions": 91,
+      "expected_admitted_actions": 91,
+      "initial_budget": 91
+    },
+    {
+      "admitted_actions": 92,
+      "expected_admitted_actions": 92,
+      "initial_budget": 92
+    },
+    {
+      "admitted_actions": 93,
+      "expected_admitted_actions": 93,
+      "initial_budget": 93
+    },
+    {
+      "admitted_actions": 94,
+      "expected_admitted_actions": 94,
+      "initial_budget": 94
+    },
+    {
+      "admitted_actions": 95,
+      "expected_admitted_actions": 95,
+      "initial_budget": 95
+    },
+    {
+      "admitted_actions": 96,
+      "expected_admitted_actions": 96,
+      "initial_budget": 96
+    },
+    {
+      "admitted_actions": 97,
+      "expected_admitted_actions": 97,
+      "initial_budget": 97
+    },
+    {
+      "admitted_actions": 98,
+      "expected_admitted_actions": 98,
+      "initial_budget": 98
+    },
+    {
+      "admitted_actions": 99,
+      "expected_admitted_actions": 99,
+      "initial_budget": 99
+    },
+    {
+      "admitted_actions": 100,
+      "expected_admitted_actions": 100,
+      "initial_budget": 100
+    },
+    {
+      "admitted_actions": 101,
+      "expected_admitted_actions": 101,
+      "initial_budget": 101
+    },
+    {
+      "admitted_actions": 102,
+      "expected_admitted_actions": 102,
+      "initial_budget": 102
+    },
+    {
+      "admitted_actions": 103,
+      "expected_admitted_actions": 103,
+      "initial_budget": 103
+    },
+    {
+      "admitted_actions": 104,
+      "expected_admitted_actions": 104,
+      "initial_budget": 104
+    },
+    {
+      "admitted_actions": 105,
+      "expected_admitted_actions": 105,
+      "initial_budget": 105
+    },
+    {
+      "admitted_actions": 106,
+      "expected_admitted_actions": 106,
+      "initial_budget": 106
+    },
+    {
+      "admitted_actions": 107,
+      "expected_admitted_actions": 107,
+      "initial_budget": 107
+    },
+    {
+      "admitted_actions": 108,
+      "expected_admitted_actions": 108,
+      "initial_budget": 108
+    },
+    {
+      "admitted_actions": 109,
+      "expected_admitted_actions": 109,
+      "initial_budget": 109
+    },
+    {
+      "admitted_actions": 110,
+      "expected_admitted_actions": 110,
+      "initial_budget": 110
+    },
+    {
+      "admitted_actions": 111,
+      "expected_admitted_actions": 111,
+      "initial_budget": 111
+    },
+    {
+      "admitted_actions": 112,
+      "expected_admitted_actions": 112,
+      "initial_budget": 112
+    },
+    {
+      "admitted_actions": 113,
+      "expected_admitted_actions": 113,
+      "initial_budget": 113
+    },
+    {
+      "admitted_actions": 114,
+      "expected_admitted_actions": 114,
+      "initial_budget": 114
+    },
+    {
+      "admitted_actions": 115,
+      "expected_admitted_actions": 115,
+      "initial_budget": 115
+    },
+    {
+      "admitted_actions": 116,
+      "expected_admitted_actions": 116,
+      "initial_budget": 116
+    },
+    {
+      "admitted_actions": 117,
+      "expected_admitted_actions": 117,
+      "initial_budget": 117
+    },
+    {
+      "admitted_actions": 118,
+      "expected_admitted_actions": 118,
+      "initial_budget": 118
+    },
+    {
+      "admitted_actions": 119,
+      "expected_admitted_actions": 119,
+      "initial_budget": 119
+    },
+    {
+      "admitted_actions": 120,
+      "expected_admitted_actions": 120,
+      "initial_budget": 120
+    },
+    {
+      "admitted_actions": 121,
+      "expected_admitted_actions": 121,
+      "initial_budget": 121
+    },
+    {
+      "admitted_actions": 122,
+      "expected_admitted_actions": 122,
+      "initial_budget": 122
+    },
+    {
+      "admitted_actions": 123,
+      "expected_admitted_actions": 123,
+      "initial_budget": 123
+    },
+    {
+      "admitted_actions": 124,
+      "expected_admitted_actions": 124,
+      "initial_budget": 124
+    },
+    {
+      "admitted_actions": 125,
+      "expected_admitted_actions": 125,
+      "initial_budget": 125
+    },
+    {
+      "admitted_actions": 126,
+      "expected_admitted_actions": 126,
+      "initial_budget": 126
+    },
+    {
+      "admitted_actions": 127,
+      "expected_admitted_actions": 127,
+      "initial_budget": 127
+    },
+    {
+      "admitted_actions": 128,
+      "expected_admitted_actions": 128,
+      "initial_budget": 128
+    },
+    {
+      "admitted_actions": 129,
+      "expected_admitted_actions": 129,
+      "initial_budget": 129
+    },
+    {
+      "admitted_actions": 130,
+      "expected_admitted_actions": 130,
+      "initial_budget": 130
+    },
+    {
+      "admitted_actions": 131,
+      "expected_admitted_actions": 131,
+      "initial_budget": 131
+    },
+    {
+      "admitted_actions": 132,
+      "expected_admitted_actions": 132,
+      "initial_budget": 132
+    },
+    {
+      "admitted_actions": 133,
+      "expected_admitted_actions": 133,
+      "initial_budget": 133
+    },
+    {
+      "admitted_actions": 134,
+      "expected_admitted_actions": 134,
+      "initial_budget": 134
+    },
+    {
+      "admitted_actions": 135,
+      "expected_admitted_actions": 135,
+      "initial_budget": 135
+    },
+    {
+      "admitted_actions": 136,
+      "expected_admitted_actions": 136,
+      "initial_budget": 136
+    },
+    {
+      "admitted_actions": 137,
+      "expected_admitted_actions": 137,
+      "initial_budget": 137
+    },
+    {
+      "admitted_actions": 138,
+      "expected_admitted_actions": 138,
+      "initial_budget": 138
+    },
+    {
+      "admitted_actions": 139,
+      "expected_admitted_actions": 139,
+      "initial_budget": 139
+    },
+    {
+      "admitted_actions": 140,
+      "expected_admitted_actions": 140,
+      "initial_budget": 140
+    },
+    {
+      "admitted_actions": 141,
+      "expected_admitted_actions": 141,
+      "initial_budget": 141
+    },
+    {
+      "admitted_actions": 142,
+      "expected_admitted_actions": 142,
+      "initial_budget": 142
+    },
+    {
+      "admitted_actions": 143,
+      "expected_admitted_actions": 143,
+      "initial_budget": 143
+    },
+    {
+      "admitted_actions": 144,
+      "expected_admitted_actions": 144,
+      "initial_budget": 144
+    },
+    {
+      "admitted_actions": 145,
+      "expected_admitted_actions": 145,
+      "initial_budget": 145
+    },
+    {
+      "admitted_actions": 146,
+      "expected_admitted_actions": 146,
+      "initial_budget": 146
+    },
+    {
+      "admitted_actions": 147,
+      "expected_admitted_actions": 147,
+      "initial_budget": 147
+    },
+    {
+      "admitted_actions": 148,
+      "expected_admitted_actions": 148,
+      "initial_budget": 148
+    },
+    {
+      "admitted_actions": 149,
+      "expected_admitted_actions": 149,
+      "initial_budget": 149
+    },
+    {
+      "admitted_actions": 150,
+      "expected_admitted_actions": 150,
+      "initial_budget": 150
+    },
+    {
+      "admitted_actions": 151,
+      "expected_admitted_actions": 151,
+      "initial_budget": 151
+    },
+    {
+      "admitted_actions": 152,
+      "expected_admitted_actions": 152,
+      "initial_budget": 152
+    },
+    {
+      "admitted_actions": 153,
+      "expected_admitted_actions": 153,
+      "initial_budget": 153
+    },
+    {
+      "admitted_actions": 154,
+      "expected_admitted_actions": 154,
+      "initial_budget": 154
+    },
+    {
+      "admitted_actions": 155,
+      "expected_admitted_actions": 155,
+      "initial_budget": 155
+    },
+    {
+      "admitted_actions": 156,
+      "expected_admitted_actions": 156,
+      "initial_budget": 156
+    },
+    {
+      "admitted_actions": 157,
+      "expected_admitted_actions": 157,
+      "initial_budget": 157
+    },
+    {
+      "admitted_actions": 158,
+      "expected_admitted_actions": 158,
+      "initial_budget": 158
+    },
+    {
+      "admitted_actions": 159,
+      "expected_admitted_actions": 159,
+      "initial_budget": 159
+    },
+    {
+      "admitted_actions": 160,
+      "expected_admitted_actions": 160,
+      "initial_budget": 160
+    },
+    {
+      "admitted_actions": 161,
+      "expected_admitted_actions": 161,
+      "initial_budget": 161
+    },
+    {
+      "admitted_actions": 162,
+      "expected_admitted_actions": 162,
+      "initial_budget": 162
+    },
+    {
+      "admitted_actions": 163,
+      "expected_admitted_actions": 163,
+      "initial_budget": 163
+    },
+    {
+      "admitted_actions": 164,
+      "expected_admitted_actions": 164,
+      "initial_budget": 164
+    },
+    {
+      "admitted_actions": 165,
+      "expected_admitted_actions": 165,
+      "initial_budget": 165
+    },
+    {
+      "admitted_actions": 166,
+      "expected_admitted_actions": 166,
+      "initial_budget": 166
+    },
+    {
+      "admitted_actions": 167,
+      "expected_admitted_actions": 167,
+      "initial_budget": 167
+    },
+    {
+      "admitted_actions": 168,
+      "expected_admitted_actions": 168,
+      "initial_budget": 168
+    },
+    {
+      "admitted_actions": 169,
+      "expected_admitted_actions": 169,
+      "initial_budget": 169
+    },
+    {
+      "admitted_actions": 170,
+      "expected_admitted_actions": 170,
+      "initial_budget": 170
+    },
+    {
+      "admitted_actions": 171,
+      "expected_admitted_actions": 171,
+      "initial_budget": 171
+    },
+    {
+      "admitted_actions": 172,
+      "expected_admitted_actions": 172,
+      "initial_budget": 172
+    },
+    {
+      "admitted_actions": 173,
+      "expected_admitted_actions": 173,
+      "initial_budget": 173
+    },
+    {
+      "admitted_actions": 174,
+      "expected_admitted_actions": 174,
+      "initial_budget": 174
+    },
+    {
+      "admitted_actions": 175,
+      "expected_admitted_actions": 175,
+      "initial_budget": 175
+    },
+    {
+      "admitted_actions": 176,
+      "expected_admitted_actions": 176,
+      "initial_budget": 176
+    },
+    {
+      "admitted_actions": 177,
+      "expected_admitted_actions": 177,
+      "initial_budget": 177
+    },
+    {
+      "admitted_actions": 178,
+      "expected_admitted_actions": 178,
+      "initial_budget": 178
+    },
+    {
+      "admitted_actions": 179,
+      "expected_admitted_actions": 179,
+      "initial_budget": 179
+    },
+    {
+      "admitted_actions": 180,
+      "expected_admitted_actions": 180,
+      "initial_budget": 180
+    },
+    {
+      "admitted_actions": 181,
+      "expected_admitted_actions": 181,
+      "initial_budget": 181
+    },
+    {
+      "admitted_actions": 182,
+      "expected_admitted_actions": 182,
+      "initial_budget": 182
+    },
+    {
+      "admitted_actions": 183,
+      "expected_admitted_actions": 183,
+      "initial_budget": 183
+    },
+    {
+      "admitted_actions": 184,
+      "expected_admitted_actions": 184,
+      "initial_budget": 184
+    },
+    {
+      "admitted_actions": 185,
+      "expected_admitted_actions": 185,
+      "initial_budget": 185
+    },
+    {
+      "admitted_actions": 186,
+      "expected_admitted_actions": 186,
+      "initial_budget": 186
+    },
+    {
+      "admitted_actions": 187,
+      "expected_admitted_actions": 187,
+      "initial_budget": 187
+    },
+    {
+      "admitted_actions": 188,
+      "expected_admitted_actions": 188,
+      "initial_budget": 188
+    },
+    {
+      "admitted_actions": 189,
+      "expected_admitted_actions": 189,
+      "initial_budget": 189
+    },
+    {
+      "admitted_actions": 190,
+      "expected_admitted_actions": 190,
+      "initial_budget": 190
+    },
+    {
+      "admitted_actions": 191,
+      "expected_admitted_actions": 191,
+      "initial_budget": 191
+    },
+    {
+      "admitted_actions": 192,
+      "expected_admitted_actions": 192,
+      "initial_budget": 192
+    },
+    {
+      "admitted_actions": 193,
+      "expected_admitted_actions": 193,
+      "initial_budget": 193
+    },
+    {
+      "admitted_actions": 194,
+      "expected_admitted_actions": 194,
+      "initial_budget": 194
+    },
+    {
+      "admitted_actions": 195,
+      "expected_admitted_actions": 195,
+      "initial_budget": 195
+    },
+    {
+      "admitted_actions": 196,
+      "expected_admitted_actions": 196,
+      "initial_budget": 196
+    },
+    {
+      "admitted_actions": 197,
+      "expected_admitted_actions": 197,
+      "initial_budget": 197
+    },
+    {
+      "admitted_actions": 198,
+      "expected_admitted_actions": 198,
+      "initial_budget": 198
+    },
+    {
+      "admitted_actions": 199,
+      "expected_admitted_actions": 199,
+      "initial_budget": 199
+    },
+    {
+      "admitted_actions": 200,
+      "expected_admitted_actions": 200,
+      "initial_budget": 200
+    },
+    {
+      "admitted_actions": 201,
+      "expected_admitted_actions": 201,
+      "initial_budget": 201
+    },
+    {
+      "admitted_actions": 202,
+      "expected_admitted_actions": 202,
+      "initial_budget": 202
+    },
+    {
+      "admitted_actions": 203,
+      "expected_admitted_actions": 203,
+      "initial_budget": 203
+    },
+    {
+      "admitted_actions": 204,
+      "expected_admitted_actions": 204,
+      "initial_budget": 204
+    },
+    {
+      "admitted_actions": 205,
+      "expected_admitted_actions": 205,
+      "initial_budget": 205
+    },
+    {
+      "admitted_actions": 206,
+      "expected_admitted_actions": 206,
+      "initial_budget": 206
+    },
+    {
+      "admitted_actions": 207,
+      "expected_admitted_actions": 207,
+      "initial_budget": 207
+    },
+    {
+      "admitted_actions": 208,
+      "expected_admitted_actions": 208,
+      "initial_budget": 208
+    },
+    {
+      "admitted_actions": 209,
+      "expected_admitted_actions": 209,
+      "initial_budget": 209
+    },
+    {
+      "admitted_actions": 210,
+      "expected_admitted_actions": 210,
+      "initial_budget": 210
+    },
+    {
+      "admitted_actions": 211,
+      "expected_admitted_actions": 211,
+      "initial_budget": 211
+    },
+    {
+      "admitted_actions": 212,
+      "expected_admitted_actions": 212,
+      "initial_budget": 212
+    },
+    {
+      "admitted_actions": 213,
+      "expected_admitted_actions": 213,
+      "initial_budget": 213
+    },
+    {
+      "admitted_actions": 214,
+      "expected_admitted_actions": 214,
+      "initial_budget": 214
+    },
+    {
+      "admitted_actions": 215,
+      "expected_admitted_actions": 215,
+      "initial_budget": 215
+    },
+    {
+      "admitted_actions": 216,
+      "expected_admitted_actions": 216,
+      "initial_budget": 216
+    },
+    {
+      "admitted_actions": 217,
+      "expected_admitted_actions": 217,
+      "initial_budget": 217
+    },
+    {
+      "admitted_actions": 218,
+      "expected_admitted_actions": 218,
+      "initial_budget": 218
+    },
+    {
+      "admitted_actions": 219,
+      "expected_admitted_actions": 219,
+      "initial_budget": 219
+    },
+    {
+      "admitted_actions": 220,
+      "expected_admitted_actions": 220,
+      "initial_budget": 220
+    },
+    {
+      "admitted_actions": 221,
+      "expected_admitted_actions": 221,
+      "initial_budget": 221
+    },
+    {
+      "admitted_actions": 222,
+      "expected_admitted_actions": 222,
+      "initial_budget": 222
+    },
+    {
+      "admitted_actions": 223,
+      "expected_admitted_actions": 223,
+      "initial_budget": 223
+    },
+    {
+      "admitted_actions": 224,
+      "expected_admitted_actions": 224,
+      "initial_budget": 224
+    },
+    {
+      "admitted_actions": 225,
+      "expected_admitted_actions": 225,
+      "initial_budget": 225
+    },
+    {
+      "admitted_actions": 226,
+      "expected_admitted_actions": 226,
+      "initial_budget": 226
+    },
+    {
+      "admitted_actions": 227,
+      "expected_admitted_actions": 227,
+      "initial_budget": 227
+    },
+    {
+      "admitted_actions": 228,
+      "expected_admitted_actions": 228,
+      "initial_budget": 228
+    },
+    {
+      "admitted_actions": 229,
+      "expected_admitted_actions": 229,
+      "initial_budget": 229
+    },
+    {
+      "admitted_actions": 230,
+      "expected_admitted_actions": 230,
+      "initial_budget": 230
+    },
+    {
+      "admitted_actions": 231,
+      "expected_admitted_actions": 231,
+      "initial_budget": 231
+    },
+    {
+      "admitted_actions": 232,
+      "expected_admitted_actions": 232,
+      "initial_budget": 232
+    },
+    {
+      "admitted_actions": 233,
+      "expected_admitted_actions": 233,
+      "initial_budget": 233
+    },
+    {
+      "admitted_actions": 234,
+      "expected_admitted_actions": 234,
+      "initial_budget": 234
+    },
+    {
+      "admitted_actions": 235,
+      "expected_admitted_actions": 235,
+      "initial_budget": 235
+    },
+    {
+      "admitted_actions": 236,
+      "expected_admitted_actions": 236,
+      "initial_budget": 236
+    },
+    {
+      "admitted_actions": 237,
+      "expected_admitted_actions": 237,
+      "initial_budget": 237
+    },
+    {
+      "admitted_actions": 238,
+      "expected_admitted_actions": 238,
+      "initial_budget": 238
+    },
+    {
+      "admitted_actions": 239,
+      "expected_admitted_actions": 239,
+      "initial_budget": 239
+    },
+    {
+      "admitted_actions": 240,
+      "expected_admitted_actions": 240,
+      "initial_budget": 240
+    },
+    {
+      "admitted_actions": 241,
+      "expected_admitted_actions": 241,
+      "initial_budget": 241
+    },
+    {
+      "admitted_actions": 242,
+      "expected_admitted_actions": 242,
+      "initial_budget": 242
+    },
+    {
+      "admitted_actions": 243,
+      "expected_admitted_actions": 243,
+      "initial_budget": 243
+    },
+    {
+      "admitted_actions": 244,
+      "expected_admitted_actions": 244,
+      "initial_budget": 244
+    },
+    {
+      "admitted_actions": 245,
+      "expected_admitted_actions": 245,
+      "initial_budget": 245
+    },
+    {
+      "admitted_actions": 246,
+      "expected_admitted_actions": 246,
+      "initial_budget": 246
+    },
+    {
+      "admitted_actions": 247,
+      "expected_admitted_actions": 247,
+      "initial_budget": 247
+    },
+    {
+      "admitted_actions": 248,
+      "expected_admitted_actions": 248,
+      "initial_budget": 248
+    },
+    {
+      "admitted_actions": 249,
+      "expected_admitted_actions": 249,
+      "initial_budget": 249
+    },
+    {
+      "admitted_actions": 250,
+      "expected_admitted_actions": 250,
+      "initial_budget": 250
+    },
+    {
+      "admitted_actions": 251,
+      "expected_admitted_actions": 251,
+      "initial_budget": 251
+    },
+    {
+      "admitted_actions": 252,
+      "expected_admitted_actions": 252,
+      "initial_budget": 252
+    },
+    {
+      "admitted_actions": 253,
+      "expected_admitted_actions": 253,
+      "initial_budget": 253
+    },
+    {
+      "admitted_actions": 254,
+      "expected_admitted_actions": 254,
+      "initial_budget": 254
+    },
+    {
+      "admitted_actions": 255,
+      "expected_admitted_actions": 255,
+      "initial_budget": 255
+    }
+  ],
+  "schema": "schmittformer.recurrent_governance.v1"
+}
